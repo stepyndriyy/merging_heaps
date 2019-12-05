@@ -11,13 +11,29 @@ int main() {
     for (int i = 0; i < n; ++i) {
         cin >> x;
         a.insert(x);
-        
+    }
+    cin >> m;
+    for (int i = 0; i < m; ++i) {
+        cin >> x;
+        b.insert(x);
+    }
+    a.merge(b);
+    
+    a.printDegrees();
+    cout << "------------=------------\n";
+    a.printAll2();
+    cout << "================\n";
+    
+    for (int i = 0; i < n + m; ++i) {
+        a.extractMin();
+
         a.printDegrees();
         cout << "------------=------------\n";
         a.printAll2();
         cout << "================\n";
         
     }
+
     /*
     cin >> m; 
     for (int i = 0; i < m; ++i) {
