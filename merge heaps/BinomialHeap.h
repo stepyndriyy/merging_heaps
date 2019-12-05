@@ -6,8 +6,8 @@ template<typename T>
 struct Vertex {
 public:    
     T key;
-    Vertex *left_child = nullptr;
-    Vertex *next_degree = nullptr;
+    Vertex<T> *left_child = nullptr;
+    Vertex<T> *next_degree = nullptr;
     int degree = 0;
 
     Vertex() : key(T()) {}
@@ -86,7 +86,7 @@ void printDegrees2(Vertex<T> *root) {
 }
 
 template<typename T>
-const void delete_tree(Vertex<T> *cur) {
+static   void delete_tree(Vertex<T> *cur) {
     if (cur == nullptr)
         return;
     delete_tree(cur->left_child);
@@ -96,7 +96,7 @@ const void delete_tree(Vertex<T> *cur) {
 }
 
 template<typename T>
-Vertex<T>* find_right_child(Vertex<T> *x) {
+static Vertex<T>* find_right_child(Vertex<T> *x) {
     Vertex<T> *child = x->left_child;
     if (child == nullptr) {
         return nullptr;
@@ -106,8 +106,6 @@ Vertex<T>* find_right_child(Vertex<T> *x) {
 
     return child;
 }
-
-
 
 
 template<typename T>
