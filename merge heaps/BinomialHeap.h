@@ -3,36 +3,38 @@
 #include<iostream>
 
 template<typename T>
-struct Vertex {
-public:    
-    T key;
-    Vertex<T> *left_child = nullptr;
-    Vertex<T> *next_degree = nullptr;
-    int degree = 0;
-
-    Vertex() : key(T()) {}
-    Vertex(T _key) : key(_key) {}
-    ~Vertex() {
-        delete next_degree;
-        delete left_child;
-    }
-};
-
-
-template<typename T>
 class BinomialHeap : public IHeap<T> {
 private:
-    Vertex<T> *root;
+    struct Vertex {
+    public:    
+        T key;
+        Vertex *left_child = nullptr;
+        Vertex *next_degree = nullptr;
+        int degree = 0;
 
-    BinomialHeap(Vertex<T> *_root); 
+        Vertex() : key(T()) {}
+        Vertex(T _key) : key(_key) {}
+        ~Vertex() {
+            delete next_degree;
+            delete left_child;
+        }
+    }; 
+
+    Vertex *root;
+
+    BinomialHeap(Vertex *_root); 
      
     void mergeSimilar(const BinomialHeap<T> &other);
     
-    static Vertex<T>* mergeSimilar(Vertex<T>* x, Vertex<T>* y);
+    static Vertex* mergeSimilar(Vertex* x, Vertex* y);
 
-    static void push_next_degree(Vertex<T>* &ans, Vertex<T>* next, Vertex<T>* &ans_root);
+    static void push_next_degree(Vertex* &ans, Vertex* next, Vertex* &ans_root);
 
-    void normalize();        
+    void normalize(); 
+
+    static void delete_tree(Vertex *cur);   
+
+    static Vertex* find_right_child(Vertex *x);        
 public:
     BinomialHeap();
     
@@ -49,59 +51,21 @@ public:
     void merge(IHeap<T> &other) override;
     void merge(BinomialHeap<T> &other);
 
-    void printAll2() {
-        printAll(this->root);
-    }
-
-    void printDegrees() {
-        //printHeap(root);
-        
-        Vertex<T> *begin_ = root; 
-        while (begin_ != nullptr) {
-            std::cout << begin_->degree << " " << begin_->key << " | " ;
-            begin_ = begin_->next_degree;
-        }
-        std::cout << '\n';
-        //root = begin_;
-        
-    }
 };
 
 template<typename T>
-void printAll(Vertex<T> *root) {
-    if (!root) return;
-    auto cur = root;
-    std::cout << cur->key << " ";
-    printAll(cur->left_child);
-    std::cout << "\n";
-    printAll(cur->next_degree);
-
-}
-
-template<typename T>
-void printDegrees2(Vertex<T> *root) {
-    auto begin_ = root; 
-    while (begin_ != nullptr) {
-        std::cout << begin_->degree << " " << begin_->key << " | " ;
-        begin_ = begin_->next_degree;
-    }
-    std::cout << '\n';
-    //root = begin_;
-}
-
-template<typename T>
-static void delete_tree(Vertex<T> *cur) {
+void BinomialHeap<T>::delete_tree(Vertex *cur) {
     if (cur == nullptr)
         return;
     delete_tree(cur->left_child);
-    Vertex<T> *next = cur->next_degree;
+    Vertex *next = cur->next_degree;
     delete cur;
     delete_tree(next);
 }
 
 template<typename T>
-static Vertex<T>* find_right_child(Vertex<T> *x) {
-    Vertex<T> *child = x->left_child;
+typename BinomialHeap<T>::Vertex* BinomialHeap<T>::find_right_child(Vertex *x) {
+    Vertex *child = x->left_child;
     if (child == nullptr) {
         return nullptr;
     }
@@ -112,7 +76,7 @@ static Vertex<T>* find_right_child(Vertex<T> *x) {
 }
 
 template<typename T>
-void BinomialHeap<T>::push_next_degree(Vertex<T>* &ans, Vertex<T>* next, Vertex<T>* &ans_root) {
+void BinomialHeap<T>::push_next_degree(Vertex* &ans, Vertex* next, Vertex* &ans_root) {
     if (ans == nullptr) {
         ans = next;
         ans_root = ans;
@@ -124,7 +88,7 @@ void BinomialHeap<T>::push_next_degree(Vertex<T>* &ans, Vertex<T>* next, Vertex<
 }
 
 template<typename T>
-Vertex<T>* BinomialHeap<T>::mergeSimilar(Vertex<T>* x, Vertex<T>* y) {
+typename BinomialHeap<T>::Vertex* BinomialHeap<T>::mergeSimilar(Vertex* x, Vertex* y) {
     if (x->degree != y->degree)
         return nullptr;
     if (x->key > y->key) {
@@ -133,7 +97,7 @@ Vertex<T>* BinomialHeap<T>::mergeSimilar(Vertex<T>* x, Vertex<T>* y) {
     y->next_degree = nullptr;
     x->next_degree = nullptr;
     if (x->left_child != nullptr) {
-        Vertex<T> *right_child = find_right_child(x);
+        Vertex *right_child = find_right_child(x);
         right_child->next_degree = y;
     } else {
         y->next_degree = nullptr;
@@ -146,10 +110,10 @@ Vertex<T>* BinomialHeap<T>::mergeSimilar(Vertex<T>* x, Vertex<T>* y) {
 
 template<typename T>
 void BinomialHeap<T>::merge(BinomialHeap<T> &other) {
-    Vertex<T> *cur_x = this->root;
-    Vertex<T> *cur_y = other.root;
-    Vertex<T> *ans = nullptr;
-    Vertex<T> *ans_root = nullptr;
+    Vertex *cur_x = this->root;
+    Vertex *cur_y = other.root;
+    Vertex *ans = nullptr;
+    Vertex *ans_root = nullptr;
 
     while(cur_x != nullptr && cur_y != nullptr) {
         int x_degree = cur_x->degree;
@@ -163,10 +127,10 @@ void BinomialHeap<T>::merge(BinomialHeap<T> &other) {
             cur_y = cur_y->next_degree;
         } else {
 
-            Vertex<T> *next_x = cur_x->next_degree;
-            Vertex<T> *next_y = cur_y->next_degree;
+            Vertex *next_x = cur_x->next_degree;
+            Vertex *next_y = cur_y->next_degree;
 
-            Vertex<T> *merged = mergeSimilar(cur_y, cur_x);
+            Vertex *merged = mergeSimilar(cur_y, cur_x);
             cur_x = next_x; 
             cur_y = next_y;
             push_next_degree(ans, merged, ans_root);
@@ -191,15 +155,15 @@ void BinomialHeap<T>::merge(BinomialHeap<T> &other) {
 
 template<typename T>
 void BinomialHeap<T>::normalize() {
-    Vertex<T> *cur = this->root;
-    Vertex<T>* begin = nullptr;
-    Vertex<T> *prev = nullptr;
+    Vertex *cur = this->root;
+    Vertex* begin = nullptr;
+    Vertex *prev = nullptr;
     
     while (cur != nullptr && cur->next_degree != nullptr) {   
         if (cur->degree == cur->next_degree->degree) {
-            Vertex<T> *next = cur->next_degree->next_degree;
+            Vertex *next = cur->next_degree->next_degree;
 
-            Vertex<T> *merged = mergeSimilar(cur, cur->next_degree);
+            Vertex *merged = mergeSimilar(cur, cur->next_degree);
             
             merged->next_degree = next; 
             cur = merged;
@@ -225,13 +189,13 @@ void BinomialHeap<T>::merge(IHeap<T> &other) {
 }
 
 template<typename T>
-BinomialHeap<T>::BinomialHeap(Vertex<T> *_root) : root(_root) {}
+BinomialHeap<T>::BinomialHeap(Vertex *_root) : root(_root) {}
 
 template<typename T>
 BinomialHeap<T>::BinomialHeap() : root(nullptr) {}
 
 template<typename T>
-BinomialHeap<T>::BinomialHeap(const T val) : root(new Vertex<T>(val))  {}
+BinomialHeap<T>::BinomialHeap(const T val) : root(new Vertex(val))  {}
 
 template<typename T>
 BinomialHeap<T>::~BinomialHeap() { 
@@ -250,7 +214,7 @@ T BinomialHeap<T>::getMin() {
         return T();
     }
     T min_ = this->root->key;   
-    Vertex<T> *cur = this->root;
+    Vertex *cur = this->root;
     while (cur != nullptr) {
         min_ = (cur->key < min_) ? cur->key : min_;
         cur = cur->next_degree;
@@ -263,10 +227,10 @@ T BinomialHeap<T>::extractMin() {
     if (this->root == nullptr) {
         return T();
     }
-    Vertex<T> *prev_vert = nullptr;
-    Vertex<T> *prev_min_vert = nullptr;
-    Vertex<T>* min_vert = this->root;
-    Vertex<T> *cur = this->root;
+    Vertex *prev_vert = nullptr;
+    Vertex *prev_min_vert = nullptr;
+    Vertex* min_vert = this->root;
+    Vertex *cur = this->root;
 
     while (cur != nullptr) {
         if (cur->key < min_vert->key) {
@@ -295,4 +259,3 @@ T BinomialHeap<T>::extractMin() {
     
     return answer;
 }
-
