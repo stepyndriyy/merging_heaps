@@ -1,12 +1,14 @@
 #include<iostream>
 //#include "BinomialHeap.h"
-#include "LeftistHeap.h"
+//#include "LeftistHeap.h"
+#include "SkewHeap.h"
 
 using namespace std;
 
+
 int main() {
     
-    LeftistHeap<int> a;
+    SkewHeap<int> a;
 
     
     int n; cin >> n;
@@ -16,7 +18,7 @@ int main() {
         //cout << "cur min: " << a.getMin() << '\n';
     } 
 
-    LeftistHeap<int> b;
+    SkewHeap<int> b;
 
     int m; cin >> m;
     for (int i = 0; i < m; ++i) {
