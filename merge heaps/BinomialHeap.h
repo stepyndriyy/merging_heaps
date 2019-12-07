@@ -1,6 +1,5 @@
 #pragma once
 #include "IHeap.h"
-#include<iostream>
 
 template<typename T>
 class BinomialHeap : public IHeap<T> {
@@ -23,9 +22,7 @@ private:
     Vertex *root;
 
     BinomialHeap(Vertex *_root); 
-     
-    void mergeSimilar(const BinomialHeap<T> &other);
-    
+        
     static Vertex* mergeSimilar(Vertex* x, Vertex* y);
 
     static void push_next_degree(Vertex* &ans, Vertex* next, Vertex* &ans_root);
@@ -42,7 +39,7 @@ public:
 
     ~BinomialHeap();
     
-    void insert(const T elem) override; 
+    void insert(const T &elem) override; 
     
     T getMin() override;
     
@@ -203,7 +200,7 @@ BinomialHeap<T>::~BinomialHeap() {
 }
 
 template<typename T>
-void BinomialHeap<T>::insert(const T elem) {
+void BinomialHeap<T>::insert(const T &elem) {
     BinomialHeap<T> ins(elem);
     this->merge(ins);
 }
