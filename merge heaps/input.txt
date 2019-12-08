@@ -1,0 +1,11449 @@
+AddHeap 46249
+AddHeap 30897
+Insert 1 31258
+Insert 1 22423
+AddHeap 36478
+Meld 0 1
+Insert 0 38516
+getMin 1
+Insert 2 34387
+Insert 0 12177
+Insert 1 39362
+AddHeap 28957
+ExtractMin 0
+AddHeap 37679
+Meld 1 4
+AddHeap 18378
+ExtractMin 1
+getMin 4
+ExtractMin 0
+ExtractMin 1
+AddHeap 42254
+Meld 1 3
+AddHeap 35096
+Meld 4 0
+Insert 0 37163
+Meld 0 2
+AddHeap 17523
+Meld 5 7
+ExtractMin 4
+AddHeap 12884
+getMin 7
+ExtractMin 8
+AddHeap 62330
+Meld 8 4
+ExtractMin 1
+getMin 9
+AddHeap 36004
+Insert 11 24389
+Meld 2 3
+AddHeap 21803
+Insert 8 34547
+getMin 8
+Meld 10 11
+Insert 12 21149
+Insert 12 15383
+getMin 0
+Insert 12 56241
+Insert 10 61996
+getMin 0
+AddHeap 47085
+Insert 4 32609
+Insert 12 9648
+Insert 3 51608
+AddHeap 25352
+getMin 13
+getMin 1
+Meld 2 9
+Meld 3 1
+Insert 10 1701
+Meld 14 10
+Insert 7 39397
+ExtractMin 5
+AddHeap 30449
+Insert 12 34671
+AddHeap 51251
+AddHeap 22457
+ExtractMin 5
+Meld 16 9
+getMin 8
+getMin 17
+Insert 4 60169
+Insert 11 17399
+Meld 3 8
+getMin 17
+getMin 13
+AddHeap 5914
+Meld 5 0
+AddHeap 29846
+Insert 10 26968
+Insert 11 22560
+Meld 5 14
+ExtractMin 13
+AddHeap 28378
+Meld 15 1
+getMin 4
+getMin 19
+AddHeap 45368
+ExtractMin 16
+AddHeap 26025
+getMin 15
+AddHeap 39804
+AddHeap 35303
+ExtractMin 22
+Insert 13 34013
+ExtractMin 20
+AddHeap 33010
+ExtractMin 18
+Meld 12 1
+AddHeap 28159
+getMin 12
+getMin 11
+getMin 25
+getMin 18
+AddHeap 10316
+Meld 25 0
+AddHeap 39619
+AddHeap 45807
+Meld 13 3
+AddHeap 49992
+getMin 17
+ExtractMin 6
+Meld 15 2
+getMin 4
+getMin 9
+getMin 26
+Meld 28 30
+AddHeap 5500
+Insert 13 44625
+Meld 4 19
+getMin 25
+Insert 13 26106
+getMin 29
+Insert 14 21265
+Meld 29 13
+Meld 15 4
+AddHeap 58864
+Meld 3 10
+Meld 23 17
+Insert 4 42463
+AddHeap 27218
+Insert 1 45199
+AddHeap 58546
+AddHeap 39441
+Meld 1 27
+Insert 6 32424
+Insert 27 46260
+Meld 33 25
+getMin 29
+Meld 24 15
+Meld 6 13
+Insert 3 22771
+ExtractMin 12
+getMin 11
+Insert 18 4881
+ExtractMin 21
+Insert 11 18962
+AddHeap 29881
+Meld 17 7
+ExtractMin 36
+Meld 30 15
+AddHeap 60194
+AddHeap 11392
+getMin 12
+AddHeap 19249
+AddHeap 14161
+getMin 3
+Meld 34 23
+getMin 2
+getMin 24
+ExtractMin 24
+getMin 3
+Meld 29 3
+ExtractMin 35
+ExtractMin 5
+Insert 5 43472
+Meld 19 39
+Meld 40 34
+ExtractMin 5
+Meld 24 2
+Insert 8 28233
+Meld 27 15
+ExtractMin 17
+AddHeap 27260
+getMin 14
+Insert 41 34716
+getMin 3
+Meld 13 32
+AddHeap 42848
+getMin 19
+ExtractMin 41
+Meld 21 15
+Meld 26 9
+AddHeap 36659
+getMin 27
+AddHeap 4472
+Meld 10 36
+AddHeap 7153
+AddHeap 18746
+AddHeap 48818
+getMin 9
+Insert 21 19805
+ExtractMin 12
+Insert 27 40904
+getMin 34
+getMin 2
+Meld 35 42
+Insert 7 10789
+Insert 45 20238
+Insert 45 15432
+Insert 34 49160
+Insert 23 40029
+Insert 42 21450
+getMin 15
+ExtractMin 28
+ExtractMin 23
+AddHeap 35819
+getMin 4
+AddHeap 40473
+Insert 36 3377
+Insert 49 19001
+Insert 42 26660
+ExtractMin 1
+Meld 27 22
+AddHeap 31012
+AddHeap 29545
+Meld 31 14
+AddHeap 6493
+getMin 7
+Insert 48 26377
+Meld 10 34
+AddHeap 32812
+ExtractMin 44
+AddHeap 44127
+getMin 45
+getMin 50
+getMin 15
+Meld 53 37
+Meld 16 9
+AddHeap 34318
+Meld 38 24
+AddHeap 30168
+AddHeap 38597
+ExtractMin 54
+getMin 9
+AddHeap 42703
+getMin 56
+ExtractMin 21
+AddHeap 25211
+ExtractMin 1
+AddHeap 15587
+Meld 59 54
+Meld 50 21
+AddHeap 17170
+AddHeap 50793
+getMin 26
+Insert 2 42739
+Insert 50 36907
+AddHeap 28906
+getMin 56
+ExtractMin 19
+ExtractMin 43
+getMin 54
+getMin 42
+Meld 1 31
+getMin 21
+ExtractMin 28
+AddHeap 21862
+Insert 21 27470
+Meld 29 57
+Meld 22 27
+Meld 0 56
+getMin 45
+getMin 28
+ExtractMin 50
+Meld 17 29
+Insert 17 41174
+AddHeap 45009
+AddHeap 47222
+AddHeap 19164
+AddHeap 18207
+Meld 6 28
+ExtractMin 12
+Meld 28 54
+Insert 63 25675
+Insert 60 31932
+Insert 25 39474
+ExtractMin 59
+getMin 19
+getMin 39
+Insert 43 32038
+getMin 16
+Insert 34 18668
+Insert 50 33738
+Insert 22 29205
+Insert 9 48402
+getMin 11
+ExtractMin 9
+getMin 60
+Insert 41 41264
+getMin 50
+Insert 37 31049
+Insert 5 46921
+Meld 22 56
+Meld 14 20
+ExtractMin 67
+AddHeap 4746
+ExtractMin 48
+AddHeap 21034
+getMin 18
+Insert 5 58809
+AddHeap 39417
+Meld 43 49
+ExtractMin 60
+getMin 62
+getMin 14
+Meld 24 48
+AddHeap 54916
+Insert 53 27301
+AddHeap 24827
+getMin 59
+AddHeap 42125
+Insert 47 38680
+AddHeap 31036
+Meld 25 39
+Meld 29 20
+getMin 27
+getMin 0
+Insert 21 41321
+AddHeap 36703
+getMin 37
+AddHeap 7980
+Insert 3 41340
+getMin 68
+getMin 26
+Meld 5 38
+Insert 9 20768
+ExtractMin 73
+getMin 46
+getMin 63
+AddHeap 33675
+Meld 2 12
+ExtractMin 71
+ExtractMin 0
+ExtractMin 2
+Meld 8 52
+ExtractMin 58
+AddHeap 48736
+Meld 5 12
+Insert 26 53009
+Insert 19 46340
+AddHeap 9129
+ExtractMin 62
+getMin 56
+getMin 56
+getMin 53
+getMin 72
+ExtractMin 19
+AddHeap 20349
+AddHeap 45914
+Insert 25 19515
+getMin 16
+AddHeap 52817
+getMin 82
+Insert 3 36931
+getMin 71
+getMin 34
+getMin 14
+Meld 49 83
+Meld 2 64
+Insert 44 21168
+Insert 3 32678
+Insert 24 6461
+ExtractMin 6
+getMin 13
+Insert 55 11910
+getMin 25
+Meld 3 52
+AddHeap 51144
+getMin 78
+getMin 69
+getMin 73
+AddHeap 44007
+getMin 41
+Insert 44 20974
+AddHeap 16622
+Insert 25 37929
+Meld 81 71
+AddHeap 35573
+AddHeap 20196
+Meld 74 16
+Meld 44 58
+Insert 61 49984
+Meld 31 76
+getMin 47
+Insert 3 22187
+AddHeap 30363
+ExtractMin 37
+getMin 83
+Meld 50 64
+AddHeap 42280
+AddHeap 22070
+ExtractMin 51
+Meld 57 31
+ExtractMin 69
+AddHeap 24279
+getMin 9
+Insert 18 41151
+getMin 53
+Insert 10 26233
+Insert 17 50136
+Insert 32 21453
+Insert 78 39072
+AddHeap 43694
+getMin 26
+ExtractMin 63
+AddHeap 19165
+ExtractMin 91
+ExtractMin 63
+AddHeap 20121
+Insert 73 31331
+AddHeap 49184
+getMin 44
+ExtractMin 17
+Insert 85 22850
+Meld 0 32
+getMin 86
+ExtractMin 47
+getMin 57
+ExtractMin 73
+Meld 83 69
+getMin 63
+getMin 83
+Meld 96 85
+AddHeap 28427
+AddHeap 31064
+Meld 6 72
+AddHeap 35590
+Meld 29 77
+Insert 14 10068
+AddHeap 30857
+ExtractMin 5
+Insert 56 43661
+Meld 16 30
+ExtractMin 95
+Insert 70 42143
+AddHeap 34010
+ExtractMin 100
+Meld 90 22
+AddHeap 35822
+AddHeap 27742
+Meld 38 25
+getMin 41
+getMin 70
+ExtractMin 75
+Meld 46 20
+Insert 95 42600
+getMin 14
+Insert 1 15352
+AddHeap 34009
+AddHeap 22756
+ExtractMin 10
+ExtractMin 81
+Meld 90 53
+Meld 38 43
+Insert 85 23782
+Insert 80 21903
+Meld 103 50
+ExtractMin 4
+getMin 71
+Insert 37 25033
+Insert 78 21041
+getMin 76
+Meld 21 49
+AddHeap 29365
+Insert 2 33456
+Meld 47 106
+AddHeap 11324
+Insert 73 18708
+getMin 100
+ExtractMin 74
+AddHeap 34821
+ExtractMin 44
+Meld 104 70
+getMin 65
+getMin 1
+Insert 38 43324
+Insert 55 48331
+AddHeap 4621
+AddHeap 14930
+Insert 94 61843
+Meld 47 100
+Insert 99 31588
+ExtractMin 79
+getMin 70
+ExtractMin 65
+getMin 95
+getMin 44
+Insert 83 35120
+getMin 56
+Meld 12 54
+Insert 43 36264
+ExtractMin 10
+Meld 106 96
+ExtractMin 95
+getMin 49
+ExtractMin 108
+Meld 85 54
+Insert 0 31694
+Meld 18 3
+AddHeap 33349
+ExtractMin 1
+AddHeap 7141
+ExtractMin 40
+Insert 107 22887
+Meld 74 46
+AddHeap 37697
+ExtractMin 0
+Meld 63 66
+Insert 49 23535
+Meld 44 51
+getMin 84
+Meld 107 91
+getMin 77
+ExtractMin 73
+getMin 106
+ExtractMin 106
+ExtractMin 101
+Insert 41 55177
+AddHeap 20323
+AddHeap 28464
+ExtractMin 11
+Insert 81 30097
+ExtractMin 13
+AddHeap 34982
+Insert 6 43775
+Meld 23 49
+getMin 98
+Meld 5 69
+Meld 81 99
+getMin 54
+getMin 14
+AddHeap 40622
+Insert 104 36822
+AddHeap 22400
+AddHeap 55546
+Insert 8 38999
+ExtractMin 55
+Insert 63 27613
+getMin 43
+AddHeap 43565
+getMin 76
+Meld 73 93
+ExtractMin 94
+ExtractMin 14
+Insert 26 33967
+getMin 101
+ExtractMin 55
+Insert 53 39328
+AddHeap 26239
+ExtractMin 35
+ExtractMin 23
+Insert 96 40084
+AddHeap 44457
+Meld 58 29
+AddHeap 47241
+getMin 65
+AddHeap 32199
+Insert 109 57326
+Meld 2 77
+Meld 66 1
+ExtractMin 17
+Insert 81 35757
+Meld 80 39
+ExtractMin 6
+AddHeap 31560
+Insert 39 40028
+Meld 91 95
+Meld 81 74
+getMin 70
+getMin 82
+Meld 23 85
+Meld 5 99
+Insert 67 38208
+getMin 89
+Insert 40 21309
+Insert 96 36219
+AddHeap 12874
+AddHeap 33621
+getMin 111
+getMin 72
+getMin 88
+AddHeap 50603
+ExtractMin 115
+getMin 21
+AddHeap 24660
+Insert 83 47740
+Insert 54 52846
+AddHeap 28878
+Meld 121 125
+Meld 55 77
+Insert 99 24671
+getMin 61
+getMin 110
+getMin 63
+AddHeap 35727
+Meld 33 56
+getMin 44
+getMin 119
+getMin 14
+getMin 94
+AddHeap 48951
+AddHeap 24668
+AddHeap 39760
+Insert 9 31849
+getMin 65
+AddHeap 38993
+ExtractMin 97
+ExtractMin 8
+Meld 83 103
+getMin 126
+AddHeap 45505
+AddHeap 35648
+Meld 102 33
+getMin 55
+getMin 20
+AddHeap 35841
+getMin 120
+getMin 48
+Meld 64 44
+ExtractMin 34
+getMin 68
+getMin 135
+Insert 82 19704
+Meld 100 91
+Insert 113 9732
+getMin 73
+AddHeap 35360
+AddHeap 27749
+Meld 6 32
+Insert 32 37298
+Meld 124 106
+Meld 55 61
+Meld 91 81
+Meld 128 140
+getMin 13
+getMin 5
+Meld 127 22
+Insert 4 11827
+getMin 126
+AddHeap 54791
+AddHeap 17392
+AddHeap 19958
+Insert 93 48359
+Meld 33 51
+Insert 95 41760
+Meld 54 66
+AddHeap 52026
+getMin 62
+Meld 26 12
+AddHeap 26280
+getMin 3
+AddHeap 38454
+Meld 79 22
+Insert 51 28246
+getMin 54
+Meld 6 86
+ExtractMin 102
+Insert 108 35982
+Meld 11 30
+Insert 29 25293
+ExtractMin 29
+getMin 70
+Meld 114 113
+getMin 4
+AddHeap 53379
+getMin 11
+getMin 136
+Insert 47 24375
+ExtractMin 88
+Insert 113 40118
+getMin 126
+ExtractMin 55
+ExtractMin 131
+Meld 122 39
+AddHeap 12208
+Meld 5 70
+getMin 23
+Meld 3 93
+getMin 83
+Meld 115 78
+Meld 109 121
+getMin 136
+getMin 143
+AddHeap 4676
+getMin 146
+Insert 46 61972
+Insert 88 38406
+ExtractMin 112
+AddHeap 22671
+getMin 61
+Meld 13 15
+Meld 108 59
+getMin 100
+Meld 138 132
+Insert 47 36896
+Meld 15 89
+Insert 111 56097
+ExtractMin 57
+AddHeap 18711
+ExtractMin 32
+AddHeap 26092
+getMin 147
+Insert 77 29949
+getMin 18
+Insert 104 29990
+getMin 28
+AddHeap 15529
+AddHeap 41463
+Meld 78 77
+Insert 82 39974
+ExtractMin 107
+getMin 33
+ExtractMin 137
+Insert 34 23228
+Insert 63 21602
+getMin 10
+getMin 96
+Insert 58 35669
+getMin 19
+Insert 75 26630
+Meld 62 86
+AddHeap 28628
+getMin 58
+Meld 19 63
+Insert 52 27599
+getMin 86
+AddHeap 25237
+Meld 95 23
+getMin 20
+AddHeap 31056
+ExtractMin 53
+AddHeap 20474
+getMin 129
+AddHeap 34310
+getMin 54
+Insert 106 45389
+getMin 99
+getMin 152
+getMin 7
+getMin 78
+Meld 118 141
+Insert 74 22779
+Insert 31 17445
+getMin 92
+AddHeap 29555
+ExtractMin 31
+getMin 5
+AddHeap 20317
+getMin 78
+ExtractMin 84
+Meld 159 113
+AddHeap 34864
+getMin 118
+Meld 30 135
+ExtractMin 118
+AddHeap 35978
+AddHeap 49010
+getMin 132
+Meld 123 67
+AddHeap 19424
+AddHeap 31386
+Meld 46 116
+getMin 113
+AddHeap 4692
+Meld 102 26
+Insert 153 7771
+AddHeap 28673
+Insert 156 37209
+ExtractMin 117
+AddHeap 42052
+ExtractMin 11
+Insert 139 19458
+Insert 45 22837
+Insert 139 16215
+Insert 95 17904
+AddHeap 41932
+AddHeap 7063
+Meld 119 18
+Insert 159 24387
+AddHeap 57209
+Meld 27 149
+Meld 102 111
+Meld 78 56
+Meld 87 145
+Insert 39 27560
+AddHeap 12118
+ExtractMin 115
+Insert 1 37004
+getMin 104
+AddHeap 30236
+Meld 155 150
+getMin 137
+Meld 45 135
+ExtractMin 146
+ExtractMin 55
+getMin 31
+Meld 159 50
+ExtractMin 114
+getMin 33
+Meld 153 171
+Meld 34 138
+AddHeap 28390
+AddHeap 29194
+getMin 19
+Insert 15 16101
+Meld 35 140
+getMin 113
+AddHeap 28818
+AddHeap 50216
+Insert 85 30396
+AddHeap 40934
+AddHeap 36560
+ExtractMin 41
+AddHeap 20714
+getMin 13
+Meld 12 79
+ExtractMin 158
+AddHeap 39685
+Meld 104 161
+AddHeap 37274
+Insert 87 30531
+getMin 129
+AddHeap 43883
+Insert 146 30436
+Insert 4 34769
+getMin 167
+getMin 0
+Insert 153 34389
+getMin 97
+Meld 105 173
+Insert 93 33589
+AddHeap 28806
+Insert 31 22161
+Meld 7 6
+getMin 182
+Insert 92 42964
+Meld 158 3
+AddHeap 31122
+Meld 88 85
+AddHeap 17937
+Insert 127 31976
+Meld 85 96
+Meld 38 14
+AddHeap 53210
+AddHeap 48943
+ExtractMin 31
+Meld 127 16
+Meld 162 30
+ExtractMin 156
+getMin 187
+Meld 67 51
+AddHeap 18908
+AddHeap 25630
+Insert 45 30356
+AddHeap 18537
+AddHeap 34753
+Meld 134 41
+getMin 41
+Insert 11 15308
+getMin 97
+ExtractMin 193
+Insert 26 20328
+Meld 90 169
+AddHeap 37823
+Insert 190 15282
+getMin 113
+Meld 155 44
+ExtractMin 106
+Insert 42 17044
+Insert 173 22002
+Insert 117 21723
+Insert 69 36881
+AddHeap 39453
+Meld 89 166
+ExtractMin 189
+Insert 36 53171
+AddHeap 25010
+Meld 8 147
+AddHeap 29958
+AddHeap 8823
+Meld 86 142
+Meld 86 185
+getMin 170
+getMin 60
+getMin 191
+Insert 44 25105
+Insert 192 58106
+Insert 198 33832
+Meld 136 181
+Meld 68 151
+Insert 130 8740
+AddHeap 38200
+Insert 134 40528
+getMin 67
+ExtractMin 134
+ExtractMin 2
+Meld 81 72
+getMin 34
+getMin 177
+Meld 45 83
+ExtractMin 26
+getMin 159
+getMin 38
+Meld 140 144
+AddHeap 51685
+ExtractMin 124
+AddHeap 47673
+Meld 200 84
+Insert 45 31610
+Meld 162 144
+getMin 152
+Insert 138 23599
+ExtractMin 130
+Meld 26 30
+Insert 79 34349
+ExtractMin 95
+ExtractMin 140
+Insert 54 40809
+Insert 92 63415
+AddHeap 17420
+Insert 154 43329
+AddHeap 34882
+getMin 91
+ExtractMin 165
+getMin 120
+Meld 10 71
+Meld 70 32
+getMin 108
+ExtractMin 153
+Meld 182 37
+Insert 148 31062
+Insert 17 45445
+ExtractMin 177
+Meld 106 167
+Meld 174 155
+AddHeap 46103
+ExtractMin 95
+AddHeap 27213
+ExtractMin 184
+AddHeap 36553
+getMin 11
+getMin 0
+AddHeap 18080
+Meld 165 200
+AddHeap 46682
+ExtractMin 98
+Insert 53 22878
+AddHeap 40690
+Insert 90 5959
+getMin 124
+Meld 197 76
+getMin 128
+AddHeap 41795
+Insert 64 49823
+Meld 72 151
+Meld 92 193
+Insert 129 40798
+Meld 62 61
+getMin 8
+getMin 193
+ExtractMin 160
+ExtractMin 5
+Meld 7 64
+getMin 99
+Insert 144 39277
+AddHeap 36933
+getMin 94
+Insert 161 52071
+Meld 5 111
+getMin 54
+AddHeap 46185
+ExtractMin 52
+AddHeap 33048
+Meld 175 2
+Insert 169 37368
+Insert 210 42216
+Meld 191 19
+AddHeap 47472
+ExtractMin 40
+Insert 82 7132
+ExtractMin 194
+Insert 19 33605
+ExtractMin 175
+AddHeap 29508
+AddHeap 30583
+AddHeap 22190
+getMin 94
+Insert 17 25736
+Meld 50 65
+Insert 142 28906
+Meld 15 116
+AddHeap 26796
+Insert 205 31915
+ExtractMin 82
+ExtractMin 210
+Meld 208 70
+ExtractMin 78
+getMin 149
+AddHeap 49977
+Insert 213 24061
+Insert 175 42587
+getMin 165
+Insert 211 30942
+Insert 14 37749
+getMin 214
+AddHeap 40798
+AddHeap 21713
+getMin 205
+Meld 9 115
+getMin 190
+getMin 33
+Insert 75 45309
+ExtractMin 127
+Meld 217 130
+Insert 51 51377
+AddHeap 35957
+Insert 184 43350
+getMin 39
+ExtractMin 88
+ExtractMin 169
+Meld 96 103
+Meld 39 73
+ExtractMin 54
+ExtractMin 170
+ExtractMin 191
+Meld 168 103
+Meld 217 191
+getMin 174
+Insert 215 21183
+Insert 181 13373
+Meld 116 85
+Insert 217 29818
+Insert 123 42872
+ExtractMin 156
+getMin 105
+Meld 129 202
+Insert 177 52408
+ExtractMin 207
+Insert 63 61962
+Insert 93 41509
+Meld 194 23
+ExtractMin 108
+getMin 127
+Meld 13 209
+getMin 58
+AddHeap 48364
+Insert 163 29081
+Meld 65 131
+Insert 158 39180
+Insert 17 23721
+ExtractMin 1
+Meld 56 96
+Meld 83 1
+AddHeap 12869
+Insert 10 26149
+Insert 170 32317
+AddHeap 38715
+getMin 91
+Insert 1 40914
+Meld 163 55
+Insert 62 38884
+Meld 187 153
+ExtractMin 170
+Insert 114 25988
+ExtractMin 190
+Meld 214 61
+AddHeap 35051
+getMin 77
+Insert 19 27914
+getMin 179
+Meld 150 9
+AddHeap 5733
+AddHeap 17535
+getMin 123
+ExtractMin 54
+AddHeap 20649
+Insert 167 26725
+ExtractMin 143
+ExtractMin 182
+AddHeap 12377
+Meld 201 76
+Meld 11 103
+getMin 78
+getMin 223
+AddHeap 22544
+Insert 218 50774
+Meld 110 2
+Insert 4 36545
+Meld 58 153
+Meld 31 1
+AddHeap 21959
+Insert 193 44518
+getMin 176
+Insert 75 16608
+Meld 156 20
+getMin 225
+Insert 217 15263
+getMin 85
+AddHeap 38132
+Meld 70 39
+getMin 119
+Meld 67 196
+getMin 18
+ExtractMin 40
+AddHeap 34804
+Insert 38 29922
+AddHeap 47737
+Meld 131 28
+Meld 61 94
+ExtractMin 91
+AddHeap 19863
+Insert 107 4859
+AddHeap 48243
+getMin 38
+getMin 119
+Meld 139 212
+Meld 231 100
+Insert 60 14592
+Insert 231 45409
+Insert 221 23598
+AddHeap 48726
+Meld 184 167
+AddHeap 10372
+Meld 21 171
+AddHeap 42868
+ExtractMin 95
+getMin 217
+Insert 5 37622
+AddHeap 6051
+ExtractMin 63
+Meld 119 61
+AddHeap 50094
+getMin 177
+getMin 96
+Meld 39 54
+Meld 158 205
+Insert 21 39502
+Meld 154 52
+AddHeap 54537
+Insert 226 24810
+AddHeap 50455
+Insert 147 61198
+Insert 189 9469
+getMin 25
+Insert 225 36397
+Insert 229 25163
+AddHeap 55240
+Insert 101 26599
+ExtractMin 40
+AddHeap 18351
+getMin 45
+Insert 140 28834
+AddHeap 43481
+AddHeap 40845
+AddHeap 44166
+Insert 186 30759
+Insert 56 36703
+AddHeap 44143
+getMin 203
+Meld 152 248
+Meld 52 55
+Meld 21 88
+ExtractMin 240
+getMin 223
+Insert 208 52218
+getMin 72
+ExtractMin 102
+ExtractMin 192
+Meld 112 80
+ExtractMin 42
+getMin 155
+AddHeap 12551
+Meld 243 8
+Insert 18 26832
+AddHeap 13607
+ExtractMin 214
+AddHeap 41197
+Meld 15 40
+Insert 157 33262
+Insert 249 59012
+Insert 180 53972
+ExtractMin 193
+Meld 217 76
+Insert 124 36301
+Meld 133 99
+Insert 54 25693
+getMin 88
+Insert 175 32545
+ExtractMin 75
+ExtractMin 116
+getMin 244
+AddHeap 25746
+Meld 91 196
+Meld 121 70
+getMin 78
+AddHeap 39607
+Meld 166 10
+getMin 46
+getMin 79
+getMin 61
+Meld 176 34
+Meld 193 189
+AddHeap 55770
+AddHeap 28245
+Meld 240 126
+Insert 61 44226
+ExtractMin 172
+getMin 116
+getMin 87
+getMin 213
+ExtractMin 116
+Meld 235 52
+ExtractMin 54
+Insert 230 26031
+getMin 235
+AddHeap 50329
+AddHeap 43075
+Insert 124 18834
+Insert 35 40759
+Meld 146 7
+Meld 240 159
+AddHeap 47481
+getMin 136
+getMin 206
+Insert 245 58460
+getMin 186
+AddHeap 44925
+Insert 254 52895
+getMin 101
+ExtractMin 58
+Insert 141 23802
+Insert 27 17034
+ExtractMin 164
+Meld 23 93
+AddHeap 36894
+getMin 93
+AddHeap 17726
+Meld 157 39
+Insert 90 12229
+getMin 161
+Insert 15 36852
+Insert 119 51856
+ExtractMin 179
+Insert 93 44634
+AddHeap 24708
+AddHeap 38255
+Meld 158 102
+AddHeap 20748
+ExtractMin 161
+Insert 199 10765
+Meld 48 77
+getMin 31
+Insert 203 45040
+Insert 77 24083
+AddHeap 27566
+ExtractMin 240
+getMin 250
+Insert 59 41266
+getMin 69
+Insert 104 54214
+AddHeap 28043
+Insert 226 37507
+Meld 176 229
+Meld 234 186
+Insert 242 34472
+Meld 9 163
+ExtractMin 208
+ExtractMin 178
+getMin 232
+ExtractMin 119
+Insert 261 27535
+Meld 205 226
+getMin 31
+Meld 217 238
+Insert 92 38431
+Insert 266 11151
+getMin 252
+getMin 33
+AddHeap 19866
+Insert 113 50233
+Meld 74 128
+Insert 139 53005
+getMin 231
+ExtractMin 259
+ExtractMin 168
+ExtractMin 15
+Insert 255 44654
+getMin 199
+getMin 246
+AddHeap 20686
+Meld 32 19
+Meld 31 241
+AddHeap 20893
+Meld 266 172
+Meld 118 271
+getMin 238
+ExtractMin 31
+ExtractMin 105
+ExtractMin 174
+getMin 228
+getMin 172
+AddHeap 17038
+AddHeap 41772
+AddHeap 27043
+AddHeap 17827
+AddHeap 44179
+ExtractMin 263
+ExtractMin 262
+Insert 138 32447
+getMin 48
+getMin 211
+ExtractMin 53
+getMin 202
+getMin 169
+getMin 147
+Meld 125 240
+AddHeap 59529
+Meld 165 266
+getMin 146
+ExtractMin 224
+Insert 29 27787
+Insert 168 30866
+getMin 147
+ExtractMin 193
+AddHeap 39549
+Insert 1 24723
+getMin 227
+ExtractMin 199
+ExtractMin 133
+AddHeap 39063
+ExtractMin 113
+Insert 19 37695
+Meld 53 70
+Insert 54 6450
+getMin 35
+AddHeap 26624
+Meld 21 195
+getMin 275
+ExtractMin 220
+AddHeap 56631
+ExtractMin 168
+ExtractMin 253
+Insert 94 34200
+AddHeap 38646
+getMin 134
+Meld 190 262
+ExtractMin 121
+ExtractMin 232
+Meld 163 23
+Meld 124 163
+AddHeap 39417
+AddHeap 19149
+AddHeap 39293
+AddHeap 26414
+Meld 99 141
+getMin 266
+AddHeap 17012
+Insert 52 40310
+getMin 15
+AddHeap 17961
+AddHeap 34737
+AddHeap 20703
+Insert 282 30569
+getMin 196
+getMin 34
+getMin 31
+ExtractMin 138
+Meld 72 162
+Insert 176 42283
+Meld 77 97
+AddHeap 27512
+Meld 220 148
+getMin 217
+Insert 189 19617
+Insert 212 16764
+getMin 108
+Meld 276 256
+getMin 251
+Insert 153 57763
+Meld 189 13
+getMin 232
+Meld 157 285
+AddHeap 17614
+Insert 180 29518
+AddHeap 21247
+getMin 245
+Insert 140 19767
+ExtractMin 254
+AddHeap 19730
+Meld 230 180
+ExtractMin 245
+getMin 5
+AddHeap 22274
+getMin 123
+AddHeap 40585
+Meld 145 172
+Meld 90 31
+Insert 131 15154
+Meld 31 159
+getMin 292
+ExtractMin 59
+AddHeap 4403
+getMin 35
+getMin 288
+getMin 25
+Insert 24 40075
+Meld 120 223
+Insert 92 28817
+Insert 242 34615
+AddHeap 27693
+Meld 264 242
+Meld 101 19
+Meld 232 204
+ExtractMin 124
+Insert 198 39597
+getMin 251
+getMin 71
+Meld 203 197
+getMin 280
+getMin 60
+getMin 63
+AddHeap 47898
+Insert 39 44759
+AddHeap 56445
+Insert 83 50254
+ExtractMin 157
+getMin 47
+Meld 87 227
+AddHeap 44824
+ExtractMin 289
+AddHeap 37553
+Insert 36 43853
+Meld 295 53
+Insert 18 31186
+AddHeap 35132
+Insert 277 13715
+Insert 107 50195
+Meld 298 125
+AddHeap 27815
+getMin 207
+getMin 195
+Meld 54 91
+Insert 195 46348
+Meld 53 253
+getMin 191
+AddHeap 41014
+AddHeap 37160
+Insert 154 18747
+Insert 75 38824
+AddHeap 22509
+Insert 162 48598
+getMin 84
+AddHeap 23152
+getMin 260
+ExtractMin 235
+getMin 162
+Insert 93 46214
+Meld 167 71
+AddHeap 16378
+AddHeap 7587
+getMin 256
+Meld 296 198
+ExtractMin 218
+Insert 207 50967
+Meld 221 24
+getMin 259
+getMin 16
+Insert 280 16034
+ExtractMin 104
+ExtractMin 304
+Meld 265 259
+Insert 284 34733
+AddHeap 31297
+Meld 51 112
+AddHeap 47989
+AddHeap 24174
+Insert 149 36205
+Meld 299 102
+Insert 83 44590
+Meld 137 46
+Meld 54 192
+Insert 265 41543
+Insert 112 45117
+Insert 309 53967
+Insert 72 43065
+Insert 259 25231
+Insert 151 29622
+Meld 273 307
+AddHeap 58251
+AddHeap 46434
+getMin 198
+Insert 70 28828
+Meld 229 6
+AddHeap 38814
+getMin 275
+Insert 68 28879
+AddHeap 32611
+Meld 177 160
+ExtractMin 9
+Insert 130 34286
+Meld 272 64
+Insert 119 35730
+Meld 307 62
+AddHeap 29757
+AddHeap 33305
+getMin 110
+AddHeap 41253
+Insert 68 33942
+getMin 138
+ExtractMin 129
+AddHeap 29908
+AddHeap 30169
+getMin 48
+Insert 250 47384
+ExtractMin 147
+Meld 266 236
+Meld 129 43
+AddHeap 35821
+Insert 9 34847
+getMin 207
+getMin 266
+Insert 79 40944
+Insert 99 23142
+Meld 144 38
+AddHeap 26522
+AddHeap 29722
+Meld 67 96
+AddHeap 57002
+getMin 15
+Meld 242 17
+Insert 160 28825
+Meld 148 316
+AddHeap 10761
+AddHeap 47007
+Meld 181 146
+Insert 49 38470
+AddHeap 37452
+ExtractMin 329
+Insert 55 49291
+Meld 99 40
+getMin 157
+getMin 260
+AddHeap 24158
+Insert 196 41934
+getMin 157
+ExtractMin 324
+AddHeap 23797
+Meld 98 158
+AddHeap 27482
+Insert 151 54957
+Meld 246 260
+getMin 323
+AddHeap 21419
+getMin 249
+Meld 218 233
+Insert 125 40817
+Meld 58 233
+ExtractMin 151
+Meld 109 115
+getMin 277
+ExtractMin 47
+getMin 54
+Insert 242 31393
+Meld 6 245
+AddHeap 28307
+getMin 112
+Insert 141 37160
+ExtractMin 152
+Insert 55 11649
+AddHeap 22829
+Insert 76 16970
+Insert 164 30094
+ExtractMin 274
+AddHeap 12560
+AddHeap 15231
+Meld 48 99
+Meld 112 337
+Meld 231 307
+AddHeap 24206
+Insert 193 24826
+getMin 73
+Meld 222 247
+Meld 329 231
+Insert 67 38281
+Meld 98 113
+Insert 159 30401
+Meld 157 256
+getMin 199
+ExtractMin 15
+AddHeap 61566
+AddHeap 37453
+Insert 197 16240
+getMin 283
+getMin 85
+ExtractMin 330
+getMin 81
+Insert 233 26766
+Insert 218 12831
+Insert 20 44946
+Insert 338 4906
+ExtractMin 14
+Insert 322 13610
+ExtractMin 201
+ExtractMin 92
+Meld 333 75
+Insert 129 44127
+Meld 51 80
+getMin 38
+Meld 322 69
+getMin 318
+Meld 269 321
+Insert 230 39506
+Insert 56 17925
+getMin 138
+AddHeap 25276
+Insert 70 27326
+ExtractMin 120
+AddHeap 44812
+AddHeap 29093
+ExtractMin 266
+Meld 76 101
+Meld 51 109
+getMin 178
+Insert 263 43895
+Meld 159 141
+AddHeap 34633
+Insert 187 26232
+AddHeap 36078
+Insert 279 38927
+getMin 101
+ExtractMin 232
+getMin 285
+getMin 290
+Insert 7 35099
+AddHeap 29766
+Meld 123 101
+ExtractMin 165
+Insert 244 44957
+Meld 75 120
+AddHeap 49409
+Insert 286 37761
+getMin 20
+AddHeap 25899
+getMin 249
+Insert 184 31967
+getMin 175
+getMin 334
+Meld 217 32
+Meld 220 202
+ExtractMin 188
+ExtractMin 0
+AddHeap 46035
+getMin 329
+ExtractMin 290
+Insert 119 34976
+Insert 31 34528
+ExtractMin 218
+getMin 320
+Insert 268 39400
+ExtractMin 265
+Meld 243 94
+Meld 286 275
+Meld 53 83
+Insert 148 43787
+AddHeap 44513
+Insert 81 46564
+Meld 52 338
+Meld 178 34
+Insert 130 7150
+Insert 43 56051
+getMin 71
+AddHeap 29582
+AddHeap 34401
+Insert 244 25035
+AddHeap 35219
+getMin 224
+Insert 298 50787
+Meld 130 302
+getMin 338
+AddHeap 31595
+Meld 124 350
+Meld 58 261
+AddHeap 25185
+AddHeap 33252
+Insert 330 24008
+Meld 90 252
+Insert 67 28856
+Meld 343 251
+AddHeap 18023
+getMin 217
+getMin 209
+getMin 232
+getMin 110
+Insert 237 35393
+Meld 162 196
+Insert 320 22932
+Meld 29 154
+AddHeap 9730
+Meld 15 115
+getMin 1
+AddHeap 17197
+AddHeap 61613
+Meld 211 300
+AddHeap 28492
+Meld 103 190
+Meld 346 345
+Insert 87 27982
+Insert 74 43105
+AddHeap 19905
+AddHeap 17089
+AddHeap 16750
+Insert 310 57078
+AddHeap 31867
+Meld 333 115
+AddHeap 17409
+ExtractMin 130
+getMin 169
+getMin 98
+getMin 366
+Insert 116 31437
+getMin 207
+getMin 315
+AddHeap 13890
+AddHeap 32461
+AddHeap 14124
+ExtractMin 346
+Meld 146 359
+AddHeap 59107
+getMin 252
+Meld 164 346
+Meld 345 12
+AddHeap 8954
+Meld 169 92
+Meld 153 334
+Insert 209 40577
+Meld 280 71
+getMin 88
+AddHeap 38297
+getMin 5
+Insert 55 25415
+Meld 68 117
+Meld 235 89
+getMin 360
+getMin 87
+Meld 282 26
+getMin 155
+Insert 354 20544
+AddHeap 31772
+ExtractMin 98
+Meld 36 77
+Meld 274 360
+Insert 229 38656
+AddHeap 40061
+Meld 329 54
+AddHeap 48293
+Meld 109 93
+Meld 297 183
+ExtractMin 131
+AddHeap 11760
+AddHeap 35669
+ExtractMin 376
+AddHeap 32429
+Meld 52 312
+AddHeap 55695
+AddHeap 32983
+Insert 375 23773
+ExtractMin 174
+Meld 60 82
+ExtractMin 164
+getMin 327
+ExtractMin 42
+ExtractMin 288
+getMin 237
+AddHeap 21305
+AddHeap 35408
+Meld 141 171
+getMin 101
+getMin 282
+AddHeap 33914
+Meld 317 263
+AddHeap 36426
+ExtractMin 347
+Insert 136 24002
+AddHeap 48888
+Insert 191 38261
+getMin 361
+AddHeap 32985
+AddHeap 59701
+ExtractMin 27
+getMin 67
+getMin 302
+Meld 73 383
+Insert 20 8578
+ExtractMin 208
+AddHeap 44877
+AddHeap 21075
+Insert 87 17870
+Meld 362 156
+Insert 119 40524
+AddHeap 26423
+AddHeap 28106
+Meld 170 361
+ExtractMin 86
+AddHeap 39364
+Insert 6 20989
+getMin 111
+Insert 73 20871
+Meld 269 208
+AddHeap 29454
+Meld 391 20
+AddHeap 21180
+Insert 21 50859
+Meld 28 141
+AddHeap 27138
+Insert 296 23738
+getMin 22
+AddHeap 8192
+Meld 299 128
+ExtractMin 174
+AddHeap 16356
+Insert 18 24830
+Insert 378 38049
+getMin 250
+AddHeap 26594
+getMin 138
+ExtractMin 229
+AddHeap 14204
+ExtractMin 303
+AddHeap 34954
+getMin 74
+ExtractMin 310
+getMin 60
+Meld 357 268
+getMin 316
+Insert 337 7847
+Insert 257 28100
+Insert 383 30242
+Insert 197 34779
+getMin 246
+ExtractMin 140
+AddHeap 43332
+AddHeap 35554
+getMin 163
+AddHeap 46478
+Insert 271 37964
+Meld 307 219
+Meld 192 53
+AddHeap 54541
+Insert 0 61333
+Insert 22 55477
+AddHeap 18593
+Meld 205 327
+Meld 255 43
+getMin 321
+Insert 134 47164
+Meld 59 133
+getMin 366
+ExtractMin 286
+Insert 82 23548
+Meld 205 261
+getMin 392
+Insert 390 28322
+AddHeap 19645
+Insert 265 30875
+Meld 366 395
+getMin 288
+Insert 270 23066
+getMin 162
+ExtractMin 98
+getMin 24
+ExtractMin 76
+AddHeap 43508
+ExtractMin 107
+Meld 54 71
+Insert 344 36179
+ExtractMin 403
+AddHeap 32937
+Meld 220 137
+ExtractMin 21
+getMin 214
+Insert 203 34309
+getMin 293
+ExtractMin 215
+Meld 152 264
+AddHeap 30523
+Insert 328 47282
+Meld 343 391
+ExtractMin 124
+getMin 185
+Insert 170 29614
+Insert 224 22752
+Insert 199 57827
+getMin 314
+AddHeap 29912
+Insert 77 30115
+Meld 169 6
+AddHeap 47266
+Insert 411 19061
+getMin 286
+getMin 309
+getMin 353
+ExtractMin 152
+getMin 311
+getMin 265
+getMin 131
+Meld 342 284
+Insert 176 38112
+ExtractMin 301
+getMin 68
+AddHeap 25210
+AddHeap 36131
+AddHeap 35991
+Meld 270 7
+AddHeap 35740
+getMin 298
+ExtractMin 144
+Insert 101 6454
+getMin 156
+Meld 271 157
+AddHeap 28423
+Meld 63 393
+AddHeap 35538
+ExtractMin 259
+Meld 234 342
+getMin 94
+getMin 92
+AddHeap 49307
+Meld 89 152
+AddHeap 40916
+Meld 210 354
+AddHeap 37515
+getMin 415
+getMin 375
+Insert 148 27129
+Meld 355 241
+AddHeap 24419
+getMin 122
+getMin 318
+AddHeap 24567
+AddHeap 33449
+getMin 395
+Meld 142 204
+Insert 309 25603
+ExtractMin 9
+Insert 107 56715
+Insert 308 11396
+getMin 334
+ExtractMin 119
+ExtractMin 320
+Insert 229 55446
+AddHeap 30373
+getMin 250
+ExtractMin 355
+Insert 363 25358
+Meld 369 156
+getMin 145
+AddHeap 8680
+Meld 348 1
+Insert 199 9399
+AddHeap 38253
+Meld 61 255
+AddHeap 59616
+Insert 113 37902
+Meld 223 38
+Insert 111 36642
+getMin 313
+AddHeap 34894
+Meld 104 375
+AddHeap 27114
+Insert 132 31653
+AddHeap 25947
+Insert 282 20195
+ExtractMin 164
+Meld 65 147
+getMin 235
+Insert 422 20127
+Meld 404 4
+Insert 34 40664
+Insert 38 35076
+Meld 92 295
+ExtractMin 411
+getMin 238
+Insert 361 55085
+Meld 227 209
+AddHeap 33113
+getMin 252
+Meld 342 358
+getMin 327
+ExtractMin 361
+Insert 327 42116
+getMin 324
+ExtractMin 368
+AddHeap 33199
+getMin 368
+Meld 157 431
+getMin 35
+Insert 36 42126
+AddHeap 36821
+Insert 223 35943
+ExtractMin 234
+ExtractMin 5
+ExtractMin 421
+AddHeap 16043
+Meld 333 149
+AddHeap 9531
+getMin 136
+Insert 96 20583
+getMin 381
+Insert 178 46463
+AddHeap 27183
+Meld 51 286
+Meld 290 42
+Meld 430 429
+AddHeap 47252
+ExtractMin 384
+AddHeap 14965
+Meld 272 51
+Meld 31 293
+Insert 402 51246
+ExtractMin 129
+getMin 22
+ExtractMin 392
+AddHeap 45758
+getMin 125
+Insert 223 52630
+Meld 425 258
+Meld 49 362
+Insert 227 27718
+ExtractMin 335
+Meld 93 154
+getMin 162
+Meld 211 278
+AddHeap 42402
+Meld 89 359
+Insert 177 30325
+getMin 113
+Meld 432 45
+AddHeap 47631
+AddHeap 47043
+Meld 137 189
+getMin 145
+Meld 189 240
+Insert 86 12826
+getMin 252
+Insert 295 39321
+Insert 355 59050
+AddHeap 20249
+Meld 236 55
+Insert 117 45892
+ExtractMin 294
+Meld 249 72
+AddHeap 23651
+AddHeap 24261
+Meld 88 115
+Meld 157 26
+getMin 280
+getMin 195
+getMin 365
+Insert 127 19454
+Insert 214 21694
+ExtractMin 104
+ExtractMin 81
+getMin 346
+Insert 95 34578
+Insert 158 45264
+AddHeap 20541
+getMin 202
+Insert 126 21112
+ExtractMin 197
+Insert 325 41340
+AddHeap 45066
+getMin 204
+getMin 345
+getMin 182
+Insert 318 17817
+getMin 350
+Insert 313 28285
+getMin 210
+Meld 152 117
+AddHeap 27114
+AddHeap 18297
+Meld 276 351
+AddHeap 26376
+AddHeap 17929
+AddHeap 49372
+Insert 63 31539
+Meld 209 221
+getMin 217
+getMin 401
+getMin 144
+AddHeap 10891
+getMin 407
+AddHeap 58044
+getMin 334
+Insert 132 26387
+AddHeap 17243
+ExtractMin 265
+ExtractMin 199
+Meld 329 130
+getMin 423
+AddHeap 53160
+Insert 400 60494
+AddHeap 36367
+AddHeap 46680
+Insert 298 32030
+getMin 369
+getMin 215
+Insert 420 58832
+getMin 182
+getMin 207
+Meld 279 243
+Meld 283 40
+AddHeap 32097
+AddHeap 39844
+Insert 102 25088
+Meld 255 169
+Meld 402 267
+Insert 244 46912
+getMin 339
+Insert 26 17247
+ExtractMin 207
+AddHeap 12853
+getMin 413
+AddHeap 23947
+AddHeap 18830
+AddHeap 17873
+AddHeap 41721
+Meld 188 327
+AddHeap 33628
+getMin 130
+getMin 352
+Meld 364 19
+AddHeap 35823
+Insert 237 2845
+Meld 385 372
+Insert 336 31708
+AddHeap 22590
+getMin 87
+AddHeap 38399
+getMin 311
+getMin 256
+AddHeap 7543
+AddHeap 13890
+getMin 354
+AddHeap 46162
+Meld 348 194
+Insert 415 40190
+ExtractMin 430
+Meld 119 361
+Meld 234 292
+AddHeap 19206
+getMin 372
+Insert 320 32945
+ExtractMin 428
+getMin 361
+getMin 327
+Insert 44 9429
+getMin 65
+Insert 116 46181
+ExtractMin 339
+Meld 396 401
+AddHeap 11274
+Insert 42 34102
+getMin 58
+Meld 28 127
+Meld 401 451
+ExtractMin 322
+getMin 25
+getMin 43
+Meld 454 235
+Meld 393 184
+Insert 341 44612
+ExtractMin 77
+ExtractMin 452
+Meld 323 288
+ExtractMin 95
+Insert 143 25629
+AddHeap 34030
+getMin 308
+Meld 407 264
+ExtractMin 70
+Insert 54 45569
+Insert 429 23082
+Insert 209 39856
+AddHeap 20397
+AddHeap 35520
+getMin 423
+getMin 212
+Insert 69 24239
+ExtractMin 242
+Meld 225 377
+ExtractMin 432
+Insert 416 29309
+Meld 258 333
+getMin 36
+getMin 347
+Meld 248 241
+ExtractMin 308
+Insert 183 32111
+getMin 435
+getMin 41
+getMin 76
+AddHeap 28243
+AddHeap 32249
+getMin 307
+Meld 352 230
+Insert 402 12542
+getMin 75
+Insert 24 24113
+Insert 410 48537
+getMin 383
+AddHeap 48971
+ExtractMin 305
+AddHeap 37602
+Insert 293 12603
+ExtractMin 473
+getMin 108
+ExtractMin 424
+getMin 263
+Insert 306 38164
+getMin 301
+Insert 443 38395
+ExtractMin 419
+ExtractMin 209
+Insert 472 14341
+Meld 376 475
+AddHeap 41350
+Insert 341 6568
+Meld 249 391
+AddHeap 42654
+AddHeap 27647
+Meld 316 399
+ExtractMin 199
+getMin 271
+Insert 221 28482
+AddHeap 6641
+Insert 33 30497
+ExtractMin 193
+Meld 351 170
+Meld 345 399
+ExtractMin 119
+getMin 120
+AddHeap 36892
+AddHeap 26424
+AddHeap 43318
+Meld 239 249
+Insert 405 31292
+Meld 56 435
+Meld 228 36
+Insert 179 45445
+ExtractMin 355
+Meld 478 108
+getMin 435
+getMin 80
+getMin 290
+Meld 95 375
+Meld 366 247
+AddHeap 44779
+Insert 125 40405
+getMin 211
+AddHeap 26038
+Insert 483 26674
+Insert 306 15017
+AddHeap 17720
+ExtractMin 113
+Meld 487 379
+getMin 57
+ExtractMin 132
+Insert 363 51522
+getMin 470
+Insert 268 45883
+Meld 46 399
+AddHeap 41845
+Meld 160 187
+Meld 98 83
+Insert 457 42328
+ExtractMin 381
+Insert 17 24826
+ExtractMin 380
+getMin 15
+AddHeap 12373
+getMin 284
+ExtractMin 287
+Insert 352 20430
+AddHeap 47518
+ExtractMin 103
+getMin 296
+getMin 134
+AddHeap 54193
+Insert 320 35332
+getMin 11
+Meld 67 300
+Insert 22 23422
+getMin 81
+getMin 237
+getMin 98
+ExtractMin 139
+Insert 432 50602
+getMin 221
+Meld 215 184
+AddHeap 39158
+getMin 360
+AddHeap 29664
+getMin 437
+ExtractMin 44
+Insert 416 43906
+Insert 171 57252
+AddHeap 26750
+Meld 162 11
+ExtractMin 24
+Insert 448 29335
+Meld 136 0
+Meld 318 255
+AddHeap 41348
+ExtractMin 353
+Meld 428 239
+Meld 329 217
+Meld 306 68
+ExtractMin 34
+AddHeap 18735
+getMin 142
+getMin 166
+Insert 327 16356
+getMin 481
+getMin 271
+AddHeap 29841
+Insert 481 44263
+getMin 393
+Insert 265 48289
+Meld 109 249
+Insert 404 16092
+AddHeap 52628
+AddHeap 49894
+ExtractMin 98
+getMin 365
+Insert 66 13835
+Meld 435 500
+getMin 105
+Meld 369 290
+AddHeap 31937
+AddHeap 33766
+AddHeap 39811
+Insert 157 30983
+AddHeap 30518
+getMin 162
+AddHeap 43724
+ExtractMin 480
+Meld 153 4
+ExtractMin 299
+ExtractMin 477
+AddHeap 33690
+Meld 230 383
+Insert 21 40683
+Meld 266 243
+Insert 100 27996
+getMin 125
+getMin 225
+getMin 311
+Insert 261 43637
+ExtractMin 216
+Insert 7 28231
+AddHeap 26712
+ExtractMin 472
+AddHeap 9990
+Insert 155 25681
+Insert 471 28952
+Meld 176 363
+AddHeap 10067
+getMin 18
+ExtractMin 316
+Meld 39 466
+getMin 441
+Meld 460 52
+Insert 228 11121
+getMin 207
+ExtractMin 498
+Insert 288 30910
+ExtractMin 123
+Insert 246 32110
+Insert 143 22067
+AddHeap 24796
+Insert 364 42117
+Meld 487 366
+getMin 223
+AddHeap 60676
+AddHeap 23111
+Meld 171 292
+AddHeap 41372
+getMin 342
+AddHeap 8728
+getMin 284
+Meld 305 247
+Meld 266 351
+getMin 77
+Meld 104 428
+AddHeap 28537
+AddHeap 38578
+AddHeap 42049
+Insert 476 56983
+AddHeap 38901
+ExtractMin 151
+getMin 84
+Insert 314 31314
+AddHeap 9541
+Insert 223 33040
+getMin 231
+ExtractMin 171
+Meld 366 358
+Insert 266 22715
+AddHeap 27279
+AddHeap 52612
+Insert 424 29352
+getMin 143
+ExtractMin 512
+Insert 172 47253
+getMin 144
+ExtractMin 146
+Meld 176 9
+ExtractMin 181
+Insert 355 10883
+Meld 211 427
+Insert 385 44343
+AddHeap 51970
+AddHeap 30957
+getMin 112
+Insert 392 30769
+ExtractMin 269
+AddHeap 58708
+getMin 451
+Meld 29 233
+Insert 445 52016
+Meld 1 316
+ExtractMin 86
+ExtractMin 490
+getMin 280
+AddHeap 41172
+getMin 430
+ExtractMin 434
+Meld 492 474
+AddHeap 12344
+getMin 120
+Meld 94 398
+getMin 360
+Meld 418 161
+AddHeap 46073
+Insert 485 51672
+AddHeap 49101
+AddHeap 37412
+Insert 502 9632
+AddHeap 45225
+Meld 121 298
+ExtractMin 74
+ExtractMin 58
+Insert 522 58593
+ExtractMin 291
+Meld 340 392
+Meld 198 0
+Meld 471 171
+Insert 335 11151
+ExtractMin 223
+AddHeap 31507
+AddHeap 14139
+AddHeap 2649
+ExtractMin 79
+getMin 535
+AddHeap 21486
+getMin 521
+ExtractMin 438
+getMin 152
+getMin 325
+getMin 526
+getMin 284
+Insert 387 43225
+getMin 48
+Meld 149 73
+Meld 317 244
+getMin 204
+AddHeap 40055
+Insert 154 14629
+Insert 132 47506
+getMin 120
+getMin 309
+Meld 390 218
+Insert 408 39405
+AddHeap 29900
+ExtractMin 230
+AddHeap 25956
+getMin 124
+AddHeap 23358
+Meld 152 62
+ExtractMin 389
+Meld 200 49
+ExtractMin 424
+Meld 354 146
+ExtractMin 181
+Meld 14 74
+getMin 487
+AddHeap 44069
+Meld 185 127
+Meld 118 22
+Insert 342 49138
+Meld 304 38
+AddHeap 59792
+AddHeap 46630
+getMin 59
+ExtractMin 541
+AddHeap 27211
+Insert 10 26782
+Insert 446 16327
+AddHeap 55701
+Insert 463 32218
+ExtractMin 426
+ExtractMin 212
+ExtractMin 412
+getMin 257
+Meld 101 119
+getMin 432
+getMin 546
+Meld 4 459
+getMin 61
+getMin 226
+ExtractMin 519
+Insert 289 20175
+getMin 111
+getMin 392
+Insert 364 35928
+Meld 314 71
+getMin 233
+Insert 134 9344
+Insert 174 45488
+ExtractMin 112
+getMin 398
+getMin 432
+getMin 193
+AddHeap 56381
+ExtractMin 406
+Insert 76 58021
+AddHeap 47159
+AddHeap 51132
+getMin 75
+Insert 123 22794
+Meld 242 109
+getMin 311
+Insert 203 41809
+Meld 258 424
+Meld 207 463
+AddHeap 25080
+Insert 259 15989
+Meld 343 135
+Meld 383 12
+ExtractMin 60
+ExtractMin 177
+Insert 539 48613
+getMin 490
+Insert 149 31346
+Insert 523 40906
+Insert 29 42074
+AddHeap 14538
+Insert 291 10030
+Insert 215 25771
+ExtractMin 515
+ExtractMin 378
+Meld 365 360
+AddHeap 11032
+AddHeap 16589
+AddHeap 20328
+ExtractMin 416
+getMin 156
+getMin 186
+ExtractMin 137
+Insert 552 7834
+getMin 457
+Meld 520 346
+AddHeap 11820
+Insert 107 45145
+Insert 134 35841
+getMin 452
+AddHeap 8716
+Insert 9 32029
+Insert 453 33939
+AddHeap 40006
+Insert 334 44563
+Meld 355 367
+ExtractMin 537
+AddHeap 36214
+AddHeap 30267
+Meld 463 552
+Meld 206 297
+getMin 173
+ExtractMin 105
+AddHeap 37763
+Meld 302 107
+Insert 47 36767
+Insert 260 57926
+ExtractMin 279
+ExtractMin 461
+getMin 527
+Insert 181 16993
+AddHeap 37772
+Insert 409 27191
+Insert 133 24563
+Meld 482 384
+Meld 545 206
+getMin 544
+AddHeap 29962
+Insert 311 35961
+Insert 350 53142
+Meld 161 109
+getMin 35
+Meld 508 20
+getMin 174
+AddHeap 49768
+getMin 20
+Meld 319 494
+ExtractMin 422
+getMin 534
+AddHeap 36294
+ExtractMin 136
+AddHeap 38816
+Insert 373 37736
+AddHeap 55957
+Meld 556 287
+getMin 39
+AddHeap 22876
+getMin 233
+Meld 454 218
+Insert 460 23999
+AddHeap 27034
+Meld 179 418
+getMin 174
+getMin 483
+Insert 75 43960
+AddHeap 29326
+ExtractMin 215
+ExtractMin 544
+Meld 14 224
+AddHeap 29983
+AddHeap 49497
+getMin 399
+AddHeap 13599
+getMin 567
+Meld 196 461
+Meld 393 204
+AddHeap 15268
+AddHeap 9616
+ExtractMin 559
+ExtractMin 309
+AddHeap 11418
+AddHeap 23544
+AddHeap 25177
+Meld 163 451
+AddHeap 46234
+Meld 426 554
+Insert 418 3053
+AddHeap 10191
+Meld 257 279
+Meld 38 428
+Insert 30 9167
+Meld 550 342
+Insert 522 17763
+Meld 461 318
+getMin 379
+getMin 447
+getMin 475
+ExtractMin 325
+Insert 236 22869
+ExtractMin 570
+AddHeap 39119
+Meld 187 157
+Insert 272 31264
+Meld 400 399
+ExtractMin 396
+Meld 1 513
+Meld 391 315
+ExtractMin 326
+Insert 535 51855
+AddHeap 20572
+AddHeap 36955
+ExtractMin 159
+ExtractMin 100
+Insert 510 34168
+Meld 178 422
+Insert 299 33587
+Insert 186 21879
+getMin 224
+getMin 524
+AddHeap 23745
+Insert 367 51534
+getMin 272
+AddHeap 19044
+Insert 301 13195
+AddHeap 42881
+getMin 427
+getMin 211
+AddHeap 37720
+Insert 502 22700
+Insert 109 51695
+AddHeap 10074
+ExtractMin 197
+Meld 350 336
+ExtractMin 385
+Insert 148 41457
+getMin 301
+Meld 43 473
+Meld 95 244
+getMin 362
+getMin 108
+AddHeap 33381
+getMin 101
+Meld 587 490
+getMin 229
+Insert 8 27433
+AddHeap 25472
+Insert 524 48660
+Meld 78 338
+ExtractMin 429
+getMin 275
+Meld 355 129
+Meld 467 218
+AddHeap 24018
+ExtractMin 576
+AddHeap 26244
+Insert 479 28843
+Insert 476 22446
+getMin 35
+Insert 499 61807
+Meld 202 515
+getMin 256
+getMin 131
+Insert 387 30849
+Insert 96 25654
+Meld 279 537
+getMin 232
+getMin 391
+Meld 224 487
+Meld 145 195
+AddHeap 13304
+Insert 343 34507
+Meld 327 85
+Insert 281 21997
+getMin 146
+ExtractMin 505
+Meld 285 551
+getMin 183
+AddHeap 54006
+Insert 50 48793
+AddHeap 61171
+Meld 257 158
+Insert 553 7432
+Meld 142 205
+Meld 29 107
+getMin 199
+AddHeap 30411
+Insert 452 30818
+getMin 492
+getMin 354
+AddHeap 16674
+Meld 574 18
+getMin 353
+AddHeap 36159
+getMin 78
+getMin 60
+ExtractMin 594
+ExtractMin 356
+ExtractMin 148
+ExtractMin 442
+Insert 280 23185
+getMin 436
+ExtractMin 470
+AddHeap 46449
+AddHeap 17470
+Insert 161 34391
+Insert 78 47338
+AddHeap 42412
+Meld 548 137
+Insert 167 46835
+Insert 60 22942
+Meld 450 411
+getMin 502
+ExtractMin 234
+AddHeap 35627
+AddHeap 29692
+Meld 124 540
+Meld 197 13
+AddHeap 36279
+Meld 571 121
+getMin 70
+getMin 427
+AddHeap 27067
+getMin 158
+getMin 44
+Insert 155 41831
+getMin 256
+AddHeap 33781
+Meld 0 146
+getMin 170
+ExtractMin 454
+Meld 536 17
+Meld 355 500
+Insert 509 36664
+Insert 349 44613
+AddHeap 44619
+Insert 362 38712
+AddHeap 10601
+AddHeap 9159
+AddHeap 34515
+Meld 507 585
+AddHeap 16503
+Insert 323 13097
+AddHeap 49113
+AddHeap 27352
+Insert 193 13460
+Meld 238 412
+Meld 376 247
+Insert 345 41313
+ExtractMin 612
+getMin 258
+getMin 169
+Meld 466 101
+Meld 427 449
+AddHeap 40051
+Insert 230 54980
+getMin 520
+Insert 363 27523
+Meld 516 278
+getMin 240
+Meld 424 344
+Insert 281 2014
+Insert 567 34018
+Meld 285 287
+ExtractMin 63
+Meld 264 118
+getMin 355
+getMin 433
+getMin 426
+getMin 587
+Insert 255 31802
+Insert 508 39112
+AddHeap 27314
+Insert 58 42139
+AddHeap 34469
+Meld 239 417
+getMin 66
+ExtractMin 69
+AddHeap 32945
+Insert 270 39715
+ExtractMin 328
+ExtractMin 444
+Meld 160 538
+Meld 546 392
+getMin 164
+Insert 5 46312
+getMin 477
+getMin 494
+getMin 2
+Meld 260 438
+Meld 98 169
+Meld 604 322
+getMin 280
+Insert 105 35375
+getMin 148
+Meld 427 361
+AddHeap 47051
+Meld 379 312
+ExtractMin 178
+Meld 178 32
+Insert 75 55321
+getMin 579
+Insert 476 45713
+Insert 505 46087
+AddHeap 37893
+Insert 150 29278
+getMin 128
+Insert 344 22284
+Meld 612 76
+Meld 236 265
+Meld 354 411
+Meld 420 226
+getMin 224
+Meld 37 445
+getMin 597
+getMin 159
+Meld 367 310
+ExtractMin 489
+AddHeap 44898
+getMin 100
+AddHeap 14132
+ExtractMin 280
+Meld 400 406
+ExtractMin 388
+AddHeap 13951
+AddHeap 45044
+getMin 240
+Insert 600 44515
+Insert 315 44846
+getMin 581
+getMin 409
+getMin 234
+ExtractMin 572
+getMin 593
+getMin 616
+Meld 44 225
+Meld 330 453
+getMin 511
+getMin 414
+Insert 321 50610
+getMin 15
+Meld 351 128
+Meld 496 447
+AddHeap 60594
+getMin 205
+Insert 169 22527
+getMin 124
+Insert 250 18560
+Insert 284 58838
+AddHeap 44139
+Insert 531 44083
+getMin 414
+AddHeap 22073
+AddHeap 31773
+getMin 260
+AddHeap 32034
+Insert 327 40652
+AddHeap 29307
+Meld 278 172
+getMin 528
+getMin 76
+getMin 122
+Meld 286 165
+getMin 52
+Meld 417 168
+AddHeap 29309
+AddHeap 41559
+ExtractMin 132
+getMin 220
+AddHeap 21018
+AddHeap 33260
+Insert 2 43190
+AddHeap 8404
+Insert 6 42234
+Meld 470 74
+AddHeap 17928
+Meld 465 46
+Meld 361 611
+getMin 10
+AddHeap 33449
+Insert 430 43957
+Insert 295 24263
+Insert 618 31427
+getMin 143
+getMin 246
+Meld 42 89
+Meld 414 68
+Insert 393 30912
+AddHeap 45153
+getMin 141
+Insert 407 44636
+Meld 120 185
+Insert 461 36049
+AddHeap 26470
+Insert 396 19576
+AddHeap 36446
+ExtractMin 630
+Meld 38 453
+getMin 459
+AddHeap 29296
+Meld 636 40
+AddHeap 12955
+Insert 475 40319
+AddHeap 17358
+AddHeap 35142
+ExtractMin 424
+getMin 99
+getMin 268
+Meld 127 181
+getMin 269
+AddHeap 24609
+ExtractMin 26
+Insert 194 25333
+Insert 362 46020
+Insert 432 39699
+ExtractMin 604
+Insert 199 25257
+AddHeap 25416
+Insert 86 20870
+ExtractMin 365
+Meld 246 337
+AddHeap 23615
+AddHeap 43293
+AddHeap 25918
+ExtractMin 527
+getMin 10
+ExtractMin 624
+getMin 459
+Insert 40 36770
+getMin 562
+AddHeap 45510
+Insert 633 49403
+Meld 70 325
+Insert 146 39390
+Meld 224 648
+getMin 32
+AddHeap 38236
+Insert 70 41027
+Meld 609 30
+getMin 449
+AddHeap 21669
+Insert 117 52595
+Insert 421 18272
+getMin 273
+Insert 480 39547
+getMin 325
+getMin 192
+getMin 573
+ExtractMin 631
+Insert 47 33997
+ExtractMin 427
+Meld 295 48
+ExtractMin 640
+Insert 28 4910
+AddHeap 44445
+ExtractMin 54
+Insert 425 44751
+ExtractMin 606
+AddHeap 22562
+AddHeap 51765
+AddHeap 23280
+Meld 507 315
+Insert 512 42146
+AddHeap 26425
+Meld 456 654
+ExtractMin 96
+ExtractMin 446
+Insert 441 58496
+AddHeap 48558
+AddHeap 33282
+getMin 450
+Insert 204 36945
+AddHeap 20825
+ExtractMin 414
+Meld 634 310
+getMin 91
+AddHeap 60014
+Meld 159 495
+Meld 32 111
+ExtractMin 436
+AddHeap 36356
+getMin 139
+ExtractMin 79
+Meld 135 39
+ExtractMin 546
+AddHeap 16982
+getMin 354
+Meld 189 502
+Insert 317 20951
+getMin 535
+AddHeap 16607
+AddHeap 31003
+AddHeap 21530
+ExtractMin 604
+Insert 109 23119
+AddHeap 25805
+getMin 45
+getMin 233
+Insert 50 30814
+Insert 603 29936
+getMin 251
+Meld 499 262
+AddHeap 48807
+getMin 457
+ExtractMin 293
+Insert 548 38430
+ExtractMin 587
+Insert 469 26341
+AddHeap 17170
+Insert 634 27276
+Meld 624 192
+getMin 452
+Insert 333 33076
+Meld 507 438
+getMin 65
+getMin 491
+AddHeap 20842
+getMin 530
+ExtractMin 531
+Meld 452 570
+AddHeap 50287
+Meld 318 44
+Meld 232 258
+getMin 448
+Meld 619 229
+AddHeap 20374
+ExtractMin 512
+AddHeap 9204
+AddHeap 46856
+Meld 282 208
+Insert 491 37901
+Meld 409 236
+AddHeap 32039
+Insert 622 5264
+getMin 516
+AddHeap 40818
+getMin 618
+Meld 587 531
+Meld 369 46
+getMin 602
+getMin 3
+AddHeap 59545
+Insert 475 28874
+getMin 65
+getMin 552
+Meld 521 562
+Insert 24 30987
+Meld 556 533
+ExtractMin 285
+Meld 483 460
+getMin 98
+Insert 63 24282
+Insert 407 38011
+Meld 0 127
+Insert 287 34860
+getMin 664
+Meld 455 385
+Insert 287 21560
+Insert 400 11560
+getMin 78
+getMin 53
+ExtractMin 402
+AddHeap 28062
+getMin 215
+AddHeap 39307
+Insert 588 54651
+getMin 458
+ExtractMin 426
+AddHeap 37315
+Meld 590 204
+getMin 309
+Meld 68 660
+ExtractMin 75
+ExtractMin 420
+Meld 502 355
+AddHeap 47141
+Insert 449 24928
+AddHeap 36191
+AddHeap 19512
+Meld 198 468
+Meld 260 72
+Insert 471 44081
+AddHeap 53043
+Meld 22 354
+Meld 470 573
+AddHeap 22838
+AddHeap 14394
+ExtractMin 643
+AddHeap 5658
+Insert 435 49249
+getMin 27
+Insert 394 31737
+ExtractMin 569
+Insert 13 39047
+ExtractMin 614
+Meld 129 596
+Meld 437 304
+Insert 554 36992
+AddHeap 17992
+Insert 362 38358
+Insert 622 31631
+Meld 7 367
+Meld 539 8
+Insert 169 26664
+Insert 130 27749
+AddHeap 35941
+Insert 18 40671
+AddHeap 31964
+Meld 20 96
+AddHeap 38288
+getMin 367
+Insert 257 40863
+ExtractMin 144
+getMin 432
+Meld 542 23
+Insert 122 21739
+AddHeap 30164
+getMin 236
+AddHeap 31332
+Meld 668 499
+getMin 30
+getMin 11
+AddHeap 43637
+AddHeap 35478
+getMin 513
+ExtractMin 404
+Insert 169 28246
+Meld 85 101
+Insert 611 45917
+getMin 88
+getMin 689
+AddHeap 35185
+Meld 211 77
+ExtractMin 682
+Meld 242 103
+getMin 245
+getMin 523
+Insert 209 44108
+Insert 541 32278
+getMin 211
+getMin 634
+ExtractMin 496
+AddHeap 17449
+Meld 107 462
+Meld 3 440
+Insert 220 49952
+ExtractMin 627
+Meld 174 302
+ExtractMin 24
+Insert 653 37322
+ExtractMin 7
+ExtractMin 662
+getMin 74
+ExtractMin 344
+Meld 567 205
+getMin 242
+getMin 219
+Insert 8 37117
+Insert 93 40146
+getMin 114
+Insert 123 12026
+Meld 91 298
+Meld 76 35
+AddHeap 30424
+AddHeap 32593
+AddHeap 23470
+getMin 308
+getMin 553
+Insert 520 45130
+getMin 504
+AddHeap 42286
+ExtractMin 400
+Insert 389 56383
+AddHeap 35286
+Insert 117 4843
+getMin 146
+getMin 522
+getMin 421
+Insert 309 37274
+Insert 372 29223
+Insert 39 51498
+getMin 448
+ExtractMin 670
+Insert 213 8430
+Meld 611 352
+Insert 387 40450
+Meld 627 370
+Meld 267 75
+getMin 383
+getMin 656
+AddHeap 40106
+AddHeap 36986
+AddHeap 30596
+getMin 60
+AddHeap 33206
+getMin 684
+Insert 176 55109
+getMin 193
+AddHeap 60946
+getMin 417
+AddHeap 32969
+AddHeap 33634
+ExtractMin 132
+Insert 107 44223
+Meld 680 505
+getMin 569
+Insert 518 54685
+getMin 388
+ExtractMin 450
+Insert 490 36261
+Meld 92 421
+getMin 483
+Meld 355 41
+Insert 549 33844
+ExtractMin 199
+AddHeap 20081
+Meld 369 59
+Insert 177 15543
+Insert 560 24931
+getMin 137
+Insert 258 41166
+Insert 56 15635
+Meld 370 617
+AddHeap 33287
+getMin 440
+Meld 45 400
+getMin 223
+Insert 233 26790
+AddHeap 29591
+getMin 215
+AddHeap 18662
+getMin 83
+Insert 549 47986
+AddHeap 21292
+getMin 544
+getMin 12
+Meld 295 280
+Meld 614 140
+getMin 75
+Meld 173 323
+Meld 15 670
+AddHeap 25685
+AddHeap 40028
+getMin 126
+getMin 502
+Insert 193 35792
+AddHeap 24327
+Meld 72 301
+Insert 251 61367
+Insert 10 24621
+AddHeap 38586
+Meld 298 69
+Insert 453 35062
+Insert 147 44132
+getMin 337
+AddHeap 43076
+Meld 570 141
+Insert 411 24786
+Meld 19 412
+Meld 212 229
+AddHeap 52152
+Meld 371 462
+getMin 539
+AddHeap 35207
+getMin 585
+ExtractMin 86
+getMin 271
+AddHeap 41256
+Meld 378 694
+Insert 603 48989
+AddHeap 53063
+Meld 79 610
+Meld 287 49
+Insert 476 35877
+AddHeap 27514
+getMin 424
+ExtractMin 123
+ExtractMin 110
+Meld 463 675
+Insert 142 54537
+AddHeap 30524
+ExtractMin 497
+AddHeap 27841
+AddHeap 23785
+Insert 138 34327
+AddHeap 26761
+getMin 233
+getMin 275
+Insert 117 47741
+AddHeap 39899
+ExtractMin 696
+Meld 682 574
+Insert 457 39839
+ExtractMin 713
+AddHeap 44144
+Insert 16 22813
+getMin 258
+Insert 646 46585
+Meld 670 500
+getMin 109
+getMin 679
+Meld 656 643
+Insert 294 45098
+Insert 1 32037
+Meld 611 679
+Insert 98 18830
+AddHeap 28708
+Insert 288 44887
+AddHeap 21403
+Insert 464 52649
+Meld 697 558
+Meld 42 519
+Insert 197 35764
+getMin 101
+AddHeap 39859
+Meld 169 289
+getMin 573
+AddHeap 41784
+Insert 218 28653
+Meld 538 330
+getMin 556
+AddHeap 11675
+Insert 255 62829
+getMin 179
+getMin 248
+AddHeap 40035
+getMin 245
+ExtractMin 441
+AddHeap 34040
+ExtractMin 731
+getMin 107
+getMin 574
+getMin 340
+ExtractMin 480
+Meld 672 337
+getMin 652
+Meld 89 417
+AddHeap 42227
+ExtractMin 13
+Insert 573 31981
+Meld 143 179
+Insert 85 34545
+ExtractMin 443
+Meld 490 654
+Meld 585 56
+Meld 115 352
+Meld 3 122
+getMin 162
+getMin 463
+Meld 659 604
+Meld 443 178
+Insert 5 31698
+Insert 448 32410
+Insert 411 34273
+getMin 240
+AddHeap 45911
+ExtractMin 102
+Insert 622 53005
+AddHeap 27484
+ExtractMin 716
+ExtractMin 199
+Insert 647 52081
+getMin 531
+ExtractMin 266
+AddHeap 7485
+getMin 494
+AddHeap 45044
+ExtractMin 550
+Insert 161 28931
+ExtractMin 144
+getMin 522
+AddHeap 31730
+Insert 710 40242
+AddHeap 43485
+Insert 478 44823
+getMin 589
+Insert 140 30827
+ExtractMin 329
+Insert 417 11738
+getMin 429
+AddHeap 26289
+getMin 407
+AddHeap 43145
+Meld 571 395
+ExtractMin 478
+AddHeap 45948
+Insert 159 55571
+Meld 142 321
+Meld 157 729
+getMin 722
+Meld 483 351
+Insert 498 32717
+Insert 699 24299
+ExtractMin 538
+getMin 226
+Insert 257 45027
+AddHeap 28858
+Insert 554 34621
+Insert 417 29586
+getMin 244
+ExtractMin 340
+Insert 229 23794
+ExtractMin 623
+AddHeap 15811
+AddHeap 43062
+AddHeap 53378
+Insert 508 28302
+Meld 265 549
+getMin 299
+Insert 424 40018
+Meld 8 236
+getMin 271
+getMin 283
+Insert 688 63478
+Insert 227 20011
+Insert 183 48640
+getMin 169
+getMin 328
+AddHeap 34488
+Insert 353 40806
+Insert 137 27878
+getMin 229
+Insert 449 34542
+ExtractMin 529
+Meld 604 710
+getMin 77
+AddHeap 35502
+Meld 57 622
+AddHeap 46304
+Meld 44 332
+getMin 541
+AddHeap 19186
+Insert 1 27107
+ExtractMin 635
+Meld 620 186
+ExtractMin 653
+getMin 258
+getMin 268
+getMin 94
+AddHeap 25968
+Insert 609 14863
+AddHeap 29443
+Insert 93 26847
+AddHeap 45747
+getMin 383
+getMin 247
+Meld 406 438
+AddHeap 33227
+AddHeap 20235
+AddHeap 10382
+Insert 410 35462
+getMin 109
+AddHeap 35704
+ExtractMin 408
+AddHeap 36095
+AddHeap 27934
+AddHeap 6153
+ExtractMin 294
+ExtractMin 567
+AddHeap 18527
+Insert 673 47887
+getMin 146
+getMin 542
+ExtractMin 452
+getMin 671
+ExtractMin 268
+AddHeap 34774
+getMin 152
+ExtractMin 752
+Insert 170 19018
+getMin 724
+getMin 18
+AddHeap 32615
+Insert 753 42872
+AddHeap 22430
+Meld 760 756
+getMin 98
+getMin 625
+getMin 279
+ExtractMin 592
+ExtractMin 407
+Insert 713 32774
+AddHeap 42492
+Meld 745 728
+Meld 18 106
+Insert 2 32955
+Meld 753 571
+Meld 23 618
+getMin 528
+getMin 375
+Meld 36 99
+Insert 757 27537
+ExtractMin 125
+AddHeap 12137
+ExtractMin 491
+Insert 713 28556
+AddHeap 31434
+getMin 67
+Insert 753 41337
+AddHeap 23483
+AddHeap 30962
+Insert 277 11741
+ExtractMin 691
+Meld 304 514
+Meld 221 290
+ExtractMin 749
+ExtractMin 258
+ExtractMin 503
+AddHeap 21645
+ExtractMin 274
+getMin 185
+Insert 466 8829
+getMin 114
+Meld 149 315
+getMin 473
+AddHeap 13352
+Insert 407 32736
+Insert 34 52091
+AddHeap 24586
+AddHeap 46661
+Insert 167 43101
+getMin 115
+Insert 122 13341
+AddHeap 21426
+getMin 456
+Meld 277 574
+getMin 130
+AddHeap 27273
+Meld 626 6
+AddHeap 46022
+Meld 459 78
+AddHeap 25692
+ExtractMin 758
+ExtractMin 446
+getMin 581
+Insert 718 54033
+getMin 178
+Meld 3 48
+getMin 705
+Meld 665 399
+AddHeap 55325
+AddHeap 27985
+AddHeap 41869
+Meld 548 418
+Meld 116 206
+AddHeap 31597
+Insert 69 36137
+getMin 656
+getMin 405
+ExtractMin 153
+Meld 2 77
+getMin 687
+Meld 536 769
+Insert 310 32782
+ExtractMin 602
+Insert 34 58978
+Insert 689 51212
+Meld 741 528
+ExtractMin 416
+Insert 398 37700
+getMin 577
+getMin 689
+Insert 399 1395
+Insert 312 44724
+Insert 219 61049
+getMin 337
+ExtractMin 283
+Insert 331 34617
+ExtractMin 633
+Meld 308 249
+Meld 433 479
+ExtractMin 726
+AddHeap 25030
+AddHeap 20285
+AddHeap 29360
+Insert 91 31290
+getMin 205
+Insert 518 49352
+ExtractMin 125
+getMin 10
+getMin 447
+AddHeap 24313
+getMin 136
+Insert 318 32338
+Meld 171 434
+Insert 454 54034
+AddHeap 22006
+AddHeap 29127
+getMin 340
+getMin 275
+Meld 623 745
+getMin 211
+ExtractMin 553
+AddHeap 37459
+Meld 263 129
+ExtractMin 374
+getMin 252
+Insert 102 27039
+ExtractMin 511
+ExtractMin 220
+Insert 592 34822
+AddHeap 47645
+getMin 691
+AddHeap 46804
+Meld 122 793
+getMin 504
+Meld 86 603
+getMin 216
+getMin 675
+AddHeap 39147
+ExtractMin 723
+Insert 610 42922
+AddHeap 22127
+Meld 238 35
+Insert 484 52205
+AddHeap 41973
+Insert 101 16033
+ExtractMin 767
+Meld 91 382
+AddHeap 30227
+ExtractMin 518
+Meld 610 220
+AddHeap 32625
+ExtractMin 0
+AddHeap 38390
+Meld 732 773
+Meld 307 113
+ExtractMin 254
+Meld 354 268
+Meld 105 164
+getMin 130
+getMin 304
+Insert 414 22353
+Insert 49 40255
+getMin 93
+getMin 195
+Insert 91 36886
+AddHeap 27493
+Meld 382 113
+Insert 784 817
+AddHeap 34454
+AddHeap 42118
+getMin 750
+Meld 304 569
+Meld 617 529
+ExtractMin 795
+ExtractMin 228
+Insert 106 31286
+getMin 317
+Insert 755 31466
+Insert 45 52778
+AddHeap 29111
+getMin 103
+AddHeap 28249
+Meld 201 283
+AddHeap 54515
+Insert 752 32555
+Insert 594 48430
+getMin 230
+Insert 98 19225
+AddHeap 21185
+Meld 454 211
+getMin 314
+Insert 614 40673
+Insert 486 37432
+getMin 336
+ExtractMin 335
+ExtractMin 638
+getMin 426
+AddHeap 35470
+getMin 198
+AddHeap 24722
+Meld 642 12
+Meld 693 583
+getMin 469
+Meld 23 520
+ExtractMin 736
+Meld 689 535
+Insert 140 53352
+AddHeap 35592
+Meld 209 673
+AddHeap 44954
+ExtractMin 616
+ExtractMin 8
+Meld 184 531
+Meld 194 342
+AddHeap 23668
+Insert 781 38075
+AddHeap 40952
+getMin 519
+ExtractMin 130
+ExtractMin 791
+getMin 551
+Insert 0 58583
+ExtractMin 230
+AddHeap 37032
+Meld 760 322
+Meld 626 779
+AddHeap 56673
+getMin 475
+Insert 330 26063
+Meld 4 73
+Meld 527 761
+ExtractMin 229
+AddHeap 18254
+AddHeap 46982
+Insert 156 24029
+ExtractMin 218
+Insert 699 35845
+AddHeap 48264
+getMin 22
+Meld 191 110
+Insert 628 42420
+Meld 683 70
+AddHeap 45539
+getMin 265
+AddHeap 47071
+Insert 91 26838
+ExtractMin 677
+AddHeap 6595
+Meld 597 790
+AddHeap 27056
+Meld 234 29
+getMin 534
+AddHeap 39362
+Insert 202 22248
+Insert 472 44153
+Meld 552 126
+Meld 410 141
+Insert 286 32214
+getMin 147
+Meld 54 17
+Insert 619 28760
+Meld 441 544
+getMin 81
+Insert 81 35301
+ExtractMin 209
+getMin 273
+ExtractMin 370
+getMin 283
+getMin 342
+Meld 494 48
+Insert 225 21269
+Meld 219 189
+Meld 517 735
+Insert 42 34961
+AddHeap 26016
+ExtractMin 405
+Meld 37 267
+Meld 812 731
+AddHeap 32076
+AddHeap 21843
+AddHeap 31637
+Insert 250 33549
+Meld 248 665
+getMin 493
+getMin 356
+AddHeap 9795
+Insert 104 37043
+AddHeap 35768
+Insert 89 25439
+getMin 176
+AddHeap 39769
+getMin 144
+Meld 337 344
+getMin 315
+Meld 746 291
+Meld 565 629
+Insert 232 43226
+Meld 41 328
+AddHeap 41434
+AddHeap 25775
+getMin 754
+Insert 240 42590
+Insert 526 31351
+Meld 785 48
+Insert 349 36589
+Insert 557 34874
+ExtractMin 18
+getMin 738
+AddHeap 32034
+Meld 709 312
+Meld 370 656
+AddHeap 19411
+Insert 698 38968
+AddHeap 31625
+AddHeap 20884
+Meld 404 147
+Meld 744 0
+getMin 96
+AddHeap 30638
+Insert 459 43667
+AddHeap 24906
+Insert 829 55034
+getMin 351
+ExtractMin 306
+getMin 811
+Insert 332 24563
+Insert 359 7852
+Meld 220 117
+Insert 383 19293
+getMin 789
+ExtractMin 760
+getMin 7
+ExtractMin 264
+ExtractMin 832
+getMin 155
+getMin 154
+Insert 196 20088
+Meld 481 4
+Meld 272 249
+Insert 240 37599
+Insert 6 52397
+AddHeap 31189
+getMin 724
+getMin 741
+getMin 673
+ExtractMin 598
+Insert 501 42764
+Meld 757 184
+getMin 446
+getMin 194
+AddHeap 14636
+Meld 212 377
+getMin 169
+getMin 45
+Insert 692 12601
+Insert 601 36464
+ExtractMin 209
+Meld 748 731
+Insert 407 24963
+Meld 117 14
+getMin 235
+getMin 733
+Insert 227 43769
+AddHeap 41824
+AddHeap 60043
+Meld 56 550
+Insert 747 51765
+getMin 754
+Meld 167 268
+AddHeap 54677
+Insert 57 11908
+Insert 363 33508
+AddHeap 37868
+getMin 692
+Insert 754 46684
+Meld 750 841
+Insert 485 2558
+AddHeap 18020
+getMin 91
+Meld 273 97
+ExtractMin 610
+AddHeap 46421
+getMin 393
+getMin 91
+Meld 745 161
+getMin 319
+getMin 66
+Meld 340 237
+getMin 547
+ExtractMin 222
+ExtractMin 72
+Insert 70 55261
+Meld 611 793
+Insert 88 24932
+ExtractMin 409
+Insert 616 45704
+AddHeap 42158
+AddHeap 38049
+Insert 175 39229
+Meld 487 753
+getMin 561
+AddHeap 38545
+AddHeap 53218
+getMin 439
+getMin 271
+ExtractMin 661
+Insert 133 37006
+Insert 522 39273
+ExtractMin 844
+Meld 24 784
+Meld 435 222
+AddHeap 38089
+Meld 7 84
+AddHeap 6192
+AddHeap 40827
+ExtractMin 695
+Insert 128 28115
+AddHeap 43546
+Meld 572 180
+Meld 361 476
+Meld 370 677
+ExtractMin 807
+Insert 203 30857
+AddHeap 34305
+Insert 545 23493
+getMin 26
+AddHeap 35891
+AddHeap 4514
+AddHeap 62657
+AddHeap 50773
+Insert 509 59500
+AddHeap 22184
+getMin 269
+Meld 350 288
+AddHeap 48661
+getMin 363
+AddHeap 48897
+AddHeap 46923
+Insert 557 26295
+AddHeap 60089
+AddHeap 44702
+AddHeap 48645
+ExtractMin 469
+Insert 679 28449
+AddHeap 47019
+Insert 563 32366
+ExtractMin 437
+getMin 774
+getMin 261
+AddHeap 29850
+ExtractMin 689
+Insert 828 28694
+Insert 456 22461
+AddHeap 11029
+ExtractMin 623
+Meld 177 201
+Meld 388 620
+Meld 811 329
+AddHeap 33291
+AddHeap 18386
+AddHeap 30413
+ExtractMin 402
+AddHeap 48486
+Meld 593 345
+getMin 18
+Insert 145 57777
+Insert 40 25069
+Meld 566 480
+Meld 172 754
+ExtractMin 667
+AddHeap 41095
+Meld 541 620
+AddHeap 32135
+ExtractMin 742
+Insert 720 32223
+Meld 72 232
+Meld 297 124
+Meld 21 759
+getMin 274
+AddHeap 17938
+Meld 282 868
+Meld 508 553
+getMin 246
+getMin 207
+ExtractMin 647
+ExtractMin 123
+AddHeap 30784
+Meld 227 751
+Insert 564 36053
+getMin 105
+ExtractMin 623
+getMin 532
+ExtractMin 277
+getMin 195
+Meld 244 718
+getMin 565
+Insert 64 61948
+Insert 66 26194
+getMin 778
+Insert 552 44946
+ExtractMin 733
+Insert 49 3242
+getMin 607
+getMin 445
+AddHeap 30954
+getMin 507
+Insert 565 53782
+Meld 682 688
+AddHeap 52023
+getMin 314
+AddHeap 44948
+Meld 788 580
+getMin 416
+AddHeap 6881
+Meld 746 146
+Meld 255 127
+Meld 231 676
+Meld 474 3
+Meld 72 459
+ExtractMin 780
+Insert 58 45697
+getMin 560
+AddHeap 26664
+AddHeap 36688
+Insert 648 45513
+Insert 700 55500
+AddHeap 33675
+Insert 161 18324
+Meld 634 601
+Meld 773 154
+AddHeap 40366
+AddHeap 48977
+Insert 201 30827
+Meld 105 57
+Insert 232 32151
+getMin 397
+Meld 426 116
+ExtractMin 748
+getMin 279
+AddHeap 18021
+ExtractMin 449
+Insert 512 38134
+Insert 555 46221
+getMin 226
+ExtractMin 432
+getMin 678
+Meld 444 561
+ExtractMin 169
+AddHeap 42214
+Insert 704 34521
+getMin 865
+Insert 16 21547
+getMin 376
+AddHeap 31231
+Insert 708 23092
+Meld 713 454
+getMin 376
+Insert 482 38637
+Meld 397 535
+Insert 200 9222
+AddHeap 54977
+Insert 114 34899
+Meld 347 131
+Insert 791 41132
+Insert 407 31777
+ExtractMin 348
+getMin 503
+Insert 481 27528
+ExtractMin 58
+ExtractMin 874
+getMin 872
+AddHeap 54243
+AddHeap 22028
+getMin 29
+getMin 674
+Insert 142 56353
+Insert 311 19817
+Insert 393 17848
+ExtractMin 627
+Meld 611 591
+AddHeap 17017
+AddHeap 33864
+getMin 639
+Meld 91 304
+getMin 588
+AddHeap 40458
+AddHeap 47984
+Insert 655 56044
+Insert 520 56961
+getMin 200
+Insert 557 32189
+getMin 83
+AddHeap 10383
+Meld 612 525
+Meld 205 696
+Insert 122 49077
+AddHeap 23524
+Meld 204 429
+Meld 478 790
+Meld 252 197
+Meld 591 115
+Insert 204 41678
+ExtractMin 831
+getMin 541
+Meld 352 483
+getMin 303
+getMin 599
+Meld 118 746
+Meld 370 877
+AddHeap 4382
+AddHeap 50735
+Insert 363 29349
+Insert 63 24115
+ExtractMin 145
+Meld 267 557
+AddHeap 17707
+Insert 747 52674
+Insert 873 24933
+getMin 25
+Meld 762 619
+Insert 774 27173
+Insert 556 20687
+getMin 649
+AddHeap 23536
+getMin 855
+Insert 783 30560
+Insert 443 17941
+Insert 360 13048
+AddHeap 26269
+ExtractMin 717
+Insert 0 36358
+getMin 835
+AddHeap 21074
+ExtractMin 633
+Insert 307 57325
+Insert 50 15791
+Insert 261 24525
+ExtractMin 697
+Insert 598 12365
+getMin 162
+getMin 630
+AddHeap 41066
+getMin 705
+getMin 625
+getMin 549
+AddHeap 35506
+AddHeap 46593
+Insert 350 47143
+Meld 347 839
+ExtractMin 690
+ExtractMin 69
+ExtractMin 166
+Insert 902 48869
+Insert 829 15463
+ExtractMin 711
+getMin 623
+Insert 861 18887
+AddHeap 56334
+Meld 199 211
+getMin 130
+getMin 49
+Meld 566 157
+getMin 249
+ExtractMin 248
+Insert 623 33704
+Insert 512 47490
+Meld 231 667
+AddHeap 35156
+AddHeap 12090
+ExtractMin 61
+AddHeap 25837
+Meld 264 621
+AddHeap 58750
+Meld 740 20
+Meld 881 135
+getMin 394
+Meld 811 306
+ExtractMin 866
+AddHeap 36293
+Insert 512 31564
+Insert 363 20593
+Insert 691 39254
+getMin 184
+ExtractMin 297
+Meld 829 508
+ExtractMin 501
+Meld 507 408
+AddHeap 33707
+AddHeap 26156
+AddHeap 41538
+AddHeap 51677
+ExtractMin 712
+AddHeap 50557
+Insert 121 5034
+getMin 612
+ExtractMin 410
+Insert 760 10061
+AddHeap 41021
+Meld 845 260
+getMin 843
+getMin 356
+ExtractMin 605
+AddHeap 42109
+Meld 820 620
+AddHeap 34067
+AddHeap 1326
+AddHeap 46120
+Meld 658 315
+Insert 346 25676
+Meld 786 251
+Meld 880 351
+Meld 718 458
+ExtractMin 776
+getMin 200
+Meld 908 710
+getMin 615
+Meld 895 69
+getMin 365
+AddHeap 29753
+Insert 796 36237
+Meld 432 305
+getMin 593
+getMin 255
+Meld 804 498
+ExtractMin 297
+AddHeap 12946
+Insert 769 25616
+AddHeap 34475
+AddHeap 41909
+getMin 257
+Insert 335 58915
+Meld 526 505
+Meld 60 651
+Insert 39 55562
+Insert 926 39760
+getMin 563
+Insert 415 53809
+ExtractMin 809
+AddHeap 11635
+getMin 53
+ExtractMin 410
+AddHeap 39959
+Insert 232 9117
+Meld 701 4
+Insert 427 25394
+AddHeap 20403
+getMin 678
+Meld 543 121
+Meld 689 340
+Meld 364 163
+AddHeap 18560
+Meld 14 333
+getMin 587
+getMin 594
+Insert 217 53599
+Meld 523 715
+Meld 828 130
+getMin 607
+getMin 870
+Insert 794 38317
+ExtractMin 870
+AddHeap 34087
+AddHeap 52517
+Meld 317 521
+Meld 747 195
+Meld 172 638
+getMin 369
+AddHeap 12874
+Meld 589 840
+Meld 36 740
+ExtractMin 202
+getMin 759
+ExtractMin 156
+AddHeap 9428
+AddHeap 45121
+AddHeap 18368
+Meld 662 675
+ExtractMin 566
+Meld 231 534
+ExtractMin 393
+getMin 216
+ExtractMin 820
+Insert 65 38772
+getMin 619
+ExtractMin 704
+getMin 445
+ExtractMin 453
+AddHeap 23599
+Meld 563 484
+getMin 74
+getMin 499
+Insert 617 51851
+Meld 39 825
+AddHeap 16626
+AddHeap 8036
+AddHeap 27852
+Insert 232 48053
+Meld 703 712
+Meld 212 550
+Meld 337 845
+Insert 208 49503
+Meld 671 110
+Meld 14 872
+getMin 888
+Meld 781 140
+AddHeap 47203
+Insert 681 26718
+AddHeap 54776
+ExtractMin 803
+Insert 223 23809
+AddHeap 37560
+getMin 702
+AddHeap 28384
+ExtractMin 871
+AddHeap 26905
+AddHeap 30672
+Meld 392 268
+AddHeap 30323
+AddHeap 13206
+getMin 903
+Insert 771 34447
+AddHeap 30614
+AddHeap 56178
+AddHeap 34386
+Insert 81 48240
+getMin 652
+Insert 179 32611
+getMin 785
+getMin 262
+Insert 340 24278
+getMin 832
+getMin 442
+Meld 276 601
+Meld 365 133
+ExtractMin 271
+ExtractMin 101
+AddHeap 45339
+AddHeap 39214
+getMin 666
+getMin 761
+Meld 393 700
+Insert 842 44501
+Meld 953 650
+Meld 507 587
+Meld 645 490
+getMin 445
+Meld 193 183
+ExtractMin 401
+getMin 814
+Insert 341 36228
+getMin 646
+ExtractMin 65
+getMin 892
+ExtractMin 332
+getMin 320
+Insert 706 6859
+AddHeap 49483
+Insert 7 52429
+Insert 227 53047
+Meld 823 782
+ExtractMin 664
+Insert 708 58326
+ExtractMin 10
+getMin 607
+Insert 613 35405
+AddHeap 55689
+Meld 316 85
+getMin 876
+Insert 722 3227
+getMin 174
+AddHeap 12373
+AddHeap 54138
+Insert 184 20100
+Meld 37 655
+Insert 347 48068
+Meld 131 690
+Meld 820 316
+getMin 556
+Insert 549 62599
+AddHeap 63535
+getMin 659
+getMin 754
+getMin 439
+Insert 244 33632
+AddHeap 28837
+Meld 78 220
+AddHeap 25490
+Meld 908 463
+AddHeap 34995
+getMin 59
+getMin 264
+getMin 273
+AddHeap 21651
+AddHeap 36966
+Meld 72 741
+AddHeap 45021
+AddHeap 35000
+Meld 354 133
+Meld 414 529
+AddHeap 15537
+AddHeap 34857
+Meld 915 819
+Insert 899 16777
+Insert 148 56786
+ExtractMin 589
+Meld 942 233
+Insert 875 41603
+Meld 248 247
+Insert 380 16446
+Meld 100 880
+Insert 317 33801
+AddHeap 35952
+ExtractMin 565
+getMin 448
+Meld 264 655
+ExtractMin 908
+Insert 875 36571
+Insert 188 32136
+getMin 409
+AddHeap 41868
+ExtractMin 223
+AddHeap 54861
+ExtractMin 149
+getMin 725
+ExtractMin 918
+Meld 899 712
+Meld 331 384
+AddHeap 57392
+AddHeap 52244
+AddHeap 29062
+Insert 394 25876
+getMin 527
+ExtractMin 522
+Insert 147 27025
+Insert 142 16416
+AddHeap 35810
+Meld 610 96
+Meld 274 227
+AddHeap 35743
+ExtractMin 102
+ExtractMin 760
+getMin 22
+ExtractMin 718
+AddHeap 23338
+Insert 710 46784
+ExtractMin 924
+ExtractMin 89
+AddHeap 60463
+ExtractMin 309
+AddHeap 17035
+AddHeap 51812
+Meld 593 750
+Meld 884 934
+AddHeap 38759
+AddHeap 6115
+getMin 276
+Meld 360 687
+ExtractMin 804
+Insert 603 20325
+AddHeap 4547
+Meld 284 429
+Meld 168 867
+Meld 677 304
+getMin 601
+AddHeap 55808
+AddHeap 31071
+ExtractMin 876
+getMin 126
+Insert 893 12304
+AddHeap 38860
+AddHeap 10920
+Insert 58 29264
+Insert 90 49717
+ExtractMin 884
+getMin 975
+getMin 640
+Meld 940 334
+getMin 334
+AddHeap 59019
+Insert 961 49650
+ExtractMin 634
+Insert 17 7725
+AddHeap 23357
+Insert 537 26296
+ExtractMin 255
+Insert 475 27802
+Meld 484 767
+Meld 646 4
+AddHeap 31457
+getMin 510
+ExtractMin 568
+Insert 290 29007
+Insert 988 44333
+Insert 907 24126
+Meld 610 876
+Insert 417 36135
+Insert 383 24249
+Meld 776 47
+getMin 311
+Insert 954 47377
+AddHeap 36213
+Meld 767 147
+Insert 865 47921
+Insert 48 37855
+Insert 164 38388
+Meld 614 368
+ExtractMin 960
+ExtractMin 590
+getMin 816
+getMin 550
+ExtractMin 811
+getMin 388
+Meld 91 363
+Insert 479 22067
+Insert 891 44271
+Insert 513 35145
+AddHeap 19300
+Meld 476 241
+Meld 159 922
+ExtractMin 858
+Meld 611 478
+Insert 616 22349
+Meld 11 682
+AddHeap 22616
+AddHeap 36352
+AddHeap 33037
+AddHeap 15390
+AddHeap 35486
+ExtractMin 625
+Insert 944 46485
+Meld 1 425
+Insert 900 39503
+getMin 432
+Insert 268 22687
+Meld 84 407
+AddHeap 31175
+Insert 832 19440
+getMin 216
+Insert 795 24616
+Meld 885 251
+getMin 611
+getMin 847
+Insert 16 29436
+getMin 947
+Insert 74 29025
+Meld 518 966
+getMin 764
+Meld 115 867
+AddHeap 22638
+Insert 336 54178
+getMin 602
+Meld 699 382
+getMin 950
+getMin 944
+Insert 394 40191
+Meld 410 939
+Insert 208 24891
+Insert 816 28443
+Insert 351 32021
+ExtractMin 193
+ExtractMin 978
+AddHeap 23851
+Meld 806 282
+ExtractMin 210
+Insert 248 12153
+Insert 278 19315
+Insert 737 29813
+Insert 785 48843
+AddHeap 35451
+getMin 182
+getMin 28
+AddHeap 30791
+Insert 395 39660
+ExtractMin 502
+getMin 559
+getMin 630
+AddHeap 43970
+ExtractMin 835
+Insert 749 26537
+ExtractMin 512
+getMin 188
+Meld 470 84
+ExtractMin 441
+getMin 552
+getMin 874
+AddHeap 48773
+getMin 777
+AddHeap 43606
+Insert 695 47354
+getMin 901
+ExtractMin 409
+Insert 691 58558
+ExtractMin 785
+Insert 369 40579
+Meld 244 346
+Meld 897 710
+AddHeap 26916
+getMin 719
+getMin 662
+Meld 71 66
+AddHeap 21914
+AddHeap 20008
+Meld 403 241
+AddHeap 47416
+Meld 658 758
+Meld 647 203
+getMin 291
+getMin 457
+Meld 465 942
+ExtractMin 997
+Meld 732 499
+getMin 757
+Insert 281 38711
+AddHeap 42278
+Insert 960 7267
+Insert 885 31200
+ExtractMin 244
+getMin 383
+getMin 722
+getMin 241
+Insert 827 30660
+getMin 522
+Meld 315 649
+Meld 443 76
+AddHeap 11271
+getMin 139
+Insert 322 40192
+Insert 261 46885
+Insert 762 46751
+Meld 508 88
+Insert 797 32198
+Meld 508 905
+getMin 143
+AddHeap 42067
+AddHeap 34533
+Insert 1007 44307
+getMin 766
+AddHeap 33772
+AddHeap 20596
+ExtractMin 448
+getMin 952
+getMin 507
+Insert 953 47612
+getMin 64
+AddHeap 24089
+Insert 133 31532
+Insert 303 28764
+ExtractMin 86
+Insert 8 32967
+Meld 898 95
+Meld 789 471
+Insert 126 20927
+ExtractMin 832
+Meld 191 21
+AddHeap 8547
+ExtractMin 364
+ExtractMin 614
+AddHeap 45538
+getMin 783
+Insert 141 20728
+ExtractMin 1016
+Meld 811 859
+ExtractMin 946
+AddHeap 28964
+AddHeap 4908
+AddHeap 17430
+Meld 60 330
+Meld 364 292
+Meld 732 752
+Insert 925 15095
+getMin 205
+Insert 647 45712
+Meld 963 608
+ExtractMin 786
+AddHeap 30008
+getMin 246
+Insert 46 30816
+ExtractMin 697
+AddHeap 53351
+AddHeap 27877
+Insert 611 46764
+getMin 976
+Meld 651 922
+getMin 161
+Meld 642 203
+getMin 931
+Insert 699 26466
+Insert 968 17101
+Meld 260 226
+Insert 54 28621
+Meld 691 310
+Insert 208 24986
+Meld 454 640
+ExtractMin 886
+getMin 635
+Insert 972 54039
+Meld 413 809
+Meld 189 50
+AddHeap 15095
+ExtractMin 770
+Insert 808 22565
+Insert 136 27455
+Meld 482 415
+Meld 536 810
+Meld 416 207
+AddHeap 25383
+Meld 393 125
+ExtractMin 139
+getMin 306
+Meld 270 740
+getMin 280
+ExtractMin 776
+getMin 226
+ExtractMin 168
+AddHeap 32007
+AddHeap 34011
+AddHeap 23305
+Meld 794 978
+Meld 701 500
+Meld 227 535
+getMin 460
+Meld 367 506
+Insert 284 37136
+ExtractMin 341
+Meld 1011 297
+getMin 349
+Meld 778 1001
+Insert 96 38559
+Meld 677 186
+AddHeap 30581
+Insert 1011 23573
+Insert 433 22795
+AddHeap 58067
+Meld 27 173
+ExtractMin 929
+Meld 469 614
+AddHeap 38075
+getMin 30
+Insert 765 34713
+Meld 632 1004
+getMin 906
+getMin 346
+Meld 535 190
+getMin 557
+Meld 674 610
+Meld 494 347
+AddHeap 40394
+getMin 46
+AddHeap 37429
+Meld 737 545
+Meld 57 780
+Meld 489 190
+getMin 640
+getMin 656
+ExtractMin 350
+AddHeap 30588
+getMin 116
+getMin 249
+AddHeap 28942
+ExtractMin 734
+Insert 459 21164
+AddHeap 33930
+AddHeap 50150
+ExtractMin 763
+Meld 258 746
+AddHeap 26893
+ExtractMin 861
+getMin 248
+ExtractMin 517
+AddHeap 38018
+Insert 832 40153
+AddHeap 30671
+getMin 44
+Insert 156 49447
+AddHeap 40503
+Insert 62 34857
+AddHeap 15026
+getMin 507
+AddHeap 51037
+AddHeap 12682
+getMin 721
+AddHeap 12337
+AddHeap 20256
+getMin 979
+getMin 866
+Meld 360 157
+ExtractMin 857
+Insert 946 35052
+Insert 674 50281
+Insert 1011 15785
+Insert 392 25971
+AddHeap 28213
+Insert 89 20883
+AddHeap 47099
+getMin 45
+Meld 507 76
+Insert 741 39016
+Insert 91 24382
+Meld 380 560
+ExtractMin 201
+AddHeap 6172
+Meld 511 426
+Meld 657 439
+Insert 432 18305
+AddHeap 14205
+Insert 458 30641
+getMin 9
+Insert 711 38583
+AddHeap 24373
+ExtractMin 615
+Insert 963 4209
+Meld 735 932
+ExtractMin 56
+Insert 297 51724
+AddHeap 28230
+Meld 353 742
+Meld 971 977
+getMin 35
+Insert 717 41030
+AddHeap 13230
+AddHeap 47097
+AddHeap 14067
+ExtractMin 142
+Meld 628 841
+getMin 301
+ExtractMin 724
+Insert 666 21999
+Meld 95 272
+AddHeap 49078
+Meld 822 111
+Meld 1021 775
+Insert 874 39138
+AddHeap 47827
+getMin 216
+Meld 191 224
+AddHeap 30996
+Meld 909 986
+Meld 259 538
+ExtractMin 658
+ExtractMin 973
+Meld 144 154
+Insert 212 24604
+AddHeap 51508
+Meld 320 18
+ExtractMin 62
+Meld 433 857
+ExtractMin 735
+Insert 484 41072
+AddHeap 30007
+AddHeap 25353
+getMin 734
+AddHeap 31353
+Insert 862 9699
+ExtractMin 666
+Meld 173 849
+AddHeap 52071
+AddHeap 22434
+Insert 681 42691
+AddHeap 16785
+Insert 494 54827
+Meld 26 42
+getMin 681
+getMin 377
+AddHeap 20857
+Meld 591 900
+Meld 883 759
+AddHeap 4303
+AddHeap 25091
+Insert 724 43328
+AddHeap 41870
+Meld 929 710
+ExtractMin 126
+AddHeap 45224
+getMin 903
+Meld 449 433
+AddHeap 37500
+ExtractMin 219
+Insert 959 20704
+getMin 794
+Meld 643 461
+getMin 877
+AddHeap 13080
+Meld 728 740
+AddHeap 18494
+getMin 596
+ExtractMin 313
+Meld 879 931
+Insert 973 25196
+AddHeap 22741
+getMin 732
+ExtractMin 856
+AddHeap 58679
+getMin 722
+getMin 696
+Meld 1064 258
+AddHeap 19843
+Insert 107 52597
+Insert 843 8477
+Meld 40 993
+Insert 397 52035
+Insert 821 36678
+Meld 11 276
+Insert 472 25487
+getMin 488
+getMin 699
+Meld 438 838
+getMin 472
+AddHeap 16130
+Insert 163 62679
+AddHeap 45393
+ExtractMin 848
+ExtractMin 169
+AddHeap 25270
+ExtractMin 215
+Insert 309 37955
+ExtractMin 741
+Insert 41 18166
+ExtractMin 936
+ExtractMin 976
+AddHeap 49399
+Insert 893 40270
+AddHeap 29443
+getMin 201
+AddHeap 49042
+ExtractMin 494
+Insert 845 47574
+ExtractMin 1045
+Meld 14 212
+Insert 659 26188
+ExtractMin 680
+AddHeap 43524
+getMin 370
+ExtractMin 352
+AddHeap 12543
+ExtractMin 309
+Insert 582 47925
+Insert 808 32140
+Insert 711 20162
+getMin 996
+Meld 570 475
+Meld 353 151
+AddHeap 43759
+Insert 52 45077
+Meld 600 711
+Insert 1043 20747
+getMin 261
+Insert 826 38268
+getMin 942
+AddHeap 41181
+Insert 580 28462
+Insert 441 20825
+Insert 647 20629
+AddHeap 42826
+getMin 842
+AddHeap 22637
+Meld 556 164
+AddHeap 18434
+Meld 39 535
+Insert 490 59683
+getMin 259
+getMin 280
+AddHeap 40528
+AddHeap 23139
+getMin 869
+Insert 1059 26841
+AddHeap 21803
+AddHeap 24688
+AddHeap 34273
+Insert 938 35414
+AddHeap 46641
+AddHeap 38992
+AddHeap 25674
+Meld 938 123
+Meld 186 458
+Insert 471 37554
+Insert 822 20740
+ExtractMin 930
+Insert 665 25837
+AddHeap 18671
+AddHeap 28104
+ExtractMin 686
+getMin 526
+Meld 485 502
+AddHeap 22557
+Insert 720 25966
+Meld 803 785
+Meld 256 731
+Insert 815 38682
+getMin 725
+Insert 119 24525
+Meld 603 741
+AddHeap 37984
+getMin 158
+Insert 204 46510
+Insert 681 30600
+Insert 1011 9581
+Insert 749 53369
+getMin 694
+AddHeap 57690
+Insert 3 13886
+AddHeap 6863
+getMin 445
+Insert 826 19825
+getMin 766
+ExtractMin 943
+Insert 740 38355
+ExtractMin 796
+Insert 820 61082
+ExtractMin 1079
+Insert 301 27896
+Meld 313 910
+Insert 733 40411
+Meld 943 514
+AddHeap 56467
+ExtractMin 1010
+Meld 773 444
+Meld 850 1060
+Insert 937 25163
+ExtractMin 365
+AddHeap 8344
+ExtractMin 156
+AddHeap 15241
+AddHeap 33631
+getMin 796
+AddHeap 49517
+getMin 902
+getMin 1081
+Meld 1055 377
+AddHeap 23147
+AddHeap 56495
+Meld 992 507
+AddHeap 21259
+AddHeap 40794
+AddHeap 49753
+Meld 536 206
+getMin 804
+ExtractMin 144
+Insert 495 46812
+getMin 104
+AddHeap 14796
+getMin 1080
+Insert 1001 24038
+Insert 381 31645
+Insert 809 9656
+getMin 1026
+Insert 412 46834
+ExtractMin 494
+ExtractMin 352
+Insert 764 25694
+Insert 623 21908
+Meld 265 468
+Meld 427 167
+Meld 294 231
+AddHeap 24680
+Meld 487 511
+Insert 93 14873
+Insert 292 34679
+getMin 524
+Insert 640 21546
+Insert 623 39194
+AddHeap 13469
+Meld 752 547
+Insert 908 39469
+AddHeap 54392
+AddHeap 53087
+AddHeap 11669
+AddHeap 28857
+getMin 649
+getMin 211
+Meld 171 13
+AddHeap 28300
+getMin 311
+Insert 749 32512
+Insert 740 20373
+ExtractMin 44
+Meld 590 240
+Insert 380 57499
+getMin 808
+Insert 517 35443
+getMin 355
+Insert 624 34602
+getMin 704
+Meld 828 594
+ExtractMin 242
+Insert 925 56005
+AddHeap 29154
+ExtractMin 311
+Insert 316 39042
+Meld 1069 202
+AddHeap 26979
+getMin 153
+getMin 692
+ExtractMin 1029
+AddHeap 22820
+Insert 742 46725
+ExtractMin 984
+Insert 1015 39844
+Insert 826 55525
+Meld 404 233
+AddHeap 25567
+getMin 858
+Insert 805 17430
+ExtractMin 266
+ExtractMin 1052
+AddHeap 49064
+ExtractMin 745
+AddHeap 36853
+AddHeap 48703
+Insert 983 32456
+Meld 6 1026
+AddHeap 34975
+getMin 534
+Insert 256 16132
+Meld 94 602
+ExtractMin 316
+ExtractMin 52
+getMin 97
+ExtractMin 797
+ExtractMin 420
+Meld 1061 239
+AddHeap 46567
+Insert 54 22033
+Insert 962 23521
+ExtractMin 301
+ExtractMin 589
+Insert 563 28511
+Insert 632 21911
+Insert 124 12670
+getMin 728
+getMin 833
+AddHeap 25460
+Meld 828 835
+Insert 223 29809
+AddHeap 31217
+Insert 124 18751
+Meld 277 1025
+ExtractMin 82
+Insert 1037 22594
+Meld 1023 1117
+Insert 57 22398
+Insert 433 29975
+ExtractMin 1017
+Meld 791 641
+Insert 439 14565
+Insert 267 46437
+ExtractMin 869
+Meld 732 264
+getMin 348
+Insert 621 39829
+getMin 1012
+AddHeap 20730
+getMin 850
+AddHeap 37756
+Insert 160 43997
+Meld 670 165
+AddHeap 37784
+getMin 362
+ExtractMin 820
+AddHeap 26999
+getMin 606
+Meld 135 927
+getMin 323
+AddHeap 30821
+Insert 705 11306
+getMin 507
+AddHeap 25802
+ExtractMin 221
+getMin 559
+AddHeap 48782
+Meld 14 728
+AddHeap 22310
+Meld 174 400
+Insert 370 44771
+AddHeap 46146
+getMin 911
+Insert 544 34660
+Meld 344 399
+Meld 278 46
+ExtractMin 887
+AddHeap 47308
+Meld 734 819
+AddHeap 26965
+getMin 485
+getMin 948
+Insert 406 31511
+getMin 178
+getMin 816
+Insert 303 34167
+AddHeap 15848
+Meld 1052 779
+Meld 486 676
+Insert 48 31337
+Insert 751 30913
+Meld 711 602
+Meld 1009 308
+getMin 1077
+ExtractMin 277
+ExtractMin 794
+AddHeap 24012
+getMin 768
+Meld 982 104
+getMin 51
+getMin 184
+AddHeap 32562
+ExtractMin 450
+Insert 1014 40376
+AddHeap 23160
+AddHeap 21282
+getMin 361
+Insert 100 38156
+Insert 1096 37338
+Insert 1058 34921
+getMin 271
+AddHeap 44126
+Meld 629 87
+Insert 137 8939
+getMin 457
+Insert 730 29560
+Insert 151 32461
+Meld 180 285
+Meld 13 1139
+Insert 1071 32327
+getMin 185
+ExtractMin 352
+ExtractMin 698
+Insert 473 55720
+ExtractMin 708
+AddHeap 39586
+getMin 747
+AddHeap 57324
+AddHeap 34535
+Insert 75 45478
+Insert 493 28159
+Insert 1115 30853
+Meld 836 721
+Insert 1126 57022
+AddHeap 27319
+getMin 191
+getMin 874
+AddHeap 26661
+getMin 987
+getMin 904
+Meld 359 481
+getMin 181
+ExtractMin 537
+AddHeap 33099
+AddHeap 50143
+Insert 59 39440
+getMin 125
+getMin 406
+Meld 787 590
+Insert 1132 9964
+Insert 451 48424
+Meld 348 256
+Meld 178 374
+getMin 121
+getMin 87
+Insert 501 27344
+Meld 27 902
+Insert 696 36036
+Meld 239 826
+Insert 435 8844
+getMin 178
+Insert 1035 35442
+AddHeap 32152
+getMin 52
+AddHeap 38118
+Insert 477 43850
+Insert 901 60456
+Meld 73 470
+AddHeap 56929
+Meld 968 448
+ExtractMin 217
+AddHeap 44093
+Meld 520 703
+Meld 716 30
+getMin 496
+Meld 648 437
+Insert 733 30058
+getMin 719
+ExtractMin 883
+AddHeap 51474
+ExtractMin 144
+getMin 1160
+getMin 157
+Insert 843 28190
+AddHeap 36670
+getMin 985
+getMin 906
+getMin 502
+ExtractMin 1013
+Insert 610 34080
+getMin 284
+getMin 81
+Meld 1100 695
+ExtractMin 1155
+AddHeap 32142
+Meld 1041 253
+Meld 752 160
+ExtractMin 963
+Insert 1001 31384
+ExtractMin 186
+AddHeap 24566
+Meld 949 578
+AddHeap 24853
+Meld 802 764
+getMin 330
+getMin 425
+Meld 663 533
+AddHeap 29202
+Meld 434 682
+Insert 854 39986
+getMin 246
+Meld 793 846
+ExtractMin 49
+Insert 1100 35978
+Insert 809 32119
+Meld 726 699
+Insert 898 44941
+AddHeap 38159
+AddHeap 48279
+AddHeap 5655
+Meld 1104 686
+getMin 401
+getMin 808
+Insert 284 18915
+AddHeap 31474
+AddHeap 24893
+AddHeap 26589
+Meld 647 519
+AddHeap 16561
+getMin 893
+AddHeap 30141
+Insert 458 45720
+Meld 556 863
+Insert 257 29533
+ExtractMin 586
+Insert 96 22618
+Insert 766 24948
+AddHeap 16353
+Meld 100 482
+Insert 50 19940
+Meld 637 539
+AddHeap 9892
+Meld 240 128
+getMin 869
+getMin 582
+Insert 1146 36915
+Insert 793 28135
+AddHeap 46934
+Meld 311 475
+getMin 821
+Meld 1152 1141
+AddHeap 16052
+ExtractMin 485
+Meld 523 479
+ExtractMin 433
+getMin 447
+Meld 290 708
+getMin 1050
+Meld 251 325
+AddHeap 18055
+AddHeap 27518
+Meld 510 143
+AddHeap 50677
+AddHeap 1723
+getMin 375
+Insert 865 53436
+ExtractMin 33
+AddHeap 16687
+getMin 19
+getMin 138
+Insert 379 28465
+Insert 433 33016
+getMin 673
+Insert 282 1532
+AddHeap 16591
+AddHeap 33962
+Meld 1094 47
+Meld 404 948
+Meld 505 401
+AddHeap 6843
+Meld 955 1094
+AddHeap 40932
+Meld 430 807
+ExtractMin 582
+AddHeap 52227
+getMin 502
+Meld 236 51
+Insert 86 29240
+getMin 488
+Meld 660 1038
+AddHeap 60774
+ExtractMin 901
+ExtractMin 485
+getMin 293
+getMin 277
+Meld 302 583
+Insert 283 23281
+AddHeap 12992
+getMin 166
+Meld 964 251
+AddHeap 33163
+getMin 451
+getMin 1118
+getMin 60
+Insert 715 21025
+getMin 668
+ExtractMin 37
+ExtractMin 634
+getMin 67
+getMin 897
+Insert 167 25360
+ExtractMin 141
+Insert 59 32591
+getMin 430
+AddHeap 36555
+AddHeap 29412
+Meld 925 517
+getMin 1008
+Meld 118 364
+getMin 448
+Insert 1006 37830
+Insert 225 44696
+Insert 274 30798
+Insert 256 41812
+Meld 1074 1071
+Insert 551 51788
+getMin 918
+AddHeap 19061
+Meld 579 971
+ExtractMin 296
+Insert 843 25628
+Meld 519 841
+Insert 573 26239
+getMin 1020
+Insert 267 11272
+AddHeap 52739
+Meld 890 285
+getMin 182
+Insert 58 13088
+Insert 809 38211
+AddHeap 35130
+Insert 532 10494
+getMin 427
+Insert 433 40603
+Insert 379 49677
+Meld 1007 147
+AddHeap 51199
+AddHeap 39204
+AddHeap 38504
+Insert 533 30705
+Meld 24 931
+Meld 837 748
+getMin 741
+Insert 1088 41848
+getMin 835
+getMin 24
+Insert 953 61188
+Insert 974 43432
+getMin 458
+AddHeap 17682
+Insert 314 6361
+AddHeap 38280
+Meld 733 1041
+Insert 895 15722
+AddHeap 39675
+Meld 798 436
+AddHeap 10982
+AddHeap 28017
+Insert 407 25437
+getMin 370
+getMin 769
+Meld 725 1046
+Insert 934 21646
+Insert 883 21809
+Insert 692 30578
+getMin 842
+getMin 271
+AddHeap 34162
+getMin 868
+ExtractMin 701
+AddHeap 33945
+Meld 1007 955
+Insert 356 41236
+AddHeap 30133
+AddHeap 44138
+ExtractMin 135
+ExtractMin 617
+getMin 1037
+getMin 150
+Meld 357 4
+ExtractMin 1007
+getMin 890
+getMin 1015
+ExtractMin 852
+Insert 481 52720
+Insert 515 39234
+Meld 667 620
+AddHeap 17721
+Insert 978 16798
+getMin 830
+ExtractMin 263
+Meld 362 511
+Insert 899 13345
+Meld 697 171
+Insert 840 14267
+AddHeap 46136
+ExtractMin 541
+Meld 359 467
+getMin 587
+ExtractMin 177
+Meld 68 83
+getMin 1168
+Meld 35 419
+Insert 1015 32210
+getMin 209
+Meld 722 371
+AddHeap 53948
+getMin 1187
+Meld 714 976
+AddHeap 49713
+Meld 594 2
+AddHeap 32526
+getMin 973
+AddHeap 17973
+ExtractMin 554
+ExtractMin 485
+Meld 576 767
+Meld 74 698
+AddHeap 21477
+getMin 1068
+Meld 157 1016
+getMin 559
+Insert 638 38417
+ExtractMin 1040
+Insert 1195 23908
+ExtractMin 522
+AddHeap 34773
+ExtractMin 1002
+AddHeap 32550
+ExtractMin 522
+getMin 164
+Insert 380 41017
+AddHeap 52962
+AddHeap 38770
+AddHeap 36871
+Insert 152 32259
+ExtractMin 430
+ExtractMin 290
+Meld 957 909
+Insert 509 41570
+AddHeap 26672
+AddHeap 43288
+Meld 77 908
+Meld 908 794
+ExtractMin 751
+AddHeap 35998
+getMin 973
+Insert 1074 28084
+Insert 1213 18083
+Meld 1075 1012
+Insert 1053 33218
+AddHeap 23968
+Insert 529 52607
+Insert 320 38176
+Meld 817 307
+ExtractMin 208
+Meld 19 690
+Meld 151 100
+Insert 904 35994
+Insert 22 44794
+getMin 842
+Meld 102 946
+Meld 220 620
+Meld 301 999
+getMin 562
+AddHeap 40030
+Insert 601 17297
+Insert 1023 24270
+Insert 606 36596
+ExtractMin 386
+Meld 734 189
+Meld 452 248
+Insert 439 23103
+Meld 1106 36
+Insert 641 19591
+AddHeap 30244
+AddHeap 49170
+AddHeap 42724
+Meld 768 837
+getMin 190
+AddHeap 30263
+Insert 65 32313
+AddHeap 43967
+Meld 327 759
+getMin 585
+Insert 1095 46892
+Meld 690 67
+AddHeap 39424
+AddHeap 54349
+Insert 912 34942
+getMin 894
+Meld 1107 673
+Insert 913 35887
+getMin 445
+Insert 958 28920
+Insert 953 7774
+AddHeap 47707
+AddHeap 42983
+Insert 1174 28114
+getMin 175
+Meld 296 781
+AddHeap 17182
+getMin 945
+AddHeap 27082
+Insert 1185 40230
+Insert 141 30437
+AddHeap 14124
+AddHeap 31330
+getMin 445
+getMin 693
+getMin 1111
+AddHeap 43879
+getMin 303
+Meld 561 1185
+AddHeap 16731
+Meld 545 203
+Insert 766 32998
+ExtractMin 678
+Insert 1102 32417
+AddHeap 43194
+Meld 1120 507
+Meld 893 1236
+ExtractMin 944
+Insert 791 14190
+Meld 542 238
+Insert 580 46382
+AddHeap 23395
+ExtractMin 833
+getMin 1096
+AddHeap 26986
+Insert 4 18378
+AddHeap 24312
+Insert 1173 35345
+getMin 859
+ExtractMin 981
+AddHeap 15855
+AddHeap 30978
+AddHeap 57690
+AddHeap 37383
+AddHeap 47605
+AddHeap 20315
+AddHeap 32474
+Meld 1059 560
+Insert 317 26319
+Insert 701 43413
+getMin 663
+Insert 1198 51477
+ExtractMin 413
+Insert 1031 51942
+getMin 672
+AddHeap 20301
+ExtractMin 234
+Meld 413 344
+getMin 862
+Meld 684 307
+Meld 880 819
+Insert 84 54928
+Meld 1111 125
+Insert 1214 31020
+Insert 525 29108
+getMin 494
+getMin 1109
+getMin 370
+AddHeap 48494
+AddHeap 59615
+Insert 80 35554
+ExtractMin 974
+Insert 554 36232
+getMin 1029
+AddHeap 21176
+Insert 150 35813
+getMin 292
+AddHeap 50969
+Meld 593 1180
+getMin 824
+Insert 340 19600
+AddHeap 40039
+Meld 580 1122
+AddHeap 36945
+Meld 1245 288
+AddHeap 36405
+Insert 1177 27207
+Insert 369 52339
+getMin 659
+Insert 718 21191
+getMin 498
+Insert 349 42751
+AddHeap 52295
+Insert 870 47286
+ExtractMin 301
+AddHeap 22503
+ExtractMin 246
+Insert 939 16026
+getMin 1259
+Insert 292 39532
+Meld 971 847
+Insert 45 44734
+Insert 1001 17982
+ExtractMin 4
+Meld 101 42
+getMin 343
+Meld 1146 893
+getMin 465
+AddHeap 7452
+Meld 402 904
+Insert 743 5597
+Insert 1126 52155
+Meld 135 166
+AddHeap 38922
+Insert 151 30777
+Insert 600 35646
+Meld 419 33
+AddHeap 10129
+Insert 443 47388
+Insert 1060 20657
+AddHeap 28226
+ExtractMin 402
+ExtractMin 59
+Meld 753 607
+Meld 1141 400
+Insert 544 48107
+ExtractMin 170
+getMin 460
+Meld 503 252
+Meld 730 226
+Insert 51 39467
+AddHeap 36864
+getMin 248
+getMin 752
+Insert 717 21409
+ExtractMin 772
+AddHeap 8574
+Meld 1120 254
+AddHeap 23973
+AddHeap 23929
+ExtractMin 672
+Insert 1119 20133
+getMin 677
+Insert 180 36099
+Insert 242 27994
+Meld 249 642
+getMin 165
+Insert 59 10003
+Meld 1214 656
+Meld 776 414
+getMin 162
+AddHeap 37481
+ExtractMin 1212
+AddHeap 21662
+Meld 187 100
+Meld 885 408
+Meld 1019 1095
+Meld 733 342
+ExtractMin 965
+Meld 332 682
+AddHeap 10103
+Insert 62 25076
+getMin 523
+Meld 1226 1117
+AddHeap 16509
+AddHeap 7126
+ExtractMin 912
+Insert 1012 50266
+Meld 1196 394
+Insert 189 34831
+Meld 801 172
+Meld 1272 446
+AddHeap 29194
+AddHeap 18517
+Insert 666 38389
+getMin 76
+Insert 1030 36740
+Insert 722 47927
+Meld 367 980
+AddHeap 2302
+Meld 273 1126
+AddHeap 37130
+AddHeap 42719
+Insert 1165 43569
+ExtractMin 510
+AddHeap 22890
+ExtractMin 1133
+Meld 1185 1228
+ExtractMin 350
+getMin 599
+Insert 721 37998
+getMin 1073
+Insert 551 33802
+getMin 980
+Insert 1260 35968
+ExtractMin 352
+ExtractMin 78
+Insert 374 28333
+Meld 525 236
+getMin 345
+AddHeap 49847
+Insert 321 54587
+ExtractMin 65
+AddHeap 26024
+Insert 529 35519
+Meld 52 868
+Insert 475 57538
+getMin 150
+ExtractMin 971
+Insert 937 31673
+getMin 1243
+Insert 312 34536
+getMin 639
+Meld 157 797
+ExtractMin 1219
+Insert 518 18070
+Meld 901 886
+Meld 533 950
+ExtractMin 515
+getMin 201
+Insert 953 33205
+AddHeap 16804
+Insert 364 24890
+Meld 1070 826
+getMin 292
+Meld 848 615
+AddHeap 39253
+Insert 521 31469
+Insert 457 24408
+ExtractMin 213
+AddHeap 21921
+Meld 1102 395
+AddHeap 31420
+Insert 443 31632
+getMin 197
+Meld 1004 581
+getMin 1268
+AddHeap 19077
+Meld 126 614
+Meld 203 657
+AddHeap 42072
+Meld 829 93
+Meld 27 910
+Insert 1230 18979
+getMin 78
+Insert 709 25255
+Meld 113 1084
+ExtractMin 1171
+Meld 681 461
+ExtractMin 1164
+getMin 316
+ExtractMin 96
+Meld 857 1054
+getMin 189
+AddHeap 28341
+getMin 62
+Insert 1224 32751
+Insert 304 18671
+getMin 370
+Insert 348 11236
+Meld 888 1033
+Insert 548 48884
+getMin 442
+Insert 786 31301
+AddHeap 29056
+getMin 637
+ExtractMin 175
+Meld 818 1271
+ExtractMin 1170
+Meld 936 1188
+getMin 663
+Insert 384 40619
+AddHeap 20835
+Insert 4 43448
+Meld 347 1153
+AddHeap 32386
+getMin 779
+getMin 1280
+ExtractMin 1109
+Insert 1072 24572
+ExtractMin 725
+AddHeap 25933
+getMin 1092
+Insert 497 47566
+ExtractMin 970
+ExtractMin 808
+Meld 727 1075
+ExtractMin 737
+Insert 933 35726
+Meld 1239 744
+Meld 63 1002
+getMin 251
+AddHeap 25116
+AddHeap 43527
+Insert 1127 25095
+Meld 867 967
+Meld 209 135
+AddHeap 32709
+AddHeap 24972
+ExtractMin 1067
+ExtractMin 1083
+ExtractMin 1090
+AddHeap 35497
+ExtractMin 740
+AddHeap 56713
+AddHeap 40903
+AddHeap 15079
+AddHeap 30683
+Meld 927 1260
+AddHeap 7868
+getMin 0
+Insert 88 38403
+ExtractMin 1162
+Meld 755 1106
+Meld 1093 764
+AddHeap 54657
+ExtractMin 897
+AddHeap 32839
+AddHeap 28115
+ExtractMin 107
+Meld 1263 710
+getMin 387
+getMin 1137
+AddHeap 32345
+Meld 667 276
+Insert 1003 39687
+getMin 1292
+AddHeap 19856
+AddHeap 24419
+Insert 742 31581
+getMin 1236
+AddHeap 41831
+Meld 531 999
+ExtractMin 579
+Insert 1258 28362
+Insert 152 36490
+AddHeap 34614
+Insert 392 43282
+ExtractMin 623
+getMin 564
+Insert 176 40377
+Meld 696 812
+Meld 996 652
+getMin 1001
+Insert 366 15215
+Insert 32 54909
+getMin 620
+Meld 495 218
+Insert 766 48009
+Insert 664 20195
+AddHeap 50698
+Insert 1004 45673
+Insert 340 19502
+getMin 1030
+getMin 178
+Insert 1228 37746
+getMin 812
+Insert 991 28976
+Insert 614 54113
+ExtractMin 1294
+AddHeap 47077
+Insert 107 39350
+Insert 183 36172
+ExtractMin 811
+Insert 256 41954
+ExtractMin 1176
+getMin 882
+getMin 977
+Insert 92 31519
+Meld 1261 1285
+Meld 396 32
+getMin 1133
+AddHeap 28119
+Meld 773 958
+Meld 793 682
+Insert 954 33227
+ExtractMin 34
+getMin 253
+Insert 157 42948
+getMin 298
+Insert 1134 48312
+Insert 722 35769
+Meld 1173 357
+Insert 93 36290
+getMin 586
+Meld 754 225
+ExtractMin 451
+Meld 798 778
+AddHeap 32122
+Insert 107 43300
+ExtractMin 340
+Meld 285 418
+Insert 1166 29821
+Meld 420 801
+AddHeap 38400
+ExtractMin 870
+Meld 95 1029
+Meld 624 746
+getMin 1281
+Insert 627 22295
+AddHeap 16368
+getMin 93
+AddHeap 62096
+AddHeap 34555
+Meld 68 771
+AddHeap 9332
+getMin 1015
+getMin 792
+Meld 127 559
+ExtractMin 722
+AddHeap 27416
+AddHeap 49523
+getMin 1139
+getMin 792
+AddHeap 24791
+ExtractMin 1160
+ExtractMin 811
+getMin 604
+AddHeap 39682
+getMin 327
+AddHeap 25931
+AddHeap 29904
+Insert 176 33467
+Meld 410 716
+AddHeap 45494
+getMin 669
+Meld 13 31
+AddHeap 23466
+Meld 593 1041
+Insert 386 60146
+AddHeap 41031
+AddHeap 17480
+Insert 254 39961
+ExtractMin 384
+getMin 1313
+AddHeap 21082
+getMin 951
+Meld 872 965
+Insert 971 44320
+Insert 1128 27927
+Insert 1311 12182
+Meld 1163 709
+ExtractMin 1037
+AddHeap 16533
+Insert 1194 33169
+Meld 987 625
+Meld 475 1015
+Insert 695 32396
+Insert 592 13503
+ExtractMin 1111
+Insert 822 30954
+Meld 1277 253
+getMin 298
+Insert 93 28220
+Meld 672 747
+AddHeap 25572
+Meld 448 334
+ExtractMin 1187
+getMin 835
+getMin 1162
+Meld 337 736
+Insert 682 39163
+AddHeap 10813
+Meld 687 146
+Insert 583 24191
+Insert 421 24978
+AddHeap 39276
+Meld 456 308
+getMin 777
+AddHeap 30018
+Insert 1242 34497
+Meld 1318 707
+AddHeap 27057
+getMin 104
+Meld 1260 893
+Insert 442 39734
+getMin 222
+AddHeap 50084
+getMin 634
+AddHeap 24915
+getMin 320
+Meld 925 311
+getMin 142
+getMin 282
+AddHeap 29217
+Insert 554 44342
+Meld 1210 254
+Meld 554 364
+Meld 885 892
+ExtractMin 367
+Meld 256 686
+Insert 912 18877
+ExtractMin 906
+Meld 732 622
+ExtractMin 1056
+Insert 746 57450
+Insert 155 37381
+Meld 140 744
+Meld 1080 1060
+getMin 57
+getMin 945
+ExtractMin 722
+getMin 1325
+getMin 1103
+getMin 296
+ExtractMin 570
+Meld 827 392
+AddHeap 36323
+Meld 746 1133
+getMin 644
+getMin 108
+getMin 372
+ExtractMin 1145
+Insert 534 35867
+Meld 387 734
+ExtractMin 1120
+AddHeap 55741
+getMin 903
+AddHeap 43577
+Insert 282 43590
+Meld 508 1169
+getMin 515
+Insert 575 24264
+Meld 1274 395
+AddHeap 39040
+Meld 172 1152
+getMin 501
+ExtractMin 313
+Insert 585 40997
+Meld 1300 686
+AddHeap 53428
+Meld 954 1020
+Insert 273 14217
+ExtractMin 145
+ExtractMin 1243
+ExtractMin 680
+Meld 1073 704
+Meld 938 813
+AddHeap 44035
+ExtractMin 504
+Insert 913 7410
+AddHeap 32054
+Meld 837 1033
+AddHeap 19814
+getMin 1245
+Insert 1317 40803
+Insert 438 40380
+Meld 281 133
+AddHeap 29047
+ExtractMin 287
+Insert 463 51498
+getMin 1162
+AddHeap 10224
+AddHeap 32409
+ExtractMin 1327
+AddHeap 32072
+getMin 343
+ExtractMin 184
+ExtractMin 1346
+AddHeap 51545
+getMin 351
+getMin 193
+getMin 657
+ExtractMin 196
+ExtractMin 593
+Meld 60 774
+AddHeap 20248
+getMin 761
+Insert 725 3760
+Insert 699 32945
+Meld 983 1027
+Insert 289 33861
+Meld 1129 1092
+Meld 445 886
+AddHeap 47278
+Meld 157 140
+ExtractMin 522
+Insert 173 37204
+Insert 241 36519
+getMin 489
+Insert 847 34491
+ExtractMin 1213
+ExtractMin 580
+Meld 472 810
+Insert 1028 23797
+ExtractMin 526
+ExtractMin 645
+getMin 586
+Insert 1135 42757
+Meld 1219 1113
+ExtractMin 89
+getMin 1007
+Meld 801 619
+Meld 899 489
+Meld 913 641
+Meld 1326 458
+Meld 1201 1092
+ExtractMin 951
+getMin 115
+Meld 1024 1182
+ExtractMin 935
+Insert 331 39888
+ExtractMin 113
+AddHeap 53141
+Insert 245 39335
+AddHeap 36334
+Insert 1327 27365
+getMin 82
+ExtractMin 1305
+ExtractMin 176
+getMin 131
+Meld 26 1147
+Insert 293 22928
+Meld 48 546
+getMin 671
+ExtractMin 1093
+Meld 539 916
+Meld 180 627
+getMin 600
+Meld 14 640
+Meld 189 469
+ExtractMin 356
+Insert 1156 59679
+ExtractMin 1198
+AddHeap 17302
+Insert 532 44379
+Meld 894 1142
+Meld 392 1147
+Insert 224 19482
+Meld 975 1048
+getMin 832
+Insert 156 21548
+AddHeap 20600
+Meld 988 1037
+getMin 841
+Meld 472 1032
+Insert 654 29419
+getMin 819
+Insert 722 29269
+getMin 459
+ExtractMin 86
+AddHeap 33367
+Meld 272 451
+ExtractMin 348
+ExtractMin 669
+AddHeap 32649
+getMin 1209
+AddHeap 46754
+Meld 1187 210
+Insert 222 18989
+getMin 277
+Insert 105 26205
+getMin 986
+AddHeap 33211
+ExtractMin 512
+ExtractMin 503
+Insert 421 15299
+getMin 356
+getMin 1036
+AddHeap 3421
+ExtractMin 544
+ExtractMin 449
+getMin 1211
+Meld 541 107
+Insert 497 51240
+Insert 171 29854
+getMin 411
+AddHeap 2135
+ExtractMin 372
+AddHeap 16283
+Meld 1287 466
+getMin 619
+AddHeap 40318
+getMin 642
+getMin 1365
+Meld 712 167
+Insert 920 46534
+Insert 802 34969
+Meld 112 57
+Insert 1274 37539
+getMin 902
+getMin 220
+AddHeap 23879
+getMin 1239
+AddHeap 29527
+Meld 600 1343
+Meld 975 249
+AddHeap 33397
+ExtractMin 974
+AddHeap 36533
+getMin 649
+Insert 780 45787
+getMin 347
+Meld 854 871
+getMin 616
+Insert 455 58217
+AddHeap 43108
+Meld 965 1369
+Meld 192 1084
+Meld 1161 148
+Meld 614 996
+Insert 1280 10150
+Meld 718 17
+AddHeap 42151
+getMin 237
+getMin 188
+AddHeap 17142
+Insert 576 52477
+Insert 1206 40589
+AddHeap 51332
+AddHeap 27064
+Meld 115 1290
+getMin 722
+Insert 754 55755
+Insert 1165 47755
+Insert 1195 51311
+ExtractMin 947
+getMin 1138
+Insert 408 16067
+ExtractMin 1365
+Insert 407 23470
+getMin 112
+getMin 43
+Meld 1242 35
+Meld 875 608
+getMin 918
+AddHeap 32530
+Meld 572 1137
+Insert 1112 40407
+getMin 1251
+getMin 653
+ExtractMin 534
+AddHeap 45414
+getMin 1021
+Insert 107 19350
+Meld 470 325
+AddHeap 19539
+AddHeap 14446
+ExtractMin 1107
+getMin 854
+Insert 1242 10670
+AddHeap 32759
+getMin 985
+ExtractMin 624
+Meld 150 107
+ExtractMin 681
+AddHeap 49579
+AddHeap 34076
+Meld 1214 422
+getMin 23
+ExtractMin 913
+AddHeap 38648
+getMin 841
+AddHeap 25671
+getMin 188
+AddHeap 44173
+Meld 442 670
+Meld 899 365
+Meld 715 254
+ExtractMin 1101
+AddHeap 53586
+Meld 1094 290
+ExtractMin 318
+ExtractMin 681
+Insert 400 41379
+AddHeap 35269
+AddHeap 17808
+Meld 703 1370
+AddHeap 19608
+ExtractMin 860
+ExtractMin 855
+Meld 916 331
+AddHeap 46302
+AddHeap 8296
+ExtractMin 366
+getMin 1067
+getMin 183
+Meld 1243 831
+Meld 171 125
+getMin 1367
+Meld 1342 604
+Meld 1204 478
+Insert 340 43764
+AddHeap 13961
+getMin 1349
+Insert 568 41959
+getMin 7
+AddHeap 45893
+ExtractMin 816
+AddHeap 3633
+Insert 1308 40882
+Insert 475 12038
+getMin 855
+Meld 468 1147
+AddHeap 17665
+Insert 1255 41908
+ExtractMin 721
+Insert 662 25888
+Insert 1230 19036
+Insert 1273 45234
+AddHeap 35233
+getMin 87
+AddHeap 53600
+Insert 290 34846
+Meld 316 1259
+getMin 787
+Insert 955 24066
+getMin 522
+AddHeap 33253
+Insert 1354 20329
+ExtractMin 134
+Meld 238 1391
+getMin 371
+AddHeap 42697
+ExtractMin 402
+ExtractMin 975
+ExtractMin 1249
+AddHeap 35324
+Insert 326 40775
+Insert 429 33702
+ExtractMin 601
+AddHeap 62178
+Insert 889 27099
+Insert 358 31563
+AddHeap 8562
+Insert 382 17123
+getMin 768
+Meld 817 978
+Insert 102 33676
+Insert 902 2361
+Insert 144 42137
+getMin 116
+AddHeap 48682
+ExtractMin 10
+Meld 1393 1284
+getMin 1148
+ExtractMin 1078
+Insert 302 29042
+Meld 349 650
+getMin 1258
+Insert 477 20738
+Meld 0 824
+Insert 245 52492
+AddHeap 5591
+AddHeap 40272
+Insert 750 32010
+getMin 43
+AddHeap 22669
+getMin 1087
+getMin 738
+getMin 468
+ExtractMin 474
+getMin 1029
+Insert 726 44642
+AddHeap 8840
+ExtractMin 1267
+Insert 357 25158
+getMin 621
+getMin 381
+Meld 1231 1291
+getMin 152
+ExtractMin 1274
+Meld 848 659
+AddHeap 35674
+getMin 173
+Insert 271 61178
+Meld 444 294
+Insert 821 11558
+getMin 1146
+AddHeap 34676
+AddHeap 31163
+AddHeap 33580
+ExtractMin 1306
+Insert 3 30916
+Meld 1186 921
+getMin 499
+Insert 1306 21663
+AddHeap 13663
+AddHeap 14719
+Insert 94 41321
+Meld 626 1338
+getMin 708
+AddHeap 52369
+Meld 571 451
+Insert 1368 29234
+AddHeap 29170
+Meld 537 71
+getMin 1377
+ExtractMin 1326
+Insert 914 9757
+Meld 1116 593
+getMin 893
+Insert 1258 39945
+ExtractMin 1031
+AddHeap 55768
+AddHeap 31352
+Insert 684 18091
+Meld 492 189
+Meld 778 1174
+getMin 130
+getMin 622
+AddHeap 3159
+AddHeap 34900
+ExtractMin 565
+AddHeap 44048
+getMin 1072
+AddHeap 34251
+ExtractMin 1123
+AddHeap 24495
+AddHeap 37227
+AddHeap 38273
+ExtractMin 830
+AddHeap 41689
+AddHeap 41612
+ExtractMin 15
+AddHeap 47665
+Meld 508 251
+Meld 131 1184
+getMin 847
+AddHeap 52014
+getMin 869
+Insert 1107 37407
+Insert 779 34024
+getMin 686
+AddHeap 29555
+Meld 953 497
+AddHeap 16925
+Meld 537 282
+getMin 1426
+AddHeap 50332
+Insert 354 29503
+Meld 77 1028
+AddHeap 56351
+Meld 1098 288
+getMin 896
+Insert 397 23950
+ExtractMin 63
+Insert 1093 48041
+Insert 794 34895
+getMin 1131
+Meld 531 982
+AddHeap 35978
+getMin 1188
+AddHeap 30484
+getMin 107
+ExtractMin 1167
+Meld 1203 771
+ExtractMin 648
+Insert 683 24856
+ExtractMin 45
+AddHeap 46817
+AddHeap 32092
+Insert 558 41255
+getMin 415
+getMin 60
+ExtractMin 972
+AddHeap 23113
+Insert 1036 47489
+getMin 1398
+AddHeap 53569
+getMin 111
+ExtractMin 1428
+Meld 309 1059
+AddHeap 52496
+ExtractMin 737
+ExtractMin 1031
+Insert 1228 44128
+Insert 224 42670
+Insert 937 41367
+Insert 873 32618
+Insert 8 36063
+AddHeap 49434
+AddHeap 38210
+Insert 522 17513
+AddHeap 25647
+getMin 605
+Insert 304 53851
+ExtractMin 912
+Meld 1288 357
+AddHeap 51364
+Meld 28 1425
+Meld 759 94
+getMin 1224
+Meld 1084 421
+Meld 1081 1262
+AddHeap 12055
+ExtractMin 1242
+AddHeap 48784
+Meld 1224 441
+Meld 371 343
+AddHeap 36334
+Meld 754 459
+Insert 322 42495
+getMin 464
+Insert 61 21206
+AddHeap 11467
+Insert 689 30598
+ExtractMin 402
+Meld 239 382
+Insert 1222 49174
+ExtractMin 915
+AddHeap 36682
+Insert 640 19837
+ExtractMin 1427
+Insert 1322 36529
+AddHeap 26058
+Meld 188 1187
+getMin 803
+getMin 1373
+Insert 456 12778
+getMin 593
+Insert 1186 27907
+getMin 163
+getMin 1439
+Meld 516 899
+AddHeap 46127
+getMin 503
+Meld 69 659
+Meld 1136 683
+ExtractMin 232
+Meld 834 867
+getMin 1023
+getMin 458
+AddHeap 19455
+Insert 114 58229
+getMin 824
+Insert 661 40454
+Insert 1230 38827
+getMin 413
+Meld 1420 801
+ExtractMin 742
+AddHeap 57678
+AddHeap 16900
+getMin 548
+getMin 1313
+AddHeap 19033
+ExtractMin 1302
+AddHeap 27875
+Meld 963 1217
+ExtractMin 1404
+Insert 1365 34841
+getMin 1192
+AddHeap 14555
+Insert 873 12809
+Insert 757 51009
+AddHeap 47880
+getMin 1227
+ExtractMin 62
+Meld 1134 178
+getMin 1142
+Meld 611 716
+getMin 893
+AddHeap 45191
+Insert 353 20300
+Insert 1334 34389
+Insert 543 40580
+ExtractMin 54
+Meld 182 1025
+getMin 949
+Insert 962 36716
+Meld 271 1316
+ExtractMin 1416
+Insert 1284 48428
+getMin 161
+Insert 1350 21494
+AddHeap 26424
+getMin 565
+AddHeap 53744
+ExtractMin 1213
+getMin 504
+Meld 79 294
+AddHeap 27428
+Meld 1276 241
+AddHeap 6623
+getMin 1134
+getMin 83
+getMin 1359
+Insert 1071 32764
+AddHeap 42750
+getMin 1169
+getMin 922
+AddHeap 36765
+AddHeap 36632
+getMin 1247
+Meld 714 570
+ExtractMin 188
+ExtractMin 762
+getMin 937
+ExtractMin 15
+Meld 429 232
+Insert 932 46247
+ExtractMin 1405
+Insert 715 38279
+Meld 1106 429
+getMin 354
+ExtractMin 1154
+ExtractMin 564
+Insert 812 33481
+getMin 864
+Meld 901 1270
+ExtractMin 1066
+getMin 1378
+getMin 523
+Meld 607 160
+ExtractMin 1465
+AddHeap 47044
+getMin 806
+getMin 387
+AddHeap 30101
+ExtractMin 1412
+AddHeap 35613
+ExtractMin 696
+Meld 356 697
+getMin 1353
+Insert 946 12974
+Meld 76 6
+Insert 1154 34496
+Insert 199 32115
+Meld 265 927
+Meld 246 1275
+Meld 1362 475
+getMin 1001
+Meld 480 768
+Insert 520 40825
+getMin 880
+getMin 663
+Meld 1362 227
+getMin 1443
+Meld 1315 1080
+Insert 504 37763
+Insert 968 17401
+Meld 1345 964
+ExtractMin 397
+getMin 457
+ExtractMin 1235
+AddHeap 45423
+Insert 1269 19001
+AddHeap 38734
+AddHeap 33133
+AddHeap 20482
+Meld 718 1367
+Meld 413 543
+Meld 129 954
+getMin 227
+Insert 1133 15180
+Meld 1388 824
+Insert 1458 40348
+Meld 1325 607
+ExtractMin 427
+Meld 907 780
+AddHeap 37701
+AddHeap 31661
+Meld 660 443
+getMin 928
+Meld 1186 1449
+getMin 561
+getMin 188
+getMin 1335
+getMin 571
+AddHeap 9536
+Meld 1305 1068
+ExtractMin 1124
+getMin 988
+Meld 745 528
+AddHeap 29048
+Meld 1342 603
+getMin 1000
+Meld 867 1349
+Meld 636 867
+ExtractMin 304
+getMin 944
+getMin 603
+Meld 1393 838
+Insert 737 53817
+Insert 331 39824
+getMin 1372
+Meld 1118 1171
+AddHeap 41666
+AddHeap 39568
+Insert 429 38062
+ExtractMin 944
+AddHeap 32541
+Meld 282 1351
+AddHeap 41263
+Meld 459 1157
+getMin 1004
+AddHeap 13549
+getMin 157
+AddHeap 16178
+Insert 1419 13622
+Meld 820 288
+Insert 1050 50833
+Insert 669 31300
+Meld 1274 1157
+getMin 699
+ExtractMin 1163
+getMin 594
+ExtractMin 180
+getMin 835
+Insert 483 50077
+getMin 829
+getMin 130
+getMin 164
+getMin 187
+Insert 534 49845
+AddHeap 9486
+Meld 579 1288
+Insert 235 14966
+Meld 535 1140
+Insert 1122 36952
+AddHeap 30447
+AddHeap 26773
+Insert 1121 43346
+getMin 363
+AddHeap 33872
+Insert 260 45848
+AddHeap 10410
+Meld 603 599
+AddHeap 20696
+Insert 1245 37564
+AddHeap 51681
+Meld 973 567
+AddHeap 33010
+Insert 1092 30966
+Insert 497 28686
+AddHeap 26391
+AddHeap 32147
+AddHeap 27800
+Meld 1014 1311
+AddHeap 46429
+Insert 1472 34631
+Insert 328 60643
+getMin 337
+AddHeap 55983
+getMin 1035
+AddHeap 33951
+Insert 1140 8894
+Insert 152 56165
+getMin 389
+Insert 44 33643
+Insert 688 28767
+Insert 1469 41117
+Meld 1231 466
+Meld 1400 172
+getMin 811
+Insert 273 55763
+getMin 912
+Insert 973 50672
+Insert 1479 16408
+Insert 1485 20330
+ExtractMin 284
+ExtractMin 923
+ExtractMin 662
+getMin 1096
+getMin 1303
+Insert 990 50798
+Meld 1299 869
+getMin 1493
+ExtractMin 512
+getMin 1240
+Meld 284 831
+AddHeap 58671
+ExtractMin 267
+Insert 1160 32398
+getMin 898
+AddHeap 40035
+AddHeap 54307
+getMin 1268
+AddHeap 29887
+AddHeap 31685
+AddHeap 39761
+Meld 252 434
+Insert 224 47865
+AddHeap 35206
+AddHeap 44525
+Insert 1063 36215
+getMin 1289
+ExtractMin 968
+AddHeap 22824
+AddHeap 49650
+Insert 836 54403
+Insert 677 40936
+Meld 908 1501
+Insert 1249 17140
+Meld 433 349
+Insert 282 18564
+AddHeap 18778
+Insert 127 18013
+AddHeap 14786
+getMin 1422
+AddHeap 60598
+getMin 1466
+getMin 746
+Meld 1372 1221
+Meld 1157 968
+AddHeap 36332
+Insert 1385 22878
+Insert 510 32747
+Meld 844 954
+Insert 637 40968
+getMin 1420
+Meld 588 1264
+AddHeap 40166
+ExtractMin 701
+Insert 529 35843
+Meld 1156 1147
+AddHeap 21545
+Meld 614 481
+Insert 499 9656
+getMin 1334
+ExtractMin 766
+Insert 1384 32502
+Meld 687 47
+AddHeap 44164
+getMin 87
+getMin 1018
+AddHeap 40884
+Meld 1236 944
+Meld 527 530
+Meld 1413 316
+Meld 1423 737
+Insert 1177 28446
+getMin 1477
+getMin 379
+ExtractMin 1070
+Insert 822 24222
+getMin 1041
+AddHeap 12892
+AddHeap 27794
+AddHeap 17508
+Insert 1083 39173
+ExtractMin 407
+Insert 117 40645
+AddHeap 49154
+ExtractMin 28
+AddHeap 20314
+getMin 916
+AddHeap 39189
+Insert 1289 31051
+AddHeap 25727
+Meld 671 539
+ExtractMin 1036
+ExtractMin 497
+Meld 603 1444
+getMin 952
+ExtractMin 677
+AddHeap 6846
+getMin 1521
+Meld 454 1511
+AddHeap 35446
+AddHeap 38213
+Insert 902 26586
+Insert 445 41191
+getMin 54
+Meld 372 1324
+ExtractMin 979
+ExtractMin 1244
+AddHeap 28927
+AddHeap 22887
+ExtractMin 1408
+ExtractMin 1276
+Insert 782 24970
+AddHeap 23989
+getMin 544
+AddHeap 14189
+Meld 216 467
+ExtractMin 796
+Insert 0 39653
+AddHeap 9013
+AddHeap 34694
+AddHeap 44594
+AddHeap 16944
+getMin 1401
+Insert 641 28412
+Insert 971 45273
+Insert 677 32461
+Insert 100 21534
+AddHeap 41633
+Insert 138 28425
+Meld 784 830
+getMin 765
+ExtractMin 1284
+ExtractMin 1283
+ExtractMin 1273
+Insert 402 47571
+ExtractMin 194
+Insert 1138 28467
+getMin 1199
+Insert 832 27666
+getMin 1435
+getMin 632
+AddHeap 43472
+Meld 830 625
+AddHeap 35149
+AddHeap 12546
+getMin 1513
+ExtractMin 183
+Insert 1129 21964
+getMin 864
+getMin 597
+AddHeap 34873
+Meld 1081 274
+Insert 58 36469
+getMin 1009
+ExtractMin 28
+Insert 873 34901
+getMin 1416
+getMin 362
+getMin 706
+Meld 695 1134
+AddHeap 13057
+Insert 1500 32446
+AddHeap 21603
+Insert 1492 33107
+Insert 125 37062
+getMin 519
+AddHeap 25983
+Meld 226 279
+ExtractMin 141
+AddHeap 41237
+ExtractMin 429
+Meld 1535 161
+Insert 1250 30373
+AddHeap 14499
+AddHeap 41692
+ExtractMin 413
+Meld 96 81
+Meld 912 773
+Insert 255 32166
+AddHeap 28629
+Meld 1023 73
+AddHeap 33233
+Meld 107 73
+AddHeap 22524
+Meld 1030 8
+Meld 924 332
+AddHeap 25230
+Meld 237 103
+Meld 569 1239
+Meld 630 1092
+getMin 1045
+Meld 637 127
+Meld 1442 231
+Meld 1511 1065
+Insert 537 32264
+ExtractMin 142
+Insert 1393 38080
+ExtractMin 1122
+Insert 459 37241
+Meld 93 559
+Meld 198 1446
+AddHeap 36597
+ExtractMin 740
+Insert 216 5160
+Insert 73 32345
+Insert 1084 15400
+getMin 805
+Meld 81 20
+ExtractMin 245
+getMin 131
+getMin 922
+AddHeap 24789
+Meld 1036 1370
+AddHeap 14942
+AddHeap 18422
+getMin 471
+getMin 511
+ExtractMin 1086
+ExtractMin 1292
+getMin 482
+ExtractMin 442
+Meld 528 1452
+ExtractMin 1006
+getMin 613
+getMin 971
+AddHeap 15982
+Meld 624 100
+Insert 740 44795
+Meld 1177 1305
+AddHeap 26412
+AddHeap 31806
+Meld 317 285
+ExtractMin 1472
+Insert 547 16991
+Meld 759 1528
+getMin 1167
+getMin 457
+getMin 277
+AddHeap 31998
+AddHeap 35946
+Insert 881 43618
+ExtractMin 321
+ExtractMin 1112
+Insert 1199 50814
+getMin 511
+Meld 18 1125
+Meld 1084 919
+AddHeap 46881
+Insert 32 14691
+ExtractMin 124
+getMin 897
+Insert 275 40775
+ExtractMin 1474
+Insert 731 17080
+ExtractMin 1190
+Meld 397 1333
+Meld 606 658
+Insert 206 25180
+AddHeap 11558
+Meld 1143 1128
+ExtractMin 883
+Meld 544 1284
+AddHeap 26988
+Insert 83 20111
+getMin 537
+ExtractMin 551
+ExtractMin 400
+AddHeap 28029
+getMin 616
+ExtractMin 216
+Insert 1139 29064
+getMin 637
+Meld 1164 910
+Meld 132 587
+AddHeap 33575
+ExtractMin 745
+ExtractMin 182
+Insert 310 20227
+ExtractMin 1559
+AddHeap 17313
+Insert 25 17639
+AddHeap 27855
+Insert 221 3715
+getMin 1436
+getMin 356
+ExtractMin 122
+Insert 324 18400
+getMin 48
+ExtractMin 1485
+AddHeap 23126
+Insert 148 21630
+ExtractMin 1462
+Insert 726 35160
+getMin 791
+Meld 463 669
+Insert 269 57710
+Insert 62 34279
+AddHeap 18708
+ExtractMin 1051
+AddHeap 44523
+getMin 1286
+getMin 445
+getMin 1339
+Insert 951 53846
+AddHeap 22641
+Meld 1180 1524
+getMin 1311
+Insert 1545 37484
+AddHeap 52807
+Insert 355 27544
+Insert 601 19012
+Meld 1281 591
+Meld 1470 1038
+Meld 1211 457
+Meld 1563 68
+getMin 339
+Insert 52 38267
+Meld 178 1525
+getMin 703
+Meld 1519 573
+Insert 286 45577
+AddHeap 35079
+AddHeap 41994
+Insert 808 51420
+Insert 103 26339
+Meld 303 374
+AddHeap 47455
+AddHeap 26880
+AddHeap 26232
+Meld 965 924
+AddHeap 18598
+Insert 1237 23249
+Meld 858 712
+Meld 1172 783
+Meld 589 1190
+AddHeap 28360
+Insert 944 35369
+Insert 712 35988
+AddHeap 12416
+Insert 273 37572
+ExtractMin 70
+AddHeap 22730
+Meld 731 134
+ExtractMin 151
+AddHeap 26795
+Insert 1011 45202
+Insert 610 40147
+Insert 1273 24874
+Meld 297 407
+getMin 474
+AddHeap 36470
+Insert 504 28434
+getMin 1308
+getMin 607
+ExtractMin 456
+getMin 927
+AddHeap 35149
+getMin 330
+ExtractMin 1249
+Meld 1557 1001
+ExtractMin 1492
+Meld 232 130
+ExtractMin 93
+AddHeap 37101
+AddHeap 32841
+AddHeap 36767
+Meld 366 1341
+getMin 728
+Insert 898 32765
+AddHeap 22164
+Insert 49 30962
+Insert 836 36209
+AddHeap 47367
+getMin 679
+Meld 979 835
+Meld 682 609
+Insert 1252 32653
+Meld 699 10
+AddHeap 32786
+Insert 1234 26552
+Meld 1330 1200
+ExtractMin 463
+ExtractMin 1140
+getMin 1107
+AddHeap 38052
+getMin 113
+Insert 569 42881
+AddHeap 38668
+ExtractMin 1332
+AddHeap 22593
+Insert 91 51917
+AddHeap 17991
+Insert 76 34521
+Insert 1581 7947
+Insert 588 46357
+Meld 1576 1334
+AddHeap 46014
+ExtractMin 381
+Meld 553 867
+Meld 1437 318
+getMin 868
+ExtractMin 1422
+getMin 719
+AddHeap 19233
+AddHeap 24774
+ExtractMin 367
+AddHeap 32141
+Meld 380 1205
+Insert 1218 24231
+getMin 294
+Meld 1295 726
+getMin 984
+getMin 682
+Meld 1515 1403
+AddHeap 42274
+Insert 632 28777
+getMin 139
+getMin 569
+Insert 1088 34698
+AddHeap 28021
+ExtractMin 255
+AddHeap 25360
+ExtractMin 1168
+getMin 769
+getMin 319
+ExtractMin 1035
+Meld 722 258
+Insert 1433 23152
+AddHeap 49028
+AddHeap 26473
+AddHeap 34717
+AddHeap 35670
+AddHeap 22443
+ExtractMin 16
+getMin 1454
+getMin 1031
+Meld 1304 1295
+Insert 556 36236
+AddHeap 30387
+ExtractMin 803
+getMin 340
+AddHeap 48398
+AddHeap 35658
+ExtractMin 269
+Meld 1480 1357
+Meld 1254 108
+getMin 625
+Meld 3 428
+ExtractMin 239
+AddHeap 58323
+ExtractMin 1119
+ExtractMin 1177
+Insert 905 32907
+ExtractMin 393
+Insert 325 44356
+Meld 1496 36
+AddHeap 28718
+Meld 869 1083
+getMin 280
+getMin 962
+ExtractMin 811
+getMin 1029
+getMin 467
+AddHeap 37298
+Insert 1001 28515
+AddHeap 34584
+getMin 613
+AddHeap 31486
+getMin 383
+ExtractMin 1386
+AddHeap 38066
+Insert 1366 42816
+Meld 1584 576
+AddHeap 20106
+Meld 1494 701
+AddHeap 39194
+Insert 1199 12221
+getMin 270
+Insert 1397 44073
+Meld 1530 518
+ExtractMin 1238
+AddHeap 22758
+Insert 367 55280
+AddHeap 39250
+Insert 1055 38102
+Insert 1607 38250
+Insert 693 40330
+getMin 841
+Insert 505 41933
+ExtractMin 1593
+Insert 772 22283
+Meld 128 611
+Meld 285 1560
+Meld 714 463
+Insert 874 20513
+Meld 98 1310
+AddHeap 35760
+Meld 1254 0
+AddHeap 13413
+Insert 368 26445
+Meld 941 1491
+Meld 952 1080
+Insert 1050 30989
+Meld 473 1516
+ExtractMin 368
+AddHeap 28862
+Insert 1302 38133
+Insert 1320 49812
+getMin 1221
+AddHeap 37135
+Insert 451 53953
+AddHeap 45107
+Insert 150 58834
+ExtractMin 1364
+AddHeap 14971
+getMin 929
+ExtractMin 315
+Insert 986 28301
+ExtractMin 730
+Insert 782 26435
+getMin 1329
+Insert 427 26379
+AddHeap 41538
+getMin 692
+Insert 442 23894
+Insert 914 47401
+Insert 16 28942
+Insert 721 40221
+getMin 1315
+Meld 1336 1097
+ExtractMin 1314
+Meld 1139 374
+Insert 143 45104
+AddHeap 31780
+Insert 633 21723
+AddHeap 20245
+Meld 633 268
+Meld 1257 1211
+Meld 966 1382
+AddHeap 19899
+Insert 865 37003
+getMin 62
+AddHeap 48492
+Meld 86 1534
+Insert 952 50004
+Insert 542 24753
+Insert 709 39693
+Meld 882 370
+getMin 1624
+AddHeap 39992
+Meld 1411 1044
+Insert 1016 33274
+Meld 1283 544
+Meld 56 17
+Meld 157 1029
+ExtractMin 73
+AddHeap 23663
+getMin 1320
+Meld 881 224
+AddHeap 57448
+Meld 1044 923
+getMin 995
+Meld 1212 1147
+getMin 248
+getMin 1168
+Insert 755 26193
+Insert 30 20490
+Meld 279 850
+AddHeap 6092
+AddHeap 34961
+Insert 229 42848
+AddHeap 31313
+Meld 60 945
+AddHeap 58238
+AddHeap 20290
+AddHeap 43514
+Meld 1612 200
+ExtractMin 266
+ExtractMin 117
+ExtractMin 1407
+Meld 334 354
+getMin 16
+Insert 467 7695
+Insert 621 32045
+Insert 80 9978
+ExtractMin 286
+Meld 657 170
+Meld 453 1101
+Meld 1150 619
+ExtractMin 1087
+ExtractMin 355
+ExtractMin 1443
+ExtractMin 816
+getMin 567
+Meld 1601 1273
+ExtractMin 603
+Meld 372 896
+ExtractMin 971
+AddHeap 28686
+getMin 1401
+Insert 267 29723
+Meld 375 668
+Meld 1480 281
+AddHeap 11225
+Meld 274 844
+Meld 572 583
+AddHeap 58294
+getMin 232
+Meld 1487 409
+getMin 853
+getMin 837
+ExtractMin 1635
+getMin 1035
+Meld 602 708
+AddHeap 15794
+AddHeap 25728
+Insert 1296 54321
+Insert 460 38799
+Insert 922 32273
+AddHeap 36830
+Meld 135 1297
+Insert 343 9657
+AddHeap 57573
+getMin 910
+Insert 746 25092
+Insert 228 22098
+Meld 1565 1057
+Meld 328 1553
+Insert 199 38260
+AddHeap 33274
+AddHeap 62006
+AddHeap 30667
+getMin 156
+getMin 1132
+getMin 212
+AddHeap 5726
+ExtractMin 524
+AddHeap 13149
+Meld 776 730
+Insert 114 20867
+Insert 803 21483
+Meld 1321 1005
+Meld 439 993
+getMin 802
+Meld 1093 1589
+getMin 69
+Insert 1180 36618
+Meld 747 89
+AddHeap 53258
+getMin 500
+Insert 1199 39931
+getMin 1546
+AddHeap 53322
+getMin 1496
+ExtractMin 331
+AddHeap 35249
+Insert 437 54357
+Insert 408 18188
+Insert 139 41623
+AddHeap 31538
+Insert 76 43522
+Meld 428 1433
+Insert 1520 39473
+AddHeap 9444
+Insert 1032 14068
+getMin 1195
+getMin 718
+Meld 274 850
+Meld 1272 266
+Meld 856 1405
+getMin 1360
+getMin 864
+Insert 657 41660
+Insert 59 45098
+Insert 758 33402
+AddHeap 29180
+ExtractMin 782
+ExtractMin 1591
+Insert 1505 46950
+getMin 933
+Meld 1320 942
+AddHeap 47602
+Meld 406 1587
+Meld 147 660
+Insert 56 34386
+Insert 1124 47185
+ExtractMin 499
+getMin 962
+Insert 1245 44996
+Insert 135 34821
+Insert 184 56603
+AddHeap 21421
+getMin 240
+Insert 258 26655
+AddHeap 9818
+Insert 685 50054
+Meld 50 1425
+Meld 129 33
+getMin 195
+Meld 1314 1233
+Meld 624 1248
+getMin 667
+Insert 988 22449
+Meld 1641 257
+Insert 1078 30709
+AddHeap 32367
+AddHeap 48044
+ExtractMin 1196
+Insert 659 55302
+AddHeap 43394
+getMin 344
+AddHeap 45885
+Meld 973 1407
+getMin 1331
+Meld 8 930
+Insert 1450 37567
+Meld 1347 1439
+ExtractMin 1473
+Meld 1637 429
+Insert 1074 47036
+Meld 1557 1127
+Meld 203 2
+getMin 748
+ExtractMin 1043
+ExtractMin 124
+getMin 921
+Insert 433 29456
+getMin 286
+ExtractMin 494
+Insert 963 22090
+getMin 994
+Meld 1350 782
+Insert 1641 52216
+Insert 1005 10197
+ExtractMin 582
+getMin 132
+getMin 825
+Insert 711 26356
+ExtractMin 1481
+AddHeap 29106
+AddHeap 12848
+Meld 440 557
+Meld 1138 361
+Insert 966 24517
+ExtractMin 712
+Meld 849 743
+Meld 526 86
+Meld 1650 1637
+getMin 1266
+AddHeap 34035
+Meld 1570 323
+getMin 903
+Meld 1216 1497
+ExtractMin 1374
+AddHeap 35988
+Meld 1048 411
+getMin 1309
+getMin 1595
+AddHeap 37922
+getMin 518
+Insert 187 30465
+Insert 532 46910
+Insert 363 61401
+ExtractMin 1049
+getMin 1520
+AddHeap 38885
+Insert 267 55982
+AddHeap 20286
+getMin 1108
+getMin 747
+ExtractMin 1522
+getMin 1646
+Insert 1569 38073
+Meld 1318 1373
+Meld 149 774
+getMin 1430
+AddHeap 16780
+AddHeap 45097
+Insert 541 34101
+Meld 529 1396
+AddHeap 40509
+getMin 81
+Insert 1438 15306
+getMin 990
+Meld 1315 1314
+AddHeap 40187
+getMin 508
+Insert 290 25001
+Insert 673 52662
+Meld 675 1481
+Meld 700 1611
+getMin 437
+Meld 1393 528
+AddHeap 24466
+ExtractMin 1232
+getMin 601
+Meld 1064 634
+AddHeap 15700
+Insert 466 43690
+AddHeap 36880
+AddHeap 16167
+Insert 352 30693
+Meld 1166 337
+getMin 319
+AddHeap 25125
+Insert 778 3047
+getMin 437
+ExtractMin 191
+getMin 194
+Meld 691 297
+ExtractMin 1667
+ExtractMin 1242
+ExtractMin 922
+Meld 1258 661
+Meld 1093 1362
+getMin 300
+Meld 1644 258
+ExtractMin 1278
+AddHeap 23952
+AddHeap 51209
+AddHeap 38153
+Insert 311 32032
+getMin 509
+Insert 942 1952
+ExtractMin 397
+Meld 659 121
+Insert 1480 60015
+ExtractMin 430
+AddHeap 26719
+getMin 835
+Meld 827 55
+Insert 998 55665
+getMin 821
+Meld 1170 1000
+Insert 419 42361
+Insert 310 49896
+Insert 158 28710
+getMin 1206
+Meld 266 1243
+getMin 127
+Insert 641 25918
+Meld 1437 241
+Insert 1478 36743
+Meld 479 732
+getMin 34
+ExtractMin 1226
+Insert 174 46292
+Insert 366 33459
+Insert 1365 55874
+Meld 1541 585
+Meld 1591 1207
+Meld 913 486
+getMin 1643
+Meld 1642 850
+Insert 204 11170
+AddHeap 17885
+Insert 736 60411
+Insert 1637 18287
+Meld 1667 1468
+Meld 410 133
+Meld 1484 225
+Insert 421 55928
+getMin 432
+Insert 372 17808
+AddHeap 30638
+AddHeap 23654
+getMin 322
+ExtractMin 1633
+Insert 1345 36641
+Meld 953 1187
+AddHeap 27961
+Meld 186 473
+Meld 1679 627
+Meld 1107 377
+getMin 494
+Meld 423 784
+getMin 271
+ExtractMin 32
+AddHeap 16454
+getMin 1580
+getMin 1344
+ExtractMin 358
+getMin 246
+getMin 1599
+AddHeap 26126
+getMin 250
+Meld 697 1072
+getMin 180
+Meld 49 1500
+ExtractMin 259
+getMin 661
+ExtractMin 80
+ExtractMin 1640
+AddHeap 8075
+getMin 1199
+ExtractMin 1450
+AddHeap 48020
+Insert 882 47890
+Insert 158 57141
+Insert 187 24070
+Insert 684 30406
+ExtractMin 508
+getMin 643
+ExtractMin 1181
+AddHeap 30017
+Insert 12 38890
+AddHeap 35718
+ExtractMin 362
+Meld 1523 901
+AddHeap 30730
+AddHeap 35054
+Insert 765 41709
+Meld 1392 590
+AddHeap 62972
+Insert 1314 37011
+AddHeap 46058
+Meld 1133 215
+Meld 602 82
+Meld 462 630
+ExtractMin 1664
+ExtractMin 235
+ExtractMin 646
+Meld 493 1063
+Insert 214 32135
+getMin 310
+AddHeap 43093
+Insert 1098 37416
+Insert 1230 30680
+ExtractMin 806
+ExtractMin 242
+AddHeap 34637
+Insert 169 44994
+getMin 1654
+getMin 1151
+Meld 642 198
+Meld 1239 1032
+getMin 852
+AddHeap 47489
+ExtractMin 865
+getMin 1352
+Meld 1222 1323
+Meld 622 1525
+getMin 860
+Insert 1564 51096
+getMin 160
+Meld 1021 1593
+getMin 183
+Insert 926 37375
+Meld 1103 1552
+Meld 976 577
+Insert 431 19540
+getMin 453
+Insert 1591 33802
+AddHeap 33869
+AddHeap 39605
+Insert 275 9708
+Insert 734 25165
+ExtractMin 684
+getMin 1219
+AddHeap 31171
+Insert 1604 50411
+AddHeap 51333
+ExtractMin 561
+Insert 1047 25657
+AddHeap 32493
+Insert 370 41447
+getMin 687
+Insert 198 41713
+Meld 226 1424
+AddHeap 52537
+getMin 691
+getMin 1569
+AddHeap 36734
+Meld 462 1612
+Insert 736 49140
+Insert 1438 19981
+Meld 1027 1087
+Insert 764 38850
+AddHeap 37994
+AddHeap 26377
+Meld 949 200
+Meld 939 1032
+ExtractMin 1399
+getMin 1020
+ExtractMin 524
+AddHeap 28685
+getMin 1134
+AddHeap 25661
+AddHeap 46853
+ExtractMin 1103
+Insert 154 5152
+ExtractMin 278
+getMin 616
+Insert 318 31150
+Meld 649 1524
+Meld 926 1544
+ExtractMin 693
+AddHeap 27470
+Meld 1085 742
+Meld 1628 785
+Meld 672 1222
+getMin 1597
+Meld 539 373
+getMin 1006
+ExtractMin 1614
+Insert 1084 19941
+AddHeap 19753
+getMin 883
+Meld 987 1403
+AddHeap 46292
+getMin 602
+Insert 137 52276
+AddHeap 50760
+Meld 275 755
+getMin 1395
+Insert 1235 17136
+Insert 1437 41617
+ExtractMin 836
+Meld 564 277
+ExtractMin 646
+Insert 1260 18078
+Meld 810 754
+Insert 533 45171
+ExtractMin 949
+getMin 1528
+ExtractMin 1547
+getMin 1113
+ExtractMin 406
+Insert 30 22706
+AddHeap 44950
+ExtractMin 152
+Insert 1664 24230
+getMin 1295
+AddHeap 43843
+ExtractMin 289
+getMin 669
+getMin 1386
+getMin 1480
+getMin 232
+AddHeap 58374
+Insert 99 31909
+Meld 1124 516
+getMin 1637
+AddHeap 32096
+Meld 769 913
+getMin 273
+Insert 1562 51400
+Insert 628 54345
+Insert 130 31478
+getMin 307
+Insert 1208 22396
+Insert 1207 43301
+ExtractMin 736
+Meld 387 1406
+Insert 1713 18389
+getMin 1206
+Insert 861 39555
+AddHeap 34093
+Meld 427 618
+AddHeap 43342
+Insert 660 23260
+getMin 891
+getMin 1167
+Meld 279 1209
+getMin 565
+Insert 1033 35255
+getMin 1687
+getMin 998
+getMin 845
+ExtractMin 1230
+getMin 644
+AddHeap 61965
+AddHeap 48433
+AddHeap 34894
+AddHeap 46962
+getMin 1421
+Meld 1621 1258
+Insert 434 23299
+Insert 783 25863
+Meld 261 1114
+Meld 61 240
+Meld 1031 168
+Meld 379 1021
+getMin 1341
+AddHeap 46035
+Insert 736 24731
+ExtractMin 547
+AddHeap 19277
+ExtractMin 1623
+Insert 1584 24614
+getMin 1125
+AddHeap 39906
+AddHeap 20471
+AddHeap 7775
+Insert 759 43941
+getMin 1302
+Insert 151 36085
+getMin 1703
+AddHeap 52773
+Meld 363 568
+AddHeap 42969
+Insert 1332 18942
+Insert 1460 51033
+AddHeap 18070
+AddHeap 50889
+AddHeap 32047
+ExtractMin 671
+getMin 1321
+getMin 239
+ExtractMin 326
+Insert 1093 30148
+Insert 173 20701
+Meld 561 1227
+AddHeap 58057
+getMin 514
+Insert 1446 19727
+Insert 561 41844
+ExtractMin 1218
+Meld 846 514
+AddHeap 29957
+Insert 1320 48471
+AddHeap 6843
+getMin 1148
+getMin 1417
+AddHeap 38604
+AddHeap 57932
+AddHeap 30194
+AddHeap 54175
+Insert 537 61880
+Insert 189 57710
+getMin 572
+Insert 690 23307
+AddHeap 54603
+AddHeap 19079
+AddHeap 39504
+Meld 364 1236
+Insert 205 36962
+getMin 236
+ExtractMin 370
+AddHeap 23364
+Insert 385 26466
+AddHeap 30360
+getMin 1060
+Insert 607 44250
+Insert 1464 7297
+getMin 387
+Meld 346 286
+Insert 1031 41190
+AddHeap 46456
+Insert 438 12879
+AddHeap 1103
+Meld 640 1271
+Meld 275 479
+ExtractMin 1583
+getMin 1401
+Insert 1739 45516
+Meld 988 1470
+Insert 1615 51355
+AddHeap 20849
+AddHeap 42263
+getMin 390
+AddHeap 23472
+AddHeap 36937
+Insert 1339 34016
+Meld 1012 182
+ExtractMin 1085
+Meld 1339 1066
+AddHeap 13892
+AddHeap 43683
+AddHeap 34606
+Insert 960 51504
+Meld 1265 1651
+AddHeap 2629
+ExtractMin 1476
+Insert 838 23092
+getMin 1170
+ExtractMin 1279
+getMin 655
+ExtractMin 1696
+Meld 1143 1145
+AddHeap 35394
+getMin 1194
+Insert 1470 51112
+AddHeap 18122
+AddHeap 59732
+getMin 1522
+Meld 705 333
+Meld 579 188
+Meld 40 222
+getMin 1200
+getMin 1464
+Insert 163 21755
+getMin 1106
+ExtractMin 1034
+ExtractMin 1139
+ExtractMin 894
+AddHeap 25815
+Meld 724 1466
+getMin 1481
+AddHeap 30297
+Insert 310 24244
+getMin 1476
+getMin 1644
+AddHeap 20913
+AddHeap 49459
+Insert 1276 27519
+AddHeap 20518
+getMin 960
+Meld 1608 734
+Meld 671 722
+ExtractMin 1306
+Meld 978 760
+AddHeap 33240
+Meld 827 456
+Insert 1266 28182
+Meld 617 142
+ExtractMin 213
+Meld 915 1394
+AddHeap 9794
+ExtractMin 64
+AddHeap 43475
+Insert 1298 22405
+Insert 1701 19076
+AddHeap 22118
+getMin 1218
+ExtractMin 1566
+Insert 658 30923
+AddHeap 27500
+getMin 1463
+Meld 323 266
+Insert 365 15099
+Meld 1407 297
+getMin 1287
+Meld 1256 1611
+AddHeap 50962
+AddHeap 49885
+Meld 1488 1202
+Meld 692 1307
+ExtractMin 119
+ExtractMin 1584
+ExtractMin 1647
+Insert 1049 49785
+AddHeap 6674
+ExtractMin 864
+AddHeap 15556
+Insert 421 52053
+ExtractMin 1359
+AddHeap 35730
+getMin 131
+getMin 648
+Meld 466 192
+getMin 1570
+Insert 257 44446
+Meld 784 1191
+AddHeap 22906
+getMin 1529
+Insert 1488 54713
+getMin 1668
+ExtractMin 1186
+AddHeap 38606
+Insert 1292 18475
+getMin 158
+AddHeap 33887
+ExtractMin 648
+Insert 1500 29236
+AddHeap 27072
+ExtractMin 198
+Insert 650 26684
+AddHeap 50900
+Meld 452 1545
+AddHeap 49387
+Insert 936 34208
+AddHeap 52820
+ExtractMin 492
+AddHeap 43370
+getMin 567
+AddHeap 33116
+ExtractMin 673
+AddHeap 39663
+AddHeap 58879
+AddHeap 56436
+AddHeap 32332
+AddHeap 12069
+AddHeap 26442
+getMin 1319
+Meld 745 557
+Meld 15 1294
+ExtractMin 175
+Meld 413 961
+Insert 1294 44059
+Meld 876 1466
+getMin 1557
+Meld 483 1047
+AddHeap 53796
+getMin 400
+AddHeap 29269
+Insert 805 24041
+Insert 731 19545
+Meld 1769 1267
+AddHeap 42495
+ExtractMin 1496
+ExtractMin 1670
+getMin 1265
+ExtractMin 1781
+AddHeap 34669
+Insert 812 32417
+Meld 1443 870
+AddHeap 19487
+Insert 658 25871
+Insert 476 27684
+Insert 593 27833
+ExtractMin 1787
+ExtractMin 988
+ExtractMin 823
+ExtractMin 1375
+getMin 1136
+getMin 47
+getMin 1006
+Insert 997 11312
+Meld 1685 1176
+ExtractMin 1701
+Meld 371 969
+Meld 1145 567
+AddHeap 44326
+Meld 603 327
+Meld 1574 1313
+AddHeap 34960
+Insert 468 34536
+ExtractMin 890
+AddHeap 33301
+Insert 81 46954
+Meld 849 1718
+AddHeap 36679
+AddHeap 19795
+getMin 459
+ExtractMin 1131
+Meld 1091 276
+getMin 1370
+getMin 1046
+AddHeap 23964
+getMin 485
+Meld 1537 777
+getMin 964
+getMin 1453
+getMin 226
+AddHeap 56234
+Meld 1222 1063
+ExtractMin 1192
+ExtractMin 1732
+ExtractMin 62
+AddHeap 18810
+Meld 1767 1255
+AddHeap 25121
+AddHeap 44274
+getMin 1187
+Meld 1694 1598
+ExtractMin 1673
+ExtractMin 178
+AddHeap 9222
+ExtractMin 1634
+ExtractMin 1572
+AddHeap 7006
+Insert 1797 30884
+AddHeap 23704
+Meld 171 1740
+Insert 1608 6701
+Meld 389 780
+ExtractMin 1551
+Insert 1798 51186
+getMin 1250
+AddHeap 30414
+ExtractMin 1591
+Meld 1736 273
+getMin 1580
+ExtractMin 105
+Insert 145 48444
+Meld 1716 1024
+Insert 1220 47347
+Meld 988 774
+getMin 80
+Insert 782 43063
+Meld 12 1631
+Insert 154 20262
+AddHeap 9152
+Meld 1442 42
+getMin 91
+Meld 440 1345
+Insert 1208 13146
+Meld 1067 109
+ExtractMin 718
+ExtractMin 1204
+Insert 125 47314
+AddHeap 24339
+Meld 1103 582
+getMin 1734
+Insert 1501 36761
+Meld 706 455
+Meld 432 1002
+ExtractMin 1294
+getMin 807
+getMin 88
+Meld 309 1559
+Meld 118 624
+Insert 628 19110
+Insert 342 17673
+Meld 1103 187
+Insert 1120 46408
+AddHeap 8075
+Insert 1119 33836
+Insert 703 40135
+getMin 1164
+ExtractMin 1387
+Meld 1179 244
+getMin 1621
+AddHeap 50896
+Insert 282 53928
+AddHeap 53723
+getMin 814
+ExtractMin 1677
+Meld 1667 904
+Meld 404 1270
+Insert 807 33039
+Insert 1126 14217
+AddHeap 26475
+ExtractMin 219
+Meld 1619 77
+ExtractMin 1521
+Meld 1433 866
+ExtractMin 1223
+Insert 340 6385
+Meld 1702 1298
+Meld 308 1710
+AddHeap 55101
+Insert 822 31140
+Meld 1333 1489
+ExtractMin 78
+Meld 383 1259
+Meld 57 1013
+Insert 1006 28722
+Insert 1299 27183
+getMin 1543
+Meld 778 1175
+ExtractMin 14
+ExtractMin 440
+Insert 835 23713
+Insert 1375 32958
+Meld 701 328
+AddHeap 62841
+ExtractMin 1360
+Insert 198 37081
+Meld 1692 1549
+getMin 1779
+AddHeap 48428
+getMin 420
+getMin 1177
+AddHeap 21912
+Meld 1190 320
+Insert 1545 25615
+getMin 1129
+Insert 82 64842
+getMin 1360
+AddHeap 35459
+AddHeap 52716
+Meld 1072 1601
+AddHeap 34164
+getMin 1448
+AddHeap 44936
+AddHeap 6687
+getMin 883
+Insert 1229 49584
+Insert 1752 34490
+Meld 1801 238
+Meld 1229 1442
+AddHeap 23820
+getMin 949
+Meld 634 1017
+Insert 854 59774
+ExtractMin 130
+getMin 391
+Meld 1046 761
+ExtractMin 1337
+getMin 606
+Meld 1300 1821
+Meld 395 1082
+AddHeap 30874
+Meld 1484 1190
+getMin 54
+getMin 340
+AddHeap 34143
+getMin 960
+getMin 332
+Meld 765 1682
+Meld 1322 1639
+Meld 166 961
+AddHeap 39586
+AddHeap 34269
+AddHeap 32826
+ExtractMin 1683
+Insert 1410 31458
+AddHeap 33596
+ExtractMin 889
+AddHeap 17730
+AddHeap 43299
+Meld 1002 837
+getMin 1652
+Insert 1394 59498
+ExtractMin 1300
+ExtractMin 1526
+Insert 1660 12180
+Insert 56 21596
+getMin 1046
+getMin 727
+AddHeap 13123
+Meld 78 1340
+ExtractMin 1390
+AddHeap 31285
+Insert 1797 23741
+ExtractMin 1292
+AddHeap 49445
+ExtractMin 106
+AddHeap 49300
+ExtractMin 1301
+Meld 999 1438
+AddHeap 51414
+AddHeap 37900
+ExtractMin 1779
+getMin 1591
+ExtractMin 416
+Meld 875 576
+Meld 16 518
+getMin 1830
+Meld 987 1189
+Insert 48 26490
+Meld 1418 1432
+ExtractMin 442
+ExtractMin 1144
+getMin 737
+getMin 1350
+AddHeap 37552
+getMin 1471
+getMin 1116
+AddHeap 35822
+getMin 1700
+getMin 51
+Insert 910 15465
+AddHeap 38678
+Meld 371 970
+getMin 546
+Meld 276 91
+ExtractMin 664
+Meld 604 644
+Insert 132 46448
+getMin 178
+AddHeap 32231
+Meld 179 1364
+Insert 675 39591
+ExtractMin 1326
+ExtractMin 1004
+Insert 1671 55178
+AddHeap 59174
+Insert 506 37896
+AddHeap 14711
+AddHeap 13240
+Meld 1824 978
+Insert 100 31055
+Meld 510 1420
+Insert 772 18536
+Insert 752 44001
+Insert 9 56015
+Insert 939 40745
+Insert 1108 38291
+AddHeap 38681
+getMin 529
+AddHeap 28509
+getMin 1054
+Meld 1045 191
+Meld 144 1759
+Insert 134 30742
+getMin 1741
+Meld 1149 34
+Insert 1313 8547
+ExtractMin 1645
+AddHeap 34881
+ExtractMin 555
+getMin 1175
+Meld 1263 390
+getMin 1524
+Insert 1790 30334
+Meld 346 433
+Meld 31 1226
+getMin 1577
+AddHeap 50625
+getMin 203
+Meld 1103 855
+Meld 692 1207
+Meld 811 988
+Insert 54 46358
+AddHeap 55312
+Insert 1806 40533
+ExtractMin 267
+Insert 1623 1536
+getMin 1088
+ExtractMin 1245
+Insert 1092 33321
+Meld 996 237
+getMin 821
+getMin 1084
+Meld 1135 854
+Insert 211 27883
+AddHeap 50252
+AddHeap 3440
+Meld 385 1631
+getMin 1840
+Meld 865 15
+getMin 899
+Meld 791 759
+Insert 737 33746
+Insert 478 17309
+Insert 1770 26615
+AddHeap 9677
+Meld 679 1647
+Insert 657 49043
+AddHeap 43246
+ExtractMin 1414
+getMin 339
+getMin 709
+getMin 1250
+AddHeap 30442
+Meld 1462 413
+Insert 1779 29424
+AddHeap 34647
+Meld 1398 1528
+AddHeap 43047
+AddHeap 36988
+getMin 1015
+AddHeap 39870
+getMin 1137
+Meld 1673 1504
+getMin 1568
+Insert 1155 15755
+Meld 1162 1613
+Meld 931 31
+getMin 1827
+AddHeap 44016
+AddHeap 33809
+getMin 761
+Meld 58 264
+Insert 323 12423
+Meld 1487 1463
+Meld 599 216
+getMin 1178
+AddHeap 52540
+AddHeap 35400
+getMin 15
+Meld 475 73
+ExtractMin 645
+AddHeap 20950
+Insert 1730 31221
+AddHeap 22756
+getMin 1851
+Insert 330 39719
+getMin 204
+getMin 1806
+getMin 890
+Meld 1549 1370
+Insert 175 34457
+Insert 450 30862
+getMin 437
+Meld 1651 798
+AddHeap 32194
+ExtractMin 650
+AddHeap 32269
+getMin 805
+ExtractMin 1185
+Insert 1540 30302
+ExtractMin 987
+ExtractMin 171
+ExtractMin 41
+getMin 1015
+Insert 1749 58392
+getMin 1183
+Insert 907 29117
+Insert 1101 32487
+Insert 393 15020
+getMin 515
+getMin 1158
+Meld 62 1570
+AddHeap 27487
+AddHeap 40664
+AddHeap 30062
+Meld 284 600
+Insert 669 36286
+ExtractMin 847
+Meld 628 1332
+getMin 297
+getMin 475
+AddHeap 40521
+Insert 884 35324
+ExtractMin 173
+AddHeap 47434
+getMin 649
+getMin 179
+AddHeap 28487
+Meld 17 249
+Insert 1835 46090
+Meld 1668 1717
+AddHeap 13366
+Insert 1352 43614
+AddHeap 50304
+AddHeap 43607
+Meld 5 1657
+AddHeap 29906
+AddHeap 48691
+AddHeap 36884
+Insert 531 35630
+Meld 165 204
+ExtractMin 1163
+Meld 1681 1149
+Meld 927 1000
+ExtractMin 1253
+Meld 51 482
+Meld 1165 958
+getMin 729
+ExtractMin 440
+getMin 1797
+AddHeap 48577
+ExtractMin 914
+Meld 685 1307
+getMin 1477
+ExtractMin 752
+AddHeap 29228
+Meld 1615 343
+ExtractMin 1183
+Insert 1037 56728
+AddHeap 13778
+AddHeap 21678
+AddHeap 43082
+Meld 768 1426
+getMin 661
+Meld 1757 1373
+Insert 1663 20623
+Meld 714 1222
+ExtractMin 317
+Insert 1384 32523
+Insert 558 24215
+ExtractMin 888
+ExtractMin 1567
+getMin 396
+ExtractMin 199
+AddHeap 31251
+getMin 88
+AddHeap 36542
+Insert 266 32445
+AddHeap 40585
+Insert 312 25527
+Insert 320 31020
+getMin 841
+Insert 360 49889
+AddHeap 37536
+AddHeap 44944
+AddHeap 38315
+getMin 1347
+getMin 805
+Insert 262 33662
+Meld 315 1509
+AddHeap 25467
+Insert 135 42942
+getMin 1501
+ExtractMin 1196
+Insert 337 49399
+Insert 403 34002
+Meld 1114 1072
+getMin 747
+Meld 297 862
+Insert 1360 55140
+Meld 1075 1516
+ExtractMin 1716
+ExtractMin 749
+AddHeap 49667
+Insert 68 37329
+Meld 209 1720
+Meld 993 499
+getMin 772
+Insert 199 27308
+Meld 456 1113
+ExtractMin 462
+getMin 1324
+Insert 1372 14727
+Meld 342 312
+getMin 372
+Insert 473 44979
+ExtractMin 1679
+getMin 162
+ExtractMin 1283
+Meld 788 1105
+Meld 1244 698
+AddHeap 43345
+AddHeap 58572
+AddHeap 42923
+ExtractMin 24
+ExtractMin 1486
+Insert 766 28193
+Meld 1337 1262
+Insert 1324 30548
+Insert 904 1501
+Meld 1526 1612
+Meld 1848 1359
+ExtractMin 1535
+Insert 922 22719
+getMin 1064
+AddHeap 38257
+AddHeap 43126
+ExtractMin 1195
+getMin 1877
+getMin 1430
+ExtractMin 493
+Insert 1500 12886
+Insert 191 53929
+ExtractMin 898
+Insert 116 28167
+Meld 1178 1353
+Insert 1001 25583
+Insert 387 12108
+ExtractMin 72
+Meld 1172 366
+ExtractMin 920
+Insert 597 11761
+Meld 1833 1777
+Insert 1187 45095
+AddHeap 34410
+getMin 1698
+Meld 1640 1528
+AddHeap 39129
+getMin 740
+AddHeap 20366
+Insert 637 13604
+AddHeap 37231
+Meld 456 1277
+AddHeap 50478
+getMin 1440
+Meld 1597 1817
+getMin 672
+ExtractMin 610
+Insert 997 41718
+AddHeap 22676
+ExtractMin 1502
+getMin 1898
+getMin 850
+getMin 1612
+Insert 652 31062
+AddHeap 18379
+Insert 657 3234
+AddHeap 41717
+getMin 13
+Meld 30 852
+Insert 72 38090
+Meld 671 1689
+AddHeap 50559
+AddHeap 34538
+getMin 309
+Insert 1676 45735
+Meld 1506 1641
+AddHeap 16853
+ExtractMin 787
+ExtractMin 1895
+Meld 91 1697
+ExtractMin 137
+getMin 1699
+Insert 1314 21055
+getMin 1269
+Meld 1452 894
+Meld 1708 613
+AddHeap 48177
+getMin 352
+Meld 394 1815
+AddHeap 39748
+Insert 172 60201
+Insert 341 44853
+getMin 1610
+getMin 1774
+getMin 1018
+AddHeap 19549
+getMin 850
+AddHeap 8824
+Insert 201 37379
+Insert 536 20761
+Meld 807 348
+Insert 635 34835
+Meld 865 694
+ExtractMin 1488
+Meld 1767 371
+ExtractMin 205
+AddHeap 37407
+Meld 921 286
+Insert 1901 22273
+AddHeap 32308
+Insert 1495 29801
+Insert 205 35431
+Insert 1310 44805
+Insert 613 4110
+ExtractMin 1130
+Insert 1189 14948
+AddHeap 21294
+Meld 1151 1431
+Meld 460 615
+AddHeap 26167
+Insert 838 17135
+AddHeap 30874
+Meld 1773 119
+Insert 1471 45277
+Meld 617 1341
+Meld 229 51
+Meld 1290 748
+Meld 526 419
+Insert 45 39796
+AddHeap 40610
+getMin 1639
+getMin 1634
+getMin 267
+getMin 487
+ExtractMin 1906
+getMin 1013
+getMin 1662
+ExtractMin 1841
+Insert 650 14650
+Meld 53 792
+Meld 732 790
+AddHeap 34389
+Meld 96 589
+getMin 1649
+Meld 1441 300
+Meld 1701 419
+AddHeap 35609
+getMin 872
+Insert 1852 20946
+Insert 1576 22582
+Meld 1352 108
+Meld 1772 1905
+getMin 50
+AddHeap 43864
+ExtractMin 895
+Insert 1318 34545
+getMin 30
+getMin 1500
+getMin 558
+AddHeap 40375
+Meld 831 1853
+Meld 632 806
+Meld 1710 1881
+Insert 87 47786
+getMin 1038
+getMin 1576
+getMin 1521
+getMin 1615
+getMin 1609
+getMin 596
+Meld 470 243
+AddHeap 15507
+ExtractMin 1436
+Meld 133 575
+AddHeap 42099
+Insert 1750 30987
+Insert 447 46544
+Meld 1133 98
+Insert 837 44840
+Meld 94 1113
+Insert 1082 24603
+Insert 832 27846
+Meld 1142 228
+Insert 357 34545
+Meld 400 1126
+AddHeap 40392
+ExtractMin 1713
+Meld 983 293
+ExtractMin 1758
+ExtractMin 1730
+AddHeap 62096
+getMin 154
+Meld 1244 1338
+Meld 923 1720
+Insert 145 29164
+getMin 1727
+ExtractMin 92
+AddHeap 30990
+Insert 1260 23964
+getMin 693
+getMin 1138
+Insert 1709 47068
+Insert 1266 22269
+Meld 1414 23
+getMin 1727
+getMin 720
+Meld 1159 1426
+getMin 1173
+ExtractMin 452
+getMin 656
+ExtractMin 1722
+AddHeap 7245
+getMin 1459
+Insert 1377 36152
+Meld 1 1580
+getMin 778
+Meld 580 430
+Meld 520 1611
+ExtractMin 452
+Meld 1540 1541
+ExtractMin 1078
+ExtractMin 1702
+ExtractMin 180
+Insert 1746 42352
+Meld 977 303
+AddHeap 47381
+Meld 272 992
+Meld 1352 806
+ExtractMin 1915
+AddHeap 25732
+Meld 563 627
+Insert 1863 35347
+AddHeap 27429
+AddHeap 44141
+ExtractMin 1860
+Insert 1676 54078
+AddHeap 41157
+getMin 1773
+Insert 39 24859
+Insert 1826 55754
+getMin 1499
+Insert 960 41073
+getMin 1061
+getMin 1723
+Meld 931 254
+getMin 126
+AddHeap 55693
+Meld 628 496
+Insert 484 55284
+Insert 49 56778
+Insert 538 41681
+AddHeap 15639
+Insert 1109 62630
+getMin 754
+Meld 270 801
+Meld 310 935
+Insert 1391 52014
+AddHeap 44036
+Meld 426 127
+Insert 566 38574
+Insert 1021 25680
+getMin 1247
+getMin 552
+getMin 338
+Meld 1345 788
+Meld 1755 192
+getMin 1371
+Meld 814 797
+Insert 63 33901
+Insert 835 44171
+getMin 1220
+Insert 5 26695
+getMin 211
+getMin 1850
+getMin 1396
+AddHeap 15373
+AddHeap 30247
+ExtractMin 155
+Meld 1507 548
+getMin 1197
+AddHeap 24935
+getMin 580
+AddHeap 41108
+Insert 1737 43439
+Meld 184 682
+getMin 1496
+Meld 535 1620
+AddHeap 24896
+getMin 1134
+ExtractMin 521
+AddHeap 15561
+Meld 585 1254
+getMin 375
+AddHeap 47341
+Insert 1150 20195
+Insert 735 43965
+Insert 152 55638
+getMin 192
+getMin 24
+ExtractMin 1917
+getMin 176
+Insert 288 5480
+AddHeap 35516
+AddHeap 44819
+Meld 1447 1587
+Insert 1303 37390
+Insert 890 27590
+AddHeap 25768
+ExtractMin 1802
+Insert 139 16120
+ExtractMin 1586
+Meld 826 1631
+Meld 862 316
+getMin 244
+AddHeap 29699
+AddHeap 26740
+ExtractMin 261
+AddHeap 56217
+Insert 1433 32278
+Insert 655 46215
+AddHeap 31177
+Insert 1247 22292
+getMin 764
+Meld 221 406
+AddHeap 25965
+Meld 1108 274
+Insert 722 26697
+Insert 643 32127
+Meld 1772 428
+Meld 240 1566
+AddHeap 47362
+Insert 945 36144
+Insert 1744 33254
+ExtractMin 1121
+Insert 662 32652
+Insert 383 33175
+Meld 1507 1531
+getMin 1293
+AddHeap 45187
+getMin 1008
+getMin 882
+Insert 737 39166
+Meld 1526 1076
+getMin 933
+Meld 1665 691
+getMin 1086
+Meld 1432 1573
+AddHeap 40813
+AddHeap 26391
+Insert 799 25170
+Meld 1690 1585
+AddHeap 38834
+Meld 1395 1204
+ExtractMin 606
+AddHeap 24778
+Meld 991 625
+ExtractMin 302
+ExtractMin 269
+ExtractMin 997
+AddHeap 35000
+AddHeap 22208
+Meld 184 1587
+Meld 429 517
+AddHeap 40422
+Meld 1374 1352
+Insert 822 43969
+getMin 34
+getMin 472
+ExtractMin 1467
+getMin 135
+AddHeap 27576
+AddHeap 25742
+Meld 909 617
+AddHeap 34739
+AddHeap 35735
+ExtractMin 48
+Insert 1662 13852
+Insert 1025 48457
+getMin 588
+ExtractMin 1811
+Meld 1465 1362
+ExtractMin 1827
+AddHeap 61283
+Meld 1637 32
+AddHeap 33794
+ExtractMin 1220
+Meld 21 785
+ExtractMin 1667
+Meld 1596 877
+Insert 1800 27983
+Insert 293 31500
+AddHeap 57478
+getMin 289
+getMin 119
+AddHeap 54967
+Meld 418 622
+Insert 612 26317
+Insert 285 14352
+Meld 1510 1335
+AddHeap 21808
+getMin 921
+Meld 101 1183
+AddHeap 4904
+Insert 822 37232
+Insert 280 13774
+getMin 291
+AddHeap 44570
+Insert 975 39075
+Insert 1013 32268
+getMin 323
+Insert 1930 42791
+AddHeap 43338
+AddHeap 27350
+getMin 1348
+Meld 600 305
+Meld 1837 1521
+Meld 748 1331
+ExtractMin 1269
+AddHeap 15495
+AddHeap 32392
+AddHeap 33410
+Meld 1890 1733
+ExtractMin 1142
+getMin 249
+Insert 1051 50179
+ExtractMin 1743
+getMin 1154
+Insert 1495 27088
+Meld 538 1730
+Meld 477 647
+Insert 1452 64203
+Insert 1711 25205
+Insert 1894 41477
+Meld 1018 1098
+getMin 1079
+AddHeap 15604
+Insert 1884 22505
+AddHeap 30981
+Insert 1334 13904
+Insert 1003 24868
+AddHeap 53393
+Insert 812 28883
+AddHeap 57207
+Insert 49 11357
+getMin 1047
+ExtractMin 1958
+Meld 446 1973
+Meld 1845 1520
+getMin 1229
+AddHeap 42423
+Insert 946 56807
+getMin 570
+AddHeap 33127
+getMin 928
+AddHeap 50366
+getMin 710
+AddHeap 53555
+Meld 1000 727
+Meld 1255 448
+ExtractMin 18
+AddHeap 50497
+getMin 865
+Insert 694 15512
+ExtractMin 379
+Insert 676 20233
+AddHeap 23231
+ExtractMin 336
+Meld 331 472
+getMin 705
+ExtractMin 1354
+Meld 358 555
+Insert 1866 28464
+Meld 1440 1867
+ExtractMin 769
+getMin 1017
+getMin 1973
+Meld 1110 1908
+AddHeap 36650
+Meld 262 1336
+AddHeap 29589
+AddHeap 46674
+AddHeap 34474
+getMin 835
+Insert 448 48620
+Meld 456 1846
+Meld 1032 1348
+getMin 1000
+Meld 610 1067
+getMin 1745
+AddHeap 48687
+ExtractMin 1864
+Insert 137 35708
+Meld 1483 1759
+getMin 1015
+Meld 251 903
+ExtractMin 1094
+Meld 117 1476
+getMin 1205
+Meld 1834 869
+ExtractMin 1652
+Insert 1696 28546
+getMin 1953
+Meld 800 1698
+Insert 1539 53521
+Insert 313 46832
+Meld 692 1136
+ExtractMin 1527
+Insert 1609 43202
+Insert 590 33225
+ExtractMin 1368
+ExtractMin 1092
+Meld 45 1390
+getMin 899
+Meld 1052 207
+ExtractMin 1578
+Meld 1867 1164
+Meld 48 1198
+getMin 1312
+Insert 345 36084
+Meld 6 1840
+AddHeap 17643
+Meld 134 138
+Insert 1547 40573
+Meld 719 1650
+getMin 77
+Insert 802 16186
+Meld 536 1147
+AddHeap 48703
+AddHeap 33741
+Insert 1177 41268
+AddHeap 36879
+Meld 1721 506
+Insert 1892 58144
+Meld 1612 1835
+getMin 282
+AddHeap 30002
+AddHeap 49342
+getMin 1715
+Meld 488 768
+getMin 1252
+Insert 1310 15709
+AddHeap 57005
+Meld 963 1308
+Meld 1350 600
+AddHeap 48676
+Meld 1576 1023
+Meld 876 966
+AddHeap 44609
+AddHeap 16020
+Insert 95 23832
+AddHeap 28905
+Insert 868 41165
+getMin 1680
+AddHeap 13058
+ExtractMin 898
+Insert 1508 2206
+AddHeap 61467
+Insert 489 24127
+ExtractMin 1715
+Insert 1710 30516
+ExtractMin 1093
+Meld 776 1404
+AddHeap 25303
+getMin 1915
+Insert 6 31665
+ExtractMin 352
+ExtractMin 1956
+getMin 220
+Insert 1684 37373
+Meld 770 1280
+getMin 1875
+AddHeap 6114
+AddHeap 22924
+Insert 771 8391
+Meld 1000 139
+ExtractMin 1728
+Meld 1859 1911
+Meld 1973 477
+getMin 868
+Insert 13 37745
+Insert 1416 20893
+getMin 1446
+Insert 9 58682
+Meld 1433 1860
+Meld 1629 511
+Meld 857 1248
+AddHeap 38466
+ExtractMin 1454
+Insert 1088 42961
+Insert 1593 24645
+Meld 780 1541
+getMin 1681
+Meld 1351 149
+getMin 1389
+ExtractMin 1954
+Insert 814 31454
+Meld 1949 1937
+AddHeap 31536
+Insert 483 26607
+Insert 418 27605
+Meld 1709 636
+Insert 607 24103
+Meld 102 908
+AddHeap 32436
+Meld 1632 193
+Insert 1083 23409
+ExtractMin 1225
+AddHeap 43825
+Meld 218 1200
+Insert 1528 53341
+AddHeap 23125
+AddHeap 48251
+AddHeap 42589
+Meld 161 1608
+getMin 1821
+AddHeap 33701
+Insert 1914 15254
+AddHeap 17711
+Meld 1858 1231
+AddHeap 26568
+getMin 1636
+getMin 1430
+Insert 732 47030
+Meld 2017 1780
+ExtractMin 1934
+Insert 1442 33171
+AddHeap 19214
+Insert 1754 55469
+ExtractMin 1941
+Meld 1106 1623
+Insert 505 31457
+ExtractMin 1626
+ExtractMin 535
+ExtractMin 48
+Meld 70 1013
+Insert 1659 15180
+Insert 1003 29300
+AddHeap 4719
+AddHeap 33513
+ExtractMin 1986
+ExtractMin 1110
+ExtractMin 435
+getMin 281
+getMin 139
+getMin 1921
+Insert 1757 49923
+Meld 841 454
+Insert 1255 29597
+AddHeap 12435
+getMin 322
+ExtractMin 794
+Insert 1519 27324
+getMin 573
+ExtractMin 1102
+ExtractMin 1172
+getMin 534
+AddHeap 13304
+AddHeap 51127
+ExtractMin 1485
+Meld 676 68
+ExtractMin 1325
+Meld 1702 1842
+AddHeap 31721
+getMin 1706
+Meld 1154 454
+getMin 1303
+Insert 1125 23638
+AddHeap 25103
+ExtractMin 1660
+Insert 307 38836
+ExtractMin 1186
+getMin 1000
+getMin 656
+AddHeap 23904
+AddHeap 26676
+getMin 1878
+getMin 1138
+AddHeap 32958
+Insert 1725 30235
+Insert 828 41931
+Insert 746 40369
+ExtractMin 541
+AddHeap 39333
+Meld 1128 48
+ExtractMin 1375
+Insert 637 32521
+Insert 1197 33335
+Meld 1700 1131
+AddHeap 33142
+AddHeap 33578
+Insert 1105 28746
+Insert 1601 57888
+AddHeap 45189
+ExtractMin 905
+Insert 1111 41153
+Meld 1131 1924
+Insert 275 31989
+getMin 321
+Insert 477 24392
+Insert 1799 49085
+Insert 1089 33817
+Meld 399 1142
+getMin 635
+ExtractMin 1266
+AddHeap 49687
+Insert 481 52722
+getMin 215
+Insert 201 48025
+Insert 1035 39387
+getMin 1500
+getMin 1654
+Insert 1371 25790
+ExtractMin 293
+Meld 1333 743
+Insert 717 44908
+getMin 1324
+ExtractMin 405
+Insert 2 15426
+Insert 1120 18571
+ExtractMin 1440
+getMin 1902
+ExtractMin 147
+ExtractMin 1302
+AddHeap 45608
+getMin 721
+getMin 1638
+Insert 341 23990
+Insert 538 3300
+Meld 1772 1592
+Insert 1705 52900
+Meld 1382 879
+Meld 708 1222
+getMin 2003
+getMin 779
+Insert 1832 34668
+Insert 1949 34644
+Meld 1883 568
+Meld 1579 1269
+Insert 982 33888
+getMin 1983
+ExtractMin 1526
+AddHeap 29767
+AddHeap 23449
+Insert 833 46802
+ExtractMin 288
+getMin 64
+Insert 7 10598
+getMin 646
+getMin 949
+getMin 397
+AddHeap 19363
+Meld 1776 130
+Insert 519 44336
+Insert 1162 39912
+Insert 1196 55156
+Insert 1206 31136
+AddHeap 19748
+Meld 105 708
+getMin 429
+Meld 1722 141
+Insert 1871 29394
+AddHeap 23609
+Meld 1922 1510
+Meld 1931 512
+getMin 727
+Insert 1596 40714
+getMin 886
+AddHeap 28160
+ExtractMin 1584
+AddHeap 29916
+getMin 1807
+Meld 1953 1844
+Insert 1579 19237
+AddHeap 29393
+getMin 119
+getMin 966
+Insert 1287 33663
+Insert 902 32889
+getMin 1001
+AddHeap 19870
+ExtractMin 1814
+AddHeap 32725
+Meld 311 1499
+Insert 144 23343
+Meld 1664 1682
+getMin 1257
+AddHeap 27559
+Meld 226 1300
+ExtractMin 1873
+Meld 595 358
+Insert 1326 23269
+AddHeap 21498
+Insert 115 55330
+Meld 611 1352
+Insert 1154 12229
+Meld 239 1944
+Insert 35 29347
+getMin 788
+Meld 72 1044
+Insert 18 16181
+Insert 655 52207
+Meld 124 701
+AddHeap 26974
+ExtractMin 369
+Meld 1181 1216
+getMin 1188
+getMin 1427
+AddHeap 23351
+Insert 1085 1887
+Meld 279 1413
+Insert 1643 37430
+Insert 708 32536
+getMin 403
+Insert 688 43218
+Meld 1398 545
+Meld 338 1876
+AddHeap 37091
+AddHeap 21519
+Insert 402 24967
+Meld 1701 591
+getMin 1958
+Insert 1898 24899
+AddHeap 14217
+Insert 387 41954
+Insert 300 47278
+AddHeap 28005
+Insert 104 38248
+Meld 1876 1090
+Meld 435 1213
+Meld 484 391
+Meld 1181 33
+getMin 160
+Meld 158 1428
+Meld 1276 221
+ExtractMin 1429
+Meld 1963 1707
+ExtractMin 1557
+AddHeap 36453
+AddHeap 37059
+Insert 1691 28413
+ExtractMin 565
+Meld 1079 1132
+Meld 512 267
+getMin 1811
+getMin 1528
+AddHeap 25524
+AddHeap 25449
+getMin 1512
+Meld 865 1524
+Meld 1943 1910
+getMin 1989
+ExtractMin 1940
+Meld 854 2020
+Insert 1875 22374
+Meld 1382 1064
+ExtractMin 1456
+Meld 477 1340
+getMin 1422
+ExtractMin 1459
+Meld 2035 1084
+Meld 1728 1270
+Insert 222 21308
+AddHeap 60241
+Meld 1237 662
+getMin 1018
+Insert 463 32674
+Meld 1112 1054
+Meld 1587 1695
+AddHeap 16222
+getMin 2003
+Insert 443 35269
+Meld 1682 1632
+Meld 1045 62
+Meld 41 445
+Insert 428 7469
+getMin 664
+Meld 1466 1329
+AddHeap 42345
+AddHeap 46817
+AddHeap 50684
+getMin 926
+Insert 351 34635
+ExtractMin 84
+getMin 1673
+AddHeap 53830
+Insert 1437 51554
+Insert 2036 40411
+AddHeap 60001
+ExtractMin 1100
+ExtractMin 1096
+ExtractMin 1932
+AddHeap 29767
+ExtractMin 973
+AddHeap 27681
+ExtractMin 1401
+Insert 855 39445
+getMin 584
+getMin 562
+getMin 1424
+getMin 1264
+ExtractMin 536
+Meld 416 190
+Meld 723 369
+Meld 1073 561
+getMin 124
+Meld 1349 1235
+AddHeap 27901
+getMin 961
+AddHeap 26422
+getMin 770
+getMin 1872
+AddHeap 19259
+getMin 1101
+ExtractMin 831
+AddHeap 37981
+AddHeap 16306
+Insert 207 24305
+Insert 247 18932
+Meld 1352 506
+Insert 918 39767
+getMin 1069
+AddHeap 10904
+Insert 1705 18626
+getMin 93
+getMin 1879
+getMin 2054
+Insert 1583 24006
+AddHeap 43117
+ExtractMin 1896
+AddHeap 52318
+getMin 272
+AddHeap 31655
+AddHeap 46435
+Meld 1962 291
+Insert 1563 22440
+Meld 1490 167
+Meld 207 321
+getMin 1853
+AddHeap 5101
+Insert 1263 36581
+AddHeap 18630
+getMin 1924
+Insert 1125 16467
+Insert 1296 15373
+getMin 2004
+Meld 2018 633
+getMin 1453
+Insert 733 10936
+getMin 1582
+Insert 664 23179
+Insert 1903 37972
+Insert 1519 38485
+Meld 891 1826
+getMin 1331
+AddHeap 42021
+getMin 892
+AddHeap 29549
+Meld 1178 802
+Meld 1351 347
+AddHeap 28562
+ExtractMin 1460
+getMin 486
+Insert 1052 43649
+AddHeap 32343
+Meld 1340 1393
+AddHeap 26526
+getMin 1337
+ExtractMin 1224
+Meld 686 1111
+getMin 1194
+Insert 613 23250
+Meld 91 378
+Meld 2057 944
+Meld 1903 111
+getMin 588
+AddHeap 58947
+AddHeap 32239
+AddHeap 16912
+Meld 520 513
+ExtractMin 1501
+Meld 1168 1329
+Meld 102 1408
+AddHeap 20751
+AddHeap 19913
+Insert 983 19706
+ExtractMin 1950
+getMin 1864
+getMin 1602
+ExtractMin 674
+AddHeap 14942
+AddHeap 26454
+Insert 965 20314
+Insert 1543 3157
+Meld 595 615
+getMin 2087
+Insert 1281 39607
+AddHeap 49399
+AddHeap 8843
+getMin 175
+Insert 1241 41008
+Meld 1120 613
+Insert 1678 46608
+Insert 1162 33820
+ExtractMin 1179
+Insert 333 41684
+getMin 950
+Insert 1345 53114
+Insert 1776 39152
+Insert 804 21485
+ExtractMin 663
+getMin 35
+ExtractMin 1773
+AddHeap 24636
+AddHeap 31666
+ExtractMin 681
+Meld 1760 1885
+AddHeap 37952
+getMin 1634
+AddHeap 9958
+getMin 1414
+Meld 374 1673
+getMin 141
+getMin 528
+AddHeap 24683
+Meld 1739 1974
+getMin 532
+AddHeap 16525
+Meld 23 1919
+getMin 1948
+ExtractMin 1417
+AddHeap 36529
+ExtractMin 1466
+getMin 1216
+ExtractMin 1836
+Meld 1382 460
+AddHeap 11353
+AddHeap 24187
+Insert 2012 30388
+AddHeap 29365
+getMin 1485
+Insert 800 51726
+ExtractMin 1926
+AddHeap 36325
+Meld 1843 1377
+Insert 89 34307
+ExtractMin 874
+Insert 1300 45996
+Insert 147 50627
+AddHeap 29781
+Meld 95 608
+Insert 1022 50877
+Insert 1830 24757
+AddHeap 30753
+ExtractMin 1987
+ExtractMin 1767
+AddHeap 45859
+AddHeap 22758
+AddHeap 47188
+Insert 1917 34729
+getMin 334
+AddHeap 50022
+getMin 1732
+Insert 751 37617
+getMin 1403
+Insert 565 35647
+Meld 1916 57
+AddHeap 55295
+AddHeap 30398
+AddHeap 37370
+AddHeap 28447
+Meld 1753 1917
+getMin 2050
+Meld 241 1903
+AddHeap 34460
+getMin 1256
+Meld 981 1559
+getMin 124
+AddHeap 33779
+Meld 414 698
+AddHeap 36555
+AddHeap 52627
+AddHeap 41241
+ExtractMin 1107
+Insert 603 19525
+Insert 501 32105
+Insert 1844 26359
+AddHeap 24070
+Meld 1307 1995
+AddHeap 25112
+getMin 1254
+ExtractMin 2058
+AddHeap 17894
+Insert 1562 20153
+AddHeap 30448
+AddHeap 2396
+Meld 17 273
+getMin 1972
+Meld 931 932
+Insert 1220 9904
+getMin 552
+Meld 685 109
+ExtractMin 2067
+getMin 1547
+AddHeap 43940
+ExtractMin 2047
+Meld 2019 851
+Meld 1612 986
+getMin 523
+ExtractMin 400
+AddHeap 34009
+Insert 1824 45106
+AddHeap 28370
+AddHeap 45057
+Insert 318 48545
+ExtractMin 189
+AddHeap 59422
+getMin 2083
+Meld 307 806
+getMin 904
+getMin 477
+ExtractMin 799
+getMin 687
+Meld 695 1152
+Meld 109 322
+Meld 915 822
+getMin 2047
+Meld 75 1696
+AddHeap 26465
+getMin 1739
+AddHeap 7663
+Insert 1501 43054
+Insert 1431 62697
+Insert 1145 51269
+ExtractMin 1012
+ExtractMin 1761
+getMin 734
+Meld 271 94
+getMin 1413
+Meld 941 660
+Insert 1300 30796
+Insert 862 36330
+ExtractMin 803
+getMin 283
+ExtractMin 37
+AddHeap 30695
+Meld 403 1383
+Meld 503 720
+getMin 285
+ExtractMin 795
+Meld 1937 1212
+Insert 386 23871
+Insert 1350 31463
+Insert 739 11890
+getMin 1345
+Insert 1866 39528
+Meld 409 757
+ExtractMin 885
+AddHeap 20156
+ExtractMin 93
+getMin 240
+getMin 2051
+Meld 1077 703
+AddHeap 44128
+getMin 457
+getMin 2002
+ExtractMin 427
+Meld 261 1142
+AddHeap 38220
+getMin 1187
+AddHeap 14337
+Insert 435 31964
+Insert 177 32350
+ExtractMin 525
+Insert 552 23933
+Insert 1619 39779
+AddHeap 29107
+ExtractMin 2076
+Insert 1284 27759
+AddHeap 27038
+Insert 268 42742
+getMin 2045
+Meld 1922 1359
+Insert 1646 30559
+AddHeap 43638
+getMin 1777
+Insert 116 22221
+ExtractMin 1032
+ExtractMin 579
+AddHeap 18753
+AddHeap 36234
+getMin 1238
+Meld 1947 1788
+AddHeap 23799
+Insert 387 33187
+ExtractMin 1888
+AddHeap 25046
+ExtractMin 2124
+getMin 277
+getMin 1433
+ExtractMin 1293
+ExtractMin 1042
+ExtractMin 56
+getMin 1010
+getMin 572
+Insert 1375 12494
+getMin 1638
+Meld 1587 1858
+Insert 671 38483
+AddHeap 48303
+Insert 565 38203
+Insert 335 43801
+AddHeap 27440
+getMin 1145
+AddHeap 23366
+Insert 1442 29509
+ExtractMin 849
+getMin 1991
+Meld 1345 106
+getMin 754
+ExtractMin 1752
+ExtractMin 280
+AddHeap 14730
+getMin 260
+getMin 1205
+Meld 1705 559
+AddHeap 31643
+AddHeap 15555
+Insert 2130 50980
+Insert 1003 28398
+Insert 1412 22593
+Insert 946 42447
+AddHeap 35106
+AddHeap 26140
+AddHeap 42015
+ExtractMin 1400
+Insert 1980 43022
+Insert 1581 22469
+AddHeap 44897
+Insert 2088 28696
+Meld 204 548
+AddHeap 39368
+AddHeap 23921
+AddHeap 37061
+Insert 687 18959
+ExtractMin 117
+ExtractMin 431
+AddHeap 52465
+getMin 1128
+Insert 798 40881
+ExtractMin 387
+ExtractMin 1557
+ExtractMin 1296
+Insert 1231 27534
+AddHeap 42024
+ExtractMin 1865
+Meld 529 1785
+AddHeap 23515
+ExtractMin 1242
+getMin 1864
+Insert 532 28246
+ExtractMin 917
+getMin 1046
+getMin 1280
+ExtractMin 60
+ExtractMin 387
+ExtractMin 311
+AddHeap 28926
+Meld 62 1060
+Insert 1652 20588
+getMin 1376
+AddHeap 25290
+Meld 1842 659
+Insert 1588 2389
+getMin 1038
+Insert 1243 14062
+AddHeap 53078
+Insert 1160 24167
+Insert 973 51452
+getMin 413
+AddHeap 29167
+getMin 1004
+AddHeap 28835
+AddHeap 15172
+ExtractMin 1129
+Meld 1381 709
+getMin 1227
+getMin 221
+Meld 629 407
+Meld 1234 130
+AddHeap 32917
+Meld 1838 13
+Meld 1980 750
+Meld 2152 651
+Insert 1366 20492
+Meld 998 563
+Insert 1728 41666
+Meld 573 803
+Meld 1592 1110
+Meld 1187 1413
+getMin 375
+getMin 1063
+AddHeap 44333
+getMin 1414
+Meld 1793 1287
+getMin 1696
+ExtractMin 1576
+getMin 1782
+AddHeap 25717
+Meld 1610 930
+getMin 2106
+AddHeap 31805
+getMin 158
+Insert 95 44948
+AddHeap 48860
+getMin 266
+getMin 1036
+Insert 1730 35041
+getMin 44
+Insert 923 29946
+ExtractMin 489
+Meld 1325 2011
+Insert 1087 50205
+Insert 290 34270
+AddHeap 13557
+getMin 1574
+getMin 1303
+AddHeap 35086
+Meld 105 658
+Insert 1735 34849
+getMin 1803
+ExtractMin 1247
+AddHeap 28491
+AddHeap 24393
+getMin 505
+AddHeap 11919
+Meld 1791 623
+Insert 1557 58527
+getMin 22
+Meld 543 623
+Insert 1885 59563
+getMin 719
+Insert 816 37416
+Insert 1207 37699
+getMin 1410
+ExtractMin 466
+Insert 1429 28851
+ExtractMin 1936
+AddHeap 52889
+Meld 312 18
+getMin 1542
+getMin 727
+getMin 797
+ExtractMin 2049
+Meld 507 59
+Meld 1015 1649
+Insert 1001 28261
+Meld 849 666
+Meld 184 2060
+Meld 215 1609
+getMin 1069
+Meld 1558 35
+Meld 1614 1061
+Meld 852 1114
+Insert 721 31356
+Insert 1839 58956
+ExtractMin 1324
+Insert 1961 59719
+getMin 1286
+ExtractMin 1016
+ExtractMin 637
+Meld 1175 1238
+AddHeap 27265
+Insert 1873 23049
+AddHeap 40375
+ExtractMin 6
+getMin 831
+getMin 1977
+ExtractMin 2012
+Meld 1831 1060
+getMin 730
+getMin 2174
+getMin 820
+AddHeap 50611
+AddHeap 22373
+getMin 763
+AddHeap 58516
+AddHeap 37987
+ExtractMin 1089
+Meld 538 1792
+Insert 787 38768
+getMin 229
+getMin 33
+getMin 410
+Insert 2 33568
+AddHeap 16402
+getMin 1482
+AddHeap 46228
+Insert 400 40861
+Meld 763 331
+Meld 1874 1415
+Meld 2087 550
+AddHeap 38040
+AddHeap 32861
+ExtractMin 1822
+getMin 568
+Meld 1861 1225
+getMin 1397
+ExtractMin 1676
+getMin 2105
+Insert 1401 52807
+getMin 1056
+getMin 432
+Insert 1194 15598
+ExtractMin 83
+Insert 435 15237
+AddHeap 35586
+Meld 1339 1745
+Meld 1140 2028
+Meld 299 2115
+Insert 1610 42753
+Insert 1630 35701
+AddHeap 25083
+Meld 2148 1029
+Meld 1785 534
+AddHeap 51937
+AddHeap 50345
+Meld 439 934
+Insert 705 31798
+Insert 97 52069
+AddHeap 35737
+getMin 778
+ExtractMin 1106
+getMin 323
+AddHeap 35724
+ExtractMin 632
+ExtractMin 942
+ExtractMin 214
+Meld 656 1680
+AddHeap 22966
+Meld 2065 1847
+AddHeap 28854
+Insert 18 37867
+Insert 862 36991
+Insert 1108 38221
+ExtractMin 1133
+AddHeap 19527
+getMin 2170
+getMin 1046
+ExtractMin 11
+getMin 431
+Meld 2022 1756
+getMin 1915
+Insert 721 46381
+ExtractMin 916
+Insert 1446 32031
+Insert 1531 43515
+AddHeap 49616
+ExtractMin 1658
+Meld 1163 2031
+Insert 845 18410
+getMin 26
+getMin 1816
+Meld 548 1114
+ExtractMin 1484
+ExtractMin 1365
+getMin 1101
+Meld 1851 98
+Insert 1084 42837
+getMin 1085
+Meld 500 2150
+Meld 2187 1336
+Meld 1484 90
+Insert 837 37558
+Insert 735 10541
+getMin 1640
+Meld 803 1137
+getMin 75
+getMin 958
+AddHeap 31235
+AddHeap 37534
+getMin 1918
+Insert 86 17491
+getMin 274
+getMin 1198
+AddHeap 15216
+ExtractMin 1494
+Insert 1700 41629
+getMin 1100
+Insert 249 55425
+AddHeap 38056
+ExtractMin 1856
+AddHeap 55205
+ExtractMin 424
+AddHeap 52387
+getMin 400
+Meld 995 79
+ExtractMin 1172
+Insert 2099 28652
+Insert 418 27688
+ExtractMin 2128
+getMin 1772
+Meld 744 601
+Insert 155 38155
+Insert 1296 44373
+getMin 678
+Insert 1586 43567
+ExtractMin 1803
+AddHeap 35869
+Meld 966 850
+Insert 1434 18492
+Meld 1017 1220
+AddHeap 29278
+getMin 2115
+getMin 605
+Meld 1792 1023
+AddHeap 33309
+Insert 1209 17928
+Insert 1608 24811
+Meld 1117 1577
+getMin 1775
+Meld 1068 1478
+Meld 1494 925
+Insert 2086 11527
+Insert 1638 56225
+getMin 1172
+Insert 1545 32940
+getMin 873
+getMin 1994
+Insert 1602 56784
+AddHeap 16622
+Meld 407 1214
+AddHeap 8356
+ExtractMin 360
+getMin 1914
+Meld 985 1441
+Meld 430 745
+Insert 1193 8659
+Insert 647 31527
+getMin 1154
+Meld 396 835
+getMin 70
+AddHeap 41065
+Meld 1966 1019
+Meld 251 1210
+AddHeap 19956
+AddHeap 43613
+ExtractMin 1543
+getMin 1968
+getMin 1590
+ExtractMin 1887
+Meld 492 1448
+Meld 676 960
+Insert 1936 30841
+Meld 79 1147
+Meld 1905 2139
+getMin 1669
+Insert 1886 22997
+Meld 562 1319
+AddHeap 56570
+AddHeap 37307
+AddHeap 20954
+Meld 1310 961
+AddHeap 27530
+Insert 1571 42753
+Insert 502 23345
+Meld 1972 775
+ExtractMin 118
+ExtractMin 2089
+getMin 136
+getMin 1736
+Insert 1039 36617
+Insert 1274 41130
+Meld 1004 1762
+getMin 208
+Meld 1076 1288
+AddHeap 34804
+Insert 2093 33615
+Meld 1949 920
+Insert 1186 51186
+ExtractMin 2066
+Meld 1832 1743
+AddHeap 50467
+Meld 1841 1416
+getMin 1226
+ExtractMin 753
+AddHeap 32521
+Insert 138 42322
+AddHeap 52402
+getMin 1062
+getMin 1607
+ExtractMin 2072
+Meld 412 393
+getMin 1029
+getMin 23
+Insert 242 21251
+getMin 436
+getMin 2111
+Insert 643 23337
+Meld 369 1586
+Insert 637 30827
+Insert 1838 27932
+Meld 1649 1410
+AddHeap 25091
+Insert 454 41403
+getMin 1104
+Insert 706 23621
+Insert 963 36893
+ExtractMin 2137
+AddHeap 48736
+AddHeap 25534
+AddHeap 19406
+Insert 312 39429
+Insert 1261 46508
+AddHeap 51364
+getMin 1571
+getMin 363
+AddHeap 53928
+getMin 1884
+Meld 1822 1248
+Meld 688 11
+AddHeap 49973
+Insert 334 18542
+AddHeap 44666
+Insert 1242 50188
+Insert 2017 31049
+getMin 476
+AddHeap 29422
+Insert 1706 20825
+AddHeap 27323
+getMin 117
+getMin 1303
+getMin 215
+getMin 922
+Insert 1771 59677
+AddHeap 44437
+AddHeap 22354
+Meld 2104 935
+ExtractMin 89
+Meld 1527 890
+Insert 1407 10957
+AddHeap 41267
+Meld 1780 1034
+AddHeap 36484
+Meld 1251 1975
+Meld 1178 1364
+ExtractMin 2196
+Insert 421 44369
+getMin 665
+AddHeap 20193
+Meld 1428 1117
+Meld 102 1161
+Insert 1637 41318
+Insert 317 30612
+Meld 381 1547
+getMin 1732
+getMin 116
+Insert 34 35378
+Meld 299 1353
+getMin 734
+AddHeap 21383
+getMin 1983
+AddHeap 58143
+ExtractMin 1741
+getMin 1639
+getMin 1011
+AddHeap 32078
+AddHeap 34531
+AddHeap 22931
+Meld 846 1917
+AddHeap 44089
+Insert 1621 32129
+ExtractMin 1068
+Meld 1453 1965
+getMin 378
+getMin 1070
+Meld 1556 628
+Insert 603 25476
+Meld 1151 1990
+Insert 1213 16334
+Meld 409 900
+Insert 867 36467
+getMin 2056
+Meld 1546 777
+Insert 2136 50353
+Insert 1312 21602
+getMin 948
+Meld 1825 1352
+AddHeap 28592
+Meld 458 1332
+Meld 2218 1726
+getMin 1225
+Meld 1 1996
+getMin 954
+AddHeap 51889
+getMin 475
+AddHeap 50305
+Insert 1704 28070
+AddHeap 28963
+Meld 1197 1260
+ExtractMin 1398
+Insert 1311 54707
+Insert 1780 35255
+AddHeap 26793
+Insert 1030 40927
+AddHeap 34109
+AddHeap 32577
+getMin 2110
+getMin 878
+Insert 51 52766
+AddHeap 38319
+ExtractMin 1118
+Meld 181 102
+getMin 2077
+Meld 752 219
+Meld 800 1556
+getMin 1570
+getMin 1795
+Insert 2096 36392
+Insert 832 12256
+AddHeap 21654
+Meld 1362 1674
+Meld 2146 1555
+Meld 1817 652
+getMin 785
+Meld 1607 720
+AddHeap 34052
+Insert 57 46655
+Meld 2005 443
+Insert 1300 46344
+getMin 1445
+getMin 534
+getMin 1193
+Meld 1861 1258
+AddHeap 34105
+AddHeap 39838
+AddHeap 21938
+ExtractMin 1750
+AddHeap 38139
+getMin 554
+getMin 1764
+getMin 717
+AddHeap 54649
+Meld 924 1791
+AddHeap 50206
+Meld 1633 1390
+Meld 1246 1542
+getMin 2086
+Insert 1029 37367
+Insert 414 10587
+Insert 1430 43602
+ExtractMin 857
+Insert 1004 15822
+Insert 1161 20739
+AddHeap 32971
+Insert 2244 55401
+Meld 2197 663
+Meld 2194 765
+Meld 1766 302
+getMin 287
+Meld 351 195
+Insert 1911 12963
+ExtractMin 1692
+getMin 1134
+Meld 1402 295
+Insert 78 45730
+Insert 1411 15591
+ExtractMin 1935
+getMin 1430
+getMin 1484
+Meld 509 1164
+Meld 1340 24
+Meld 213 2129
+Meld 1958 1288
+getMin 43
+Insert 1324 53367
+Insert 422 34565
+AddHeap 25668
+getMin 443
+Insert 781 34921
+AddHeap 25931
+AddHeap 37919
+AddHeap 27927
+getMin 455
+Insert 1284 48988
+getMin 2017
+AddHeap 11722
+getMin 955
+Meld 192 1702
+Insert 2191 56718
+getMin 2151
+Insert 1196 26411
+AddHeap 23633
+Insert 1614 49388
+Meld 701 2243
+ExtractMin 2074
+ExtractMin 1804
+AddHeap 37054
+ExtractMin 199
+Meld 433 668
+Insert 740 43843
+Insert 235 46875
+getMin 2153
+Insert 1042 32273
+ExtractMin 1366
+Insert 331 22893
+Insert 1657 36907
+getMin 897
+AddHeap 26965
+AddHeap 34260
+getMin 278
+ExtractMin 626
+AddHeap 12899
+ExtractMin 352
+getMin 2204
+getMin 1061
+Meld 1957 1447
+AddHeap 43907
+ExtractMin 708
+Meld 243 31
+getMin 2050
+ExtractMin 136
+AddHeap 48467
+Insert 578 22460
+Insert 257 6808
+getMin 2261
+Meld 676 278
+Meld 1682 1837
+AddHeap 31679
+AddHeap 39142
+Insert 420 20369
+AddHeap 28276
+getMin 1997
+ExtractMin 340
+ExtractMin 27
+getMin 2161
+getMin 508
+Insert 1776 15342
+getMin 891
+Meld 1000 38
+AddHeap 51125
+Insert 1523 25673
+Insert 817 36939
+Insert 1584 28247
+ExtractMin 664
+Meld 1777 309
+Meld 953 509
+Meld 1660 1612
+AddHeap 20873
+Meld 1617 1333
+AddHeap 28265
+getMin 100
+Meld 1371 1407
+Insert 558 23995
+Meld 1058 1857
+AddHeap 18120
+ExtractMin 2130
+Meld 1981 112
+Insert 784 15877
+getMin 503
+Meld 32 839
+getMin 2164
+Meld 346 1419
+Meld 1137 2109
+AddHeap 46084
+Insert 1318 39825
+Meld 895 1727
+AddHeap 50164
+ExtractMin 538
+getMin 1158
+AddHeap 47501
+getMin 2098
+Meld 2150 691
+getMin 433
+getMin 1549
+Insert 1661 22863
+getMin 974
+getMin 2121
+Meld 2166 50
+Meld 1118 955
+AddHeap 22162
+getMin 1858
+Meld 1426 1275
+getMin 1185
+getMin 282
+Meld 1851 444
+getMin 2040
+Insert 1558 23320
+getMin 142
+getMin 640
+Insert 714 39945
+ExtractMin 1993
+ExtractMin 2224
+ExtractMin 1952
+Meld 1258 1288
+Insert 792 18761
+getMin 311
+Meld 1089 1704
+AddHeap 29338
+getMin 782
+Meld 1797 2147
+getMin 2098
+AddHeap 29516
+AddHeap 39067
+Insert 1217 41452
+getMin 455
+Insert 2106 30633
+Insert 2171 46314
+ExtractMin 1327
+Insert 205 26862
+AddHeap 28588
+Meld 1728 1165
+Meld 1937 576
+AddHeap 30765
+Meld 1021 1893
+Insert 867 31454
+AddHeap 23448
+Meld 408 300
+AddHeap 35215
+getMin 1881
+getMin 1487
+Insert 871 47430
+AddHeap 32373
+Meld 1062 2172
+ExtractMin 152
+getMin 2073
+AddHeap 34857
+Meld 376 1644
+Insert 2018 30918
+AddHeap 24221
+AddHeap 31229
+Insert 1580 42978
+ExtractMin 701
+Insert 914 13122
+getMin 919
+ExtractMin 538
+Meld 1835 440
+Insert 1610 49854
+Meld 1293 1488
+getMin 2203
+Insert 1812 38765
+AddHeap 41248
+getMin 1785
+Insert 1200 31998
+Meld 585 1051
+Meld 335 153
+ExtractMin 1999
+Meld 2155 1521
+getMin 338
+AddHeap 19409
+Insert 771 18021
+AddHeap 13556
+getMin 1913
+Meld 2030 577
+getMin 1380
+Insert 1831 22091
+AddHeap 42712
+getMin 538
+ExtractMin 340
+Meld 291 628
+getMin 1986
+AddHeap 46360
+Meld 2126 2260
+getMin 286
+Insert 864 13802
+Insert 1441 27893
+Insert 706 3720
+Insert 1807 7357
+getMin 1317
+getMin 1782
+Insert 1237 23081
+Insert 1623 37495
+ExtractMin 1622
+getMin 553
+AddHeap 37625
+Meld 2004 918
+Insert 1086 13298
+ExtractMin 537
+Meld 1916 67
+getMin 96
+ExtractMin 873
+Insert 179 26945
+Meld 267 1643
+Meld 237 703
+getMin 1872
+ExtractMin 1711
+AddHeap 24561
+Meld 1355 589
+Insert 1803 46124
+Insert 1249 33886
+getMin 1453
+Meld 911 114
+Meld 706 140
+Insert 283 43005
+Meld 1537 528
+AddHeap 38305
+AddHeap 44038
+Insert 547 32267
+getMin 1435
+AddHeap 16232
+AddHeap 38421
+ExtractMin 2032
+Meld 713 605
+Insert 2036 38147
+Meld 172 1004
+ExtractMin 2272
+AddHeap 13719
+AddHeap 43450
+Insert 1739 33767
+Meld 657 2194
+getMin 102
+Meld 674 762
+Meld 2185 526
+AddHeap 11087
+Meld 839 787
+AddHeap 13765
+AddHeap 37852
+getMin 1942
+AddHeap 38224
+getMin 856
+AddHeap 18013
+getMin 1589
+Meld 548 2139
+Insert 1105 19979
+Meld 1010 1805
+Insert 1882 52980
+AddHeap 20377
+Insert 1307 41191
+Insert 2172 46025
+getMin 577
+getMin 311
+AddHeap 36634
+AddHeap 27530
+getMin 757
+ExtractMin 1835
+ExtractMin 2104
+AddHeap 38411
+ExtractMin 247
+getMin 222
+Insert 1046 12435
+Insert 263 27628
+AddHeap 29501
+ExtractMin 985
+Meld 2222 1126
+Meld 738 1252
+getMin 435
+Insert 1555 24232
+Insert 937 36365
+getMin 62
+Meld 1187 1755
+Meld 824 701
+Insert 1195 28664
+Meld 1972 2201
+AddHeap 22193
+AddHeap 19558
+AddHeap 37507
+Meld 777 2055
+Meld 225 563
+AddHeap 56702
+Insert 1074 19576
+getMin 2035
+getMin 42
+Insert 1453 36367
+AddHeap 21136
+Meld 1328 1904
+AddHeap 46455
+Meld 587 1587
+Insert 438 19687
+getMin 1899
+AddHeap 49774
+getMin 1902
+Insert 2247 58011
+getMin 1310
+AddHeap 28485
+Meld 1861 422
+Insert 2261 56118
+ExtractMin 409
+Insert 2057 46950
+Insert 507 55421
+AddHeap 41021
+getMin 491
+ExtractMin 2238
+Insert 1554 24112
+AddHeap 32844
+ExtractMin 2225
+getMin 1108
+Meld 841 363
+AddHeap 26983
+getMin 89
+Insert 170 38330
+getMin 42
+Insert 1731 31706
+AddHeap 54241
+Insert 1153 41366
+ExtractMin 1224
+Insert 175 46296
+getMin 2258
+Insert 119 15893
+AddHeap 15289
+Meld 673 468
+ExtractMin 2231
+Insert 908 33630
+Insert 1482 40909
+Insert 2207 54854
+Insert 2118 46617
+Insert 1590 24309
+Meld 84 1044
+ExtractMin 1293
+AddHeap 29425
+AddHeap 19194
+Insert 1266 40275
+AddHeap 35066
+Insert 682 24557
+ExtractMin 1101
+getMin 1539
+AddHeap 26847
+getMin 891
+ExtractMin 1268
+Meld 874 1872
+AddHeap 38655
+ExtractMin 1531
+ExtractMin 805
+Meld 2064 1082
+ExtractMin 2279
+AddHeap 33351
+Insert 783 59658
+ExtractMin 161
+AddHeap 40906
+AddHeap 21659
+Insert 1509 60102
+getMin 156
+ExtractMin 1256
+Insert 423 33799
+ExtractMin 2045
+Insert 1079 40215
+Meld 1175 799
+Insert 167 50044
+Insert 1512 14620
+AddHeap 13674
+AddHeap 22432
+Meld 53 2193
+Meld 939 1467
+Insert 617 49420
+Meld 229 2054
+Insert 1583 15484
+Meld 1856 2278
+AddHeap 22973
+Meld 1738 1409
+Insert 1988 53363
+Meld 1327 2174
+AddHeap 39945
+getMin 1572
+getMin 2149
+ExtractMin 63
+AddHeap 22822
+Insert 221 35899
+AddHeap 30561
+ExtractMin 2208
+ExtractMin 1637
+AddHeap 48864
+AddHeap 39009
+Meld 1916 1402
+AddHeap 37255
+ExtractMin 2008
+Meld 1955 599
+getMin 1221
+getMin 830
+Meld 2166 1157
+Meld 1410 1330
+Meld 1081 2080
+AddHeap 38861
+ExtractMin 464
+getMin 2339
+Meld 1969 2044
+ExtractMin 408
+ExtractMin 97
+AddHeap 21381
+ExtractMin 1194
+AddHeap 32509
+ExtractMin 1897
+AddHeap 36483
+AddHeap 58127
+getMin 1008
+Insert 1487 44986
+Meld 2005 1120
+Meld 1992 2154
+getMin 512
+Meld 112 1788
+AddHeap 40106
+Insert 1074 5272
+getMin 406
+AddHeap 60005
+AddHeap 24972
+Meld 2156 1518
+Meld 76 1248
+Meld 586 1926
+Meld 2216 1061
+Meld 714 2179
+AddHeap 21603
+AddHeap 38695
+AddHeap 26891
+Insert 599 40472
+getMin 1620
+Insert 14 37012
+getMin 689
+Meld 1962 560
+AddHeap 20641
+AddHeap 21459
+Insert 121 31609
+AddHeap 41094
+ExtractMin 1922
+Meld 1387 1318
+getMin 2138
+Insert 1473 36357
+AddHeap 45318
+getMin 585
+AddHeap 22799
+Insert 1305 25403
+getMin 348
+getMin 2161
+Meld 468 761
+AddHeap 31780
+Insert 908 49220
+Meld 2309 661
+AddHeap 57962
+getMin 690
+Meld 1071 285
+Insert 1867 22351
+Insert 2049 38414
+AddHeap 55133
+ExtractMin 764
+Meld 1971 1584
+Meld 1336 1179
+getMin 1713
+Insert 105 8787
+ExtractMin 2207
+getMin 1671
+getMin 317
+getMin 1135
+AddHeap 26886
+AddHeap 14339
+Insert 666 26574
+getMin 1982
+getMin 621
+getMin 566
+AddHeap 22038
+Meld 1967 1938
+getMin 1266
+Meld 437 25
+AddHeap 30253
+Meld 1683 347
+getMin 2276
+Insert 480 28764
+Meld 860 1363
+Insert 1197 5135
+AddHeap 35175
+AddHeap 14652
+Insert 448 39139
+Insert 1041 48246
+Meld 46 478
+getMin 147
+Insert 2136 54715
+ExtractMin 2263
+Insert 1392 50676
+AddHeap 20938
+ExtractMin 912
+getMin 1080
+getMin 1804
+ExtractMin 1808
+Insert 1789 45328
+Insert 2213 20640
+Insert 1322 13510
+Insert 1213 52288
+AddHeap 27557
+Meld 2236 2072
+AddHeap 19519
+AddHeap 34176
+getMin 1991
+Insert 115 41834
+ExtractMin 256
+Meld 2278 428
+Meld 1477 134
+Insert 450 26395
+getMin 2161
+ExtractMin 1412
+Insert 719 25153
+AddHeap 62782
+Insert 241 48557
+Insert 631 46267
+Meld 85 95
+AddHeap 31952
+getMin 325
+getMin 1811
+Insert 491 28668
+AddHeap 35798
+ExtractMin 86
+Insert 1804 1901
+AddHeap 20548
+Insert 2371 58507
+getMin 2086
+ExtractMin 147
+Insert 1959 32794
+Insert 1542 44339
+Meld 1105 2051
+ExtractMin 1247
+AddHeap 17868
+Meld 89 1825
+Insert 1785 53024
+getMin 2114
+Meld 1690 2281
+Meld 1111 1853
+ExtractMin 250
+Meld 592 1206
+Insert 1998 61523
+getMin 1160
+Meld 1740 1996
+Insert 619 46055
+getMin 1165
+ExtractMin 2250
+ExtractMin 1603
+ExtractMin 2336
+ExtractMin 1619
+Meld 2213 960
+Insert 365 47722
+Meld 2312 567
+AddHeap 5622
+Insert 1574 28793
+Insert 298 25603
+getMin 1276
+ExtractMin 1962
+AddHeap 29632
+ExtractMin 1263
+Meld 458 1663
+Insert 609 39772
+Insert 524 45639
+Insert 549 42592
+ExtractMin 2275
+Insert 2149 31779
+getMin 2298
+getMin 448
+Insert 1392 9158
+ExtractMin 1011
+getMin 900
+Meld 428 2352
+Insert 1039 25806
+Insert 1821 31429
+getMin 969
+ExtractMin 1317
+Meld 1995 426
+Insert 622 53423
+Meld 1652 597
+Insert 2216 17832
+Meld 1896 2290
+Meld 2078 848
+Meld 374 877
+AddHeap 47912
+Insert 54 25056
+Insert 1838 21832
+Insert 2042 2386
+AddHeap 49673
+ExtractMin 2349
+Meld 2192 1504
+AddHeap 59474
+Insert 1191 13649
+getMin 2090
+AddHeap 46383
+getMin 414
+Meld 2075 780
+AddHeap 29415
+Insert 1627 27430
+AddHeap 47225
+Meld 1497 961
+Meld 2201 478
+Meld 1212 597
+Meld 198 1958
+Insert 2380 28009
+AddHeap 33953
+ExtractMin 1830
+Meld 1200 1429
+Insert 1793 49832
+AddHeap 43903
+Meld 40 1912
+getMin 74
+Meld 1607 879
+ExtractMin 1817
+ExtractMin 2062
+Insert 780 25830
+AddHeap 47847
+getMin 1745
+Insert 289 47753
+AddHeap 20478
+Insert 2320 10217
+AddHeap 39758
+getMin 2243
+Insert 945 21221
+AddHeap 18806
+Meld 1844 531
+Meld 1095 247
+Insert 206 25548
+getMin 827
+Meld 1946 1958
+getMin 1238
+Insert 1544 57605
+AddHeap 47923
+AddHeap 31691
+AddHeap 28093
+Insert 1447 29802
+Meld 726 1774
+ExtractMin 261
+getMin 969
+ExtractMin 908
+Meld 2376 1360
+ExtractMin 2038
+AddHeap 50527
+Meld 1984 310
+Meld 2171 1225
+getMin 492
+getMin 1157
+Meld 753 68
+Insert 1643 29296
+getMin 762
+getMin 2361
+AddHeap 10563
+ExtractMin 1721
+AddHeap 27201
+getMin 2378
+getMin 1997
+getMin 629
+Insert 1582 12160
+Meld 1529 1303
+Insert 1163 30488
+getMin 24
+AddHeap 31314
+Insert 1221 29817
+Meld 2360 280
+Insert 1358 20670
+ExtractMin 868
+Meld 1161 423
+getMin 23
+Insert 603 1537
+AddHeap 40077
+Meld 1031 1149
+Meld 822 1744
+Meld 1660 1662
+AddHeap 51399
+Insert 1352 37044
+Insert 1949 46434
+Meld 143 799
+getMin 573
+Insert 931 45021
+ExtractMin 260
+Insert 1060 14435
+Insert 762 35401
+Meld 1974 854
+Insert 2202 49750
+AddHeap 11743
+Meld 456 1473
+Meld 1188 194
+AddHeap 17854
+Meld 889 1874
+Insert 2387 52193
+Insert 166 34186
+getMin 468
+AddHeap 32480
+Meld 1461 1860
+Insert 746 23400
+Insert 1900 41891
+Insert 505 29877
+Meld 1847 1178
+Meld 1345 1104
+AddHeap 32620
+Insert 1935 16794
+Insert 1033 47869
+ExtractMin 1156
+AddHeap 13909
+ExtractMin 5
+getMin 1636
+AddHeap 43287
+AddHeap 52038
+getMin 1626
+Meld 568 1956
+getMin 20
+Insert 1470 14458
+getMin 1556
+AddHeap 32686
+Insert 985 37232
+Meld 2203 1446
+Meld 194 739
+Insert 1733 46261
+Insert 1467 53962
+getMin 1519
+Meld 548 2138
+AddHeap 47404
+AddHeap 45386
+getMin 1208
+getMin 1251
+Meld 272 1597
+Meld 1237 1686
+Meld 200 1209
+Meld 1038 2162
+Insert 1676 46250
+AddHeap 46232
+Meld 2331 1794
+Meld 287 548
+AddHeap 4568
+Insert 631 51601
+AddHeap 35206
+getMin 1304
+Meld 2369 525
+AddHeap 27295
+Insert 1641 30869
+Meld 2375 2014
+AddHeap 41781
+ExtractMin 1378
+Meld 1755 97
+Insert 664 35800
+AddHeap 23483
+ExtractMin 330
+AddHeap 58437
+Meld 1878 1816
+ExtractMin 2393
+Meld 1756 2044
+Insert 2208 38669
+AddHeap 28284
+Meld 1335 840
+Meld 1255 108
+AddHeap 34831
+Insert 1319 45548
+Meld 561 830
+AddHeap 20131
+Meld 1375 1592
+Meld 1346 200
+ExtractMin 2034
+getMin 2130
+Insert 968 26795
+getMin 1631
+AddHeap 33877
+Meld 1968 377
+getMin 1234
+Meld 1546 980
+Meld 969 62
+ExtractMin 2338
+Insert 399 30831
+Meld 790 281
+Insert 1122 8483
+getMin 329
+Insert 970 50328
+AddHeap 27371
+Insert 1531 43192
+Meld 1610 2393
+Meld 368 1148
+Insert 548 35722
+ExtractMin 1286
+Insert 1820 39484
+ExtractMin 1969
+ExtractMin 705
+Meld 501 1480
+AddHeap 52466
+AddHeap 58860
+getMin 1031
+Insert 1039 35768
+getMin 1699
+Insert 2149 38961
+getMin 1021
+AddHeap 11429
+Insert 92 27368
+AddHeap 45368
+AddHeap 15098
+ExtractMin 80
+ExtractMin 2404
+AddHeap 34962
+Insert 338 21767
+getMin 2347
+Meld 263 1108
+Insert 2075 18517
+ExtractMin 2413
+AddHeap 37817
+ExtractMin 2256
+Insert 284 46960
+ExtractMin 916
+Meld 708 486
+Insert 1469 61763
+Meld 442 194
+Insert 676 27952
+ExtractMin 1230
+Insert 2289 51362
+ExtractMin 2370
+Meld 335 2283
+ExtractMin 766
+AddHeap 15979
+Insert 586 46865
+Meld 2282 500
+Insert 1695 35057
+ExtractMin 1600
+getMin 1042
+Insert 1841 54519
+ExtractMin 1384
+Meld 269 1273
+getMin 1525
+ExtractMin 5
+Insert 446 15965
+ExtractMin 2366
+Meld 677 2243
+getMin 1248
+Meld 520 1257
+Insert 1010 38481
+getMin 253
+AddHeap 35566
+Insert 2369 57099
+Insert 2355 37122
+getMin 115
+Insert 2283 56215
+Meld 263 333
+Meld 1650 1190
+getMin 534
+getMin 1642
+ExtractMin 732
+getMin 632
+Meld 1190 118
+ExtractMin 2039
+AddHeap 49058
+Meld 394 2313
+Insert 1275 10864
+getMin 354
+Meld 173 2061
+AddHeap 41268
+Meld 208 295
+getMin 349
+Meld 962 841
+AddHeap 25333
+getMin 1324
+ExtractMin 673
+ExtractMin 2355
+Insert 1331 40282
+AddHeap 25177
+getMin 106
+Meld 1035 436
+Meld 2415 2227
+Insert 1041 34512
+getMin 1948
+ExtractMin 2093
+getMin 822
+getMin 1615
+AddHeap 54626
+ExtractMin 1193
+Insert 1631 51661
+getMin 1391
+getMin 2387
+getMin 920
+Meld 1614 761
+getMin 1306
+Meld 486 2154
+Insert 1159 31219
+Insert 620 30440
+getMin 1485
+Insert 1411 40918
+Meld 2160 790
+Insert 891 43258
+Insert 2432 53817
+Insert 528 36537
+AddHeap 27792
+getMin 615
+getMin 1083
+Meld 1735 1352
+AddHeap 47468
+Meld 1698 1534
+AddHeap 30858
+Insert 351 7497
+Insert 127 31729
+getMin 1131
+getMin 461
+Meld 938 1051
+Meld 410 451
+Meld 887 2096
+Meld 268 1092
+ExtractMin 2423
+getMin 308
+Insert 1193 50559
+ExtractMin 2369
+Insert 534 17897
+Meld 1452 786
+Insert 58 31316
+ExtractMin 1091
+Meld 1906 2004
+AddHeap 7012
+Insert 2223 51104
+AddHeap 35972
+AddHeap 17443
+Insert 1032 9407
+Insert 558 54415
+AddHeap 41063
+getMin 1967
+getMin 1576
+Meld 1334 440
+ExtractMin 1029
+Insert 421 53950
+Meld 1771 1190
+Insert 1052 22304
+getMin 1453
+ExtractMin 2198
+getMin 680
+ExtractMin 16
+AddHeap 29833
+Insert 114 25550
+ExtractMin 2134
+getMin 1460
+Meld 155 2042
+getMin 57
+getMin 1172
+Meld 1594 1341
+Insert 786 41023
+Meld 339 1295
+Meld 2113 44
+ExtractMin 2323
+AddHeap 4920
+Insert 2081 38206
+ExtractMin 4
+Meld 318 415
+AddHeap 45289
+getMin 836
+getMin 854
+getMin 1014
+ExtractMin 2082
+Insert 2091 32386
+getMin 396
+getMin 91
+AddHeap 33873
+ExtractMin 276
+ExtractMin 1088
+AddHeap 21865
+Insert 594 12470
+getMin 2091
+Meld 1313 1988
+Meld 561 2204
+Meld 830 1306
+AddHeap 44483
+Insert 757 50514
+AddHeap 19730
+ExtractMin 1714
+getMin 2004
+Insert 2017 18932
+Insert 1638 41574
+getMin 364
+Meld 1293 1314
+getMin 1801
+Meld 1505 1126
+ExtractMin 895
+Meld 2139 103
+ExtractMin 2429
+Insert 602 23747
+Meld 1867 1196
+getMin 925
+AddHeap 42433
+Meld 157 1284
+Meld 305 1678
+AddHeap 39522
+Meld 837 52
+AddHeap 25186
+AddHeap 48751
+AddHeap 28836
+getMin 737
+Meld 1297 781
+Insert 442 31642
+getMin 2204
+AddHeap 24075
+Insert 1591 33864
+getMin 1553
+Insert 2360 29000
+getMin 728
