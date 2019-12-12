@@ -3,13 +3,6 @@
 #include "IHeap.h"
 
 template<typename T>
-void swap(T &a, T &b) {
-    T cmp = a;
-    a = b;
-    b = cmp;    
-}
-
-template<typename T>
 class SkewHeap : public IHeap<T> {
 private:
     struct Vertex {
@@ -25,6 +18,13 @@ private:
         }
     };
 
+    template<typename U>
+    static void swap(U &a, U &b) {
+        U c = a;
+        a = b;
+        b = c;
+    }
+    
     Vertex *root = nullptr;
 
     SkewHeap(const T &_key);
@@ -70,7 +70,7 @@ void SkewHeap<T>::merge(SkewHeap<T> &other) {
 
 template<typename T>
 void SkewHeap<T>::merge(IHeap<T> &other) {
-    SkewHeap<T> other_casted = dynamic_cast<SkewHeap<T> &> (other);
+    SkewHeap<T> &other_casted = dynamic_cast<SkewHeap<T> &> (other);
     this->merge(other_casted);
 }
 

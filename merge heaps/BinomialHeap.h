@@ -181,8 +181,9 @@ void BinomialHeap<T>::normalize() {
 
 template<typename T>
 void BinomialHeap<T>::merge(IHeap<T> &other) {
-    BinomialHeap<T> other_casted = dynamic_cast<BinomialHeap<T> &> (other);
+    BinomialHeap<T>& other_casted = dynamic_cast<BinomialHeap<T> &> (other);
     this->merge(other_casted);
+   
 }
 
 template<typename T>

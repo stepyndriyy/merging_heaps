@@ -5,7 +5,7 @@
 template<typename T>
 class TestingEazyHeap : public IHeap<T> {
 private:
-    std::set<T> tree; 
+    std::multiset<T> tree; 
 public:
     TestingEazyHeap() {}
     
@@ -25,7 +25,7 @@ public:
     void merge(TestingEazyHeap<T> &other) {
         while (!other.tree.empty()) {
             tree.insert(*(other.tree.begin()));
-            other.tree.erase(*(other.tree.begin()));
+            other.tree.erase(other.tree.find(*(other.tree.begin())));
         }
     }
 

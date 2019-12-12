@@ -3,13 +3,6 @@
 #include "IHeap.h"
 
 template<typename T>
-void swap(T &a, T &b) {
-    T cmp = a;
-    a = b;
-    b = cmp;    
-}
-
-template<typename T>
 class LeftistHeap : public IHeap<T> {
 private:
     struct Vertex {
@@ -49,6 +42,13 @@ private:
         }
     };
 
+    template<typename U>
+    static void swap(U &a, U &b) {
+        U c = a;
+        a = b;
+        b = c;
+    }
+    
     Vertex *root = nullptr;
 
     LeftistHeap(const T &_key);
@@ -94,7 +94,7 @@ void LeftistHeap<T>::merge(LeftistHeap<T> &other) {
 
 template<typename T>
 void LeftistHeap<T>::merge(IHeap<T> &other) {
-    LeftistHeap<T> other_casted = dynamic_cast<LeftistHeap<T> &> (other);
+    LeftistHeap<T> &other_casted = dynamic_cast<LeftistHeap<T> &> (other);
     this->merge(other_casted);
 }
 
