@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 3.15)
 project(mergeable_heaps)
 
 set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_FLAGS, "-Wall -fsanitize=leak")
 
 # Download and unpack googletest at configure time
 configure_file(CMakeLists.txt.in googletest-download/CMakeLists.txt)
@@ -34,9 +35,6 @@ add_subdirectory(${CMAKE_CURRENT_BINARY_DIR}/googletest-src
 if (CMAKE_VERSION VERSION_LESS 2.8.11)
     include_directories("${gtest_SOURCE_DIR}/include")
 endif()
-
-set(CMAKE_CXX_COMPILER clang++)
-set(CMAKE_CXX_FLAGS, "-Wall -fsanitize=leak")
 
 # Now simply link against gtest or gtest_main as needed. Eg
 include_directories(merge_heaps)
