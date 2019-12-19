@@ -4,6 +4,8 @@ class IHeap {
 private:
        
 public:
+    virtual IHeap() = 0;
+    virtual ~IHeap() = 0;
     virtual void insert(const T &elem) = 0;
     
     virtual T getMin() = 0;

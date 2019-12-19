@@ -144,7 +144,7 @@ float speedTest(char* File, int heap_type, int count) {
     float answer = (float)(clock() - start_time) / CLOCKS_PER_SEC;
     std::fflush(stdin);
     fclose(stdin);
-    return answer;
+        eturn answer;
 }
 
 int main() {   
