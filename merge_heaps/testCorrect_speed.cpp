@@ -19,7 +19,6 @@ struct command {
     command(std::string _t, int n1, int n2) : type(_t), num1(n1), num2(n2) {}
 };
 
-
 template<typename T>
 void testCorrect(std::vector<command> &inp, int count) {
     std::vector<IHeap<int>* > a;
@@ -83,8 +82,8 @@ std::vector<command> generateTest(int size) {
     }
     freopen(str, "r", stdin);
     std::vector<command> commands(size);
-    for (int i = 0; i < size; ++i) {
         std::string type;
+    for (int i = 0; i < size; ++i) {  
         int x, y;
         std::cin >> type;
         if (type == "AddHeap") {
@@ -112,6 +111,7 @@ std::vector<command> generateTest(int size) {
     }
     fclose(stdin);
     remove("input.txt");
+    return commands;
 } 
 
 template<typename T>
@@ -121,7 +121,7 @@ float speedTest(std::vector<command> &inp, int count) {
     int operation_num = 0;
     clock_t start_time;
     start_time = clock();
-    for (int cnt_ = 0; cnt_ < count; ++cnt_) {   
+    for (int i = 0; i < count; ++i) {   
         type = inp[i].type; 
         operation_num++;
         if (type == "AddHeap") {
@@ -156,52 +156,47 @@ float speedTest(std::vector<command> &inp, int count) {
 
 
 class FooTest : public ::testing::Test {
+ public: 
+    std::vector<command> test;
+    int test_num = 100000;
  protected:
-  // You can remove any or all of the following functions if their bodies would
-  // be empty.
-
   FooTest() {
      // You can do set-up work for each test here.
   }
 
   void SetUp() override {
-     // Code here will be called immediately after the constructor (right
-     // before each test).
+      test = generateTest(test_num);
   }
 
   void TearDown() override {
-     // Code here will be called immediately after each test (right
-     // before the destructor).
   }
 
 };
 
+TEST_F(FooTest, correct_Binomial) {
+    testCorrect<BinomialHeap<int> >(test, test_num);
+}
+TEST_F(FooTest, correct_leftist) {
+    testCorrect<LeftistHeap<int> >(test, test_num);
+}
 
-int main() {   
+TEST_F(FooTest, correct_skew) {
+    testCorrect<SkewHeap<int> >(test, test_num);
+}
 
-    char str[10] = {"input.txt"};
-    int n; 
-    std::cin >> n;
-    
+TEST_F(FooTest, speed_Binomial) {
+    float time_ = speedTest<BinomialHeap<int> >(test, test_num);
+}
 
+TEST_F(FooTest, speed_leftist) {
+    float time_ = speedTest<LeftistHeap<int> >(test, test_num);
+}
 
-    int ans1 = testCorrect<BinomialHeap<int> >(str, n);
-    int ans2 = testCorrect<SkewHeap<int> >(str, n );
-    int ans3 = testCorrect<LeftistHeap<int> >(str, n);
-    
-    if (ans1 != ans2 || ans2 != ans3 || ans3 != 0) {
-        std::cout << "not correct\n";
-        std::cout << "Binomial: " << ans1 << '\n';
-        std::cout << "Lefist: " << ans2 << '\n';
-        std::cout << "Skew: " << ans3 << '\n';
-        return 0;
-    }
-    float time1 = speedTest<BinomialHeap<int> >(str, n);
-    float time2 = speedTest<SkewHeap<int> > (str, n);
-    float time3 = speedTest<LeftistHeap<int> >  (str, n);
-    std::cout << "number of tests: " << n << '\n';
-    std::cout << "work time: \n";
-    std::cout << "Binomial: " << time1 << '\n';
-    std::cout << "Lefist: " << time2 << '\n';       
-    std::cout << "Skew: " << time3 << '\n';
+TEST_F(FooTest, speed_skew) {
+    float time_ = speedTest<SkewHeap<int> >(test, test_num);
+}
+
+int main(int argc, char **argv) {
+  ::testing::InitGoogleTest(&argc, argv);
+  return RUN_ALL_TESTS();
 }
