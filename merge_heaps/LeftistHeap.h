@@ -1,5 +1,4 @@
 #pragma once
-#include<iostream>
 #include "BinaryMergeHeap.h"
 
 template<typename T>
