@@ -8,10 +8,9 @@
 #include<ctime>
 #include<string>
 #include <cstdio>
-//#include <stdio.h>
 
-
-int testCorrect(char* File, int heap_type, int count) {
+template<typename T>
+int testCorrect(char* File, int count) {
     std::vector<IHeap<int>* > a;
 
     std::vector<TestingEazyHeap<int> > real;
@@ -24,21 +23,11 @@ int testCorrect(char* File, int heap_type, int count) {
         if (type == "AddHeap") {
             int x; 
             std::cin >> x;
-
-            if (heap_type == 0) {
-                IHeap<int>* next = new BinomialHeap<int>();
-                a.push_back(next);
-            }
-            if (heap_type == 1) {
-                IHeap<int>* next = new LeftistHeap<int>();
-                a.push_back(next);
-            }
-            if (heap_type == 2) {
-                IHeap<int>* next = new SkewHeap<int>();
-                a.push_back(next);
-            }
             
+            IHeap<int>* next = new T();
+            a.push_back(next);
             real.push_back(TestingEazyHeap<int>());
+            
             a.back()->insert(x);
             real.back().insert(x);
         
@@ -94,7 +83,8 @@ void generateTest(char* str, int size) {
     }
 } 
 
-float speedTest(char* File, int heap_type, int count) {
+template<typename T>
+float speedTest(char* File, int count) {
     std::vector<IHeap<int>* > a;
     freopen(File, "r", stdin);
     std::string type;
@@ -106,19 +96,8 @@ float speedTest(char* File, int heap_type, int count) {
         operation_num++;
         if (type == "AddHeap") {
             int x; std::cin >> x;
-
-            if (heap_type == 0) {
-                IHeap<int>* next = new BinomialHeap<int>();
-                a.push_back(next);
-            }
-            if (heap_type == 1) {
-                IHeap<int>* next = new LeftistHeap<int>();
-                a.push_back(next);
-            }
-            if (heap_type == 2) {
-                IHeap<int>* next = new SkewHeap<int>();
-                a.push_back(next);
-            }
+            IHeap<int>* next = new T();
+            a.push_back(next);
             a.back()->insert(x);
         
         }
@@ -144,7 +123,7 @@ float speedTest(char* File, int heap_type, int count) {
     float answer = (float)(clock() - start_time) / CLOCKS_PER_SEC;
     std::fflush(stdin);
     fclose(stdin);
-        eturn answer;
+    return answer;
 }
 
 int main() {   
@@ -155,9 +134,9 @@ int main() {
     generateTest(str, n);
 
 
-    int ans1 = testCorrect(str, 0, n);
-    int ans2 = testCorrect(str, 1, n );
-    int ans3 = testCorrect(str, 2, n);
+    int ans1 = testCorrect<BinomialHeap<int> >(str, n);
+    int ans2 = testCorrect<SkewHeap<int> >(str, n );
+    int ans3 = testCorrect<LeftistHeap<int> >(str, n);
     
     if (ans1 != ans2 || ans2 != ans3 || ans3 != 0) {
         std::cout << "not correct\n";
@@ -166,9 +145,9 @@ int main() {
         std::cout << "Skew: " << ans3 << '\n';
         return 0;
     }
-    float time1 = speedTest(str, 0, n);
-    float time2 = speedTest(str, 1, n);
-    float time3 = speedTest(str, 2, n);
+    float time1 = speedTest<BinomialHeap<int> >(str, n);
+    float time2 = speedTest<SkewHeap<int> > (str, n);
+    float time3 = speedTest<LeftistHeap<int> >  (str, n);
     std::cout << "number of tests: " << n << '\n';
     std::cout << "work time: \n";
     std::cout << "Binomial: " << time1 << '\n';
